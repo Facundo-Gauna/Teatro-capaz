@@ -1,0 +1,1939 @@
+# Teatro CaPaz S.A. — archivo de pagos
+# Campos: id | tipo | origenId | plataforma | medio | importe | estado | fecha | hora | referencia
+P00001|venta|V00001|PagoSeguro (externa)|QR billetera virtual|102400|aprobado|2026-09-05|21:41|PS-EUU3HLEA4S
+P00002|venta|V00002|PagoSeguro (externa)|QR billetera virtual|70400|aprobado|2026-09-30|05:39|PS-TCGUWQP35C
+P00003|venta|V00003|PagoSeguro (externa)|Tarjeta de crédito|76800|aprobado|2026-09-26|01:43|PS-TLN4DCKW98
+P00004|venta|V00004|Boletería|Tarjeta de crédito|46000|aprobado|2026-09-02|12:57|
+P00005|venta|V00005|PagoSeguro (externa)|QR billetera virtual|74250|aprobado|2026-08-24|08:43|PS-4P6KG6E4JP
+P00006|venta|V00006|PagoSeguro (externa)|Tarjeta de débito|63800|aprobado|2026-09-07|07:34|PS-3UZR4DMHXS
+P00007|venta|V00007|Boletería|Tarjeta de crédito|27000|aprobado|2026-08-31|19:02|
+P00008|venta|V00008|PagoSeguro (externa)|Tarjeta de crédito|18000|aprobado|2026-10-05|01:52|PS-2T8EC5674L
+P00009|venta|V00009|PagoSeguro (externa)|QR billetera virtual|176000|aprobado|2026-09-17|10:32|PS-99LWS9KX7M
+P00010|venta|V00010|PagoSeguro (externa)|Tarjeta de crédito|92800|aprobado|2026-10-03|07:30|PS-JZCQAJ5PEZ
+P00011|venta|V00011|Boletería|Efectivo|96000|aprobado|2026-08-07|15:44|
+P00012|venta|V00012|Boletería|Tarjeta de débito|64000|aprobado|2026-09-27|11:08|
+P00013|venta|V00013|Boletería|Tarjeta de crédito|69000|aprobado|2026-08-25|16:05|
+P00014|venta|V00014|PagoSeguro (externa)|Tarjeta de débito|211200|aprobado|2026-08-08|02:53|PS-B5LZGERM52
+P00015|venta|V00015|Boletería|Efectivo|108000|aprobado|2026-09-12|12:01|
+P00016|venta|V00016|PagoSeguro (externa)|Tarjeta de crédito|105600|aprobado|2026-10-06|21:40|PS-S9EFSXWU45
+P00017|venta|V00017|Boletería|Tarjeta de crédito|112500|aprobado|2026-09-19|17:24|
+P00018|venta|V00018|Boletería|Tarjeta de crédito|67500|aprobado|2026-08-26|13:13|
+P00019|venta|V00019|Boletería|Efectivo|67500|aprobado|2026-09-27|16:50|
+P00020|venta|V00020|PagoSeguro (externa)|Tarjeta de débito|86400|aprobado|2026-09-23|16:03|PS-WU8UCXYX3E
+P00021|venta|V00021|PagoSeguro (externa)|Tarjeta de crédito|105600|aprobado|2026-08-24|02:32|PS-6BEQZ6MYAX
+P00022|venta|V00022|PagoSeguro (externa)|Transferencia|89100|aprobado|2026-08-19|14:52|PS-PNNEHVCGJF
+P00023|venta|V00023|PagoSeguro (externa)|QR billetera virtual|73600|aprobado|2026-09-22|08:59|PS-6WH3VSB84T
+P00024|venta|V00024|Boletería|Tarjeta de crédito|92000|aprobado|2026-10-07|10:58|
+P00025|venta|V00025|Boletería|Efectivo|108000|aprobado|2026-09-10|15:37|
+P00026|venta|V00026|Boletería|Tarjeta de débito|56700|aprobado|2026-08-13|10:45|
+P00027|venta|V00027|PagoSeguro (externa)|Tarjeta de débito|59400|aprobado|2026-09-17|03:18|PS-D8QQQ43NXU
+P00028|venta|V00028|Boletería|Tarjeta de débito|69000|aprobado|2026-09-28|14:09|
+P00029|venta|V00029|PagoSeguro (externa)|Tarjeta de crédito|148500|aprobado|2026-10-07|15:08|PS-FQXFYXFCL2
+P00030|venta|V00030|PagoSeguro (externa)|QR billetera virtual|102400|aprobado|2026-08-26|12:14|PS-LSVTYQHZVV
+P00031|venta|V00031|PagoSeguro (externa)|Tarjeta de débito|74250|aprobado|2026-09-19|01:45|PS-4TQQ3SCJY7
+P00032|venta|V00032|PagoSeguro (externa)|Transferencia|36800|aprobado|2026-09-30|01:05|PS-CWFBUPYLX9
+P00033|venta|V00033|PagoSeguro (externa)|Tarjeta de débito|72000|aprobado|2026-09-25|04:13|PS-G4P8GYBMJL
+P00034|venta|V00034|PagoSeguro (externa)|QR billetera virtual|89100|aprobado|2026-09-22|20:07|PS-EDQMAED8QM
+P00035|venta|V00035|PagoSeguro (externa)|Tarjeta de débito|118800|aprobado|2026-09-02|04:19|PS-WAVKTB9976
+P00036|venta|V00036|Boletería|Tarjeta de crédito|69000|aprobado|2026-09-18|10:22|
+P00037|venta|V00037|Boletería|Tarjeta de crédito|87000|aprobado|2026-08-24|18:25|
+P00038|venta|V00038|PagoSeguro (externa)|QR billetera virtual|140800|aprobado|2026-09-08|01:59|PS-XB4FL3UDK4
+P00039|venta|V00039|Boletería|Tarjeta de crédito|54000|aprobado|2026-09-17|19:52|
+P00040|venta|V00040|PagoSeguro (externa)|Transferencia|24750|aprobado|2026-09-25|12:26|PS-U5ZSEK88M9
+P00041|venta|V00041|PagoSeguro (externa)|QR billetera virtual|118800|aprobado|2026-09-14|07:50|PS-DKFB2HS2WQ
+P00042|venta|V00042|PagoSeguro (externa)|Tarjeta de crédito|118800|aprobado|2026-09-21|17:22|PS-DJ6C2S6FDM
+P00043|venta|V00043|Boletería|Tarjeta de débito|46000|aprobado|2026-08-23|21:35|
+P00044|venta|V00044|PagoSeguro (externa)|QR billetera virtual|74250|aprobado|2026-08-25|20:52|PS-3644TSM7U8
+P00045|venta|V00045|PagoSeguro (externa)|QR billetera virtual|126500|aprobado|2026-09-04|11:32|PS-AAQYP6WCUJ
+P00046|venta|V00046|Boletería|Efectivo|46000|aprobado|2026-09-05|16:47|
+P00047|venta|V00047|PagoSeguro (externa)|QR billetera virtual|63800|aprobado|2026-09-03|14:07|PS-GKNJJA2QCG
+P00048|venta|V00048|PagoSeguro (externa)|QR billetera virtual|70400|aprobado|2026-09-29|23:14|PS-CJ7CAMDS4H
+P00049|venta|V00049|PagoSeguro (externa)|Tarjeta de débito|70400|aprobado|2026-10-04|11:29|PS-FXCZWB8HPX
+P00050|venta|V00050|Boletería|Tarjeta de crédito|32000|aprobado|2026-09-22|19:58|
+P00051|venta|V00051|Boletería|Efectivo|87000|aprobado|2026-08-30|18:05|
+P00052|venta|V00052|PagoSeguro (externa)|QR billetera virtual|105600|aprobado|2026-10-01|01:49|PS-Q7JBV3DA8A
+P00053|venta|V00053|PagoSeguro (externa)|Transferencia|29700|aprobado|2026-09-30|03:53|PS-6Z23KXVDZK
+P00054|venta|V00054|Boletería|Efectivo|135000|aprobado|2026-09-30|17:17|
+P00055|venta|V00055|PagoSeguro (externa)|Transferencia|118800|aprobado|2026-08-09|21:47|PS-GRKP2CVSAJ
+P00056|venta|V00056|PagoSeguro (externa)|Transferencia|50600|aprobado|2026-09-12|15:50|PS-UVZ39PRRFS
+P00057|venta|V00057|PagoSeguro (externa)|Transferencia|89100|aprobado|2026-09-03|11:14|PS-QN5SGWYAAS
+P00058|venta|V00058|PagoSeguro (externa)|Transferencia|35200|aprobado|2026-10-04|03:43|PS-CB94T5UH7W
+P00059|venta|V00059|PagoSeguro (externa)|Transferencia|50600|aprobado|2026-09-27|05:17|PS-N64ETE88QW
+P00060|venta|V00060|PagoSeguro (externa)|Transferencia|25600|aprobado|2026-09-15|01:53|PS-3KXWP6TLF5
+P00061|venta|V00061|Boletería|Efectivo|37800|aprobado|2026-08-23|11:05|
+P00062|venta|V00062|PagoSeguro (externa)|QR billetera virtual|51200|aprobado|2026-10-06|21:55|PS-YKZHRY2TZP
+P00063|venta|V00063|Boletería|Tarjeta de débito|174000|aprobado|2026-09-16|19:15|
+P00064|venta|V00064|Boletería|Tarjeta de débito|64000|aprobado|2026-10-06|17:57|
+P00065|venta|V00065|PagoSeguro (externa)|Transferencia|29700|aprobado|2026-09-19|15:39|PS-UGG4LDYL3G
+P00066|venta|V00066|Boletería|Efectivo|92000|aprobado|2026-09-19|17:38|
+P00067|venta|V00067|Boletería|Efectivo|46000|aprobado|2026-09-14|13:47|
+P00068|venta|V00068|PagoSeguro (externa)|Tarjeta de crédito|55200|aprobado|2026-08-14|10:43|PS-PUTQGFRZC7
+P00069|venta|V00069|Boletería|Tarjeta de débito|46000|aprobado|2026-09-26|13:48|
+P00070|venta|V00070|PagoSeguro (externa)|Tarjeta de débito|102400|aprobado|2026-10-05|23:49|PS-USKRDA64W6
+P00071|venta|V00071|PagoSeguro (externa)|Tarjeta de crédito|99000|aprobado|2026-09-22|10:19|PS-5C4W265KPU
+P00072|venta|V00072|PagoSeguro (externa)|QR billetera virtual|127600|aprobado|2026-09-30|13:39|PS-5CYT9VEZH5
+P00073|venta|V00073|PagoSeguro (externa)|Tarjeta de crédito|95700|aprobado|2026-10-03|00:29|PS-U346JTNCRK
+P00074|venta|V00074|Boletería|Efectivo|94500|aprobado|2026-08-06|14:09|
+P00075|venta|V00075|PagoSeguro (externa)|Transferencia|72000|aprobado|2026-09-15|20:11|PS-V4Z6PAZVPZ
+P00076|venta|V00076|PagoSeguro (externa)|Tarjeta de débito|140800|aprobado|2026-10-03|19:03|PS-6M5993X6UP
+P00077|venta|V00077|PagoSeguro (externa)|Transferencia|29700|aprobado|2026-09-19|08:44|PS-83D6AZ99P5
+P00078|venta|V00078|PagoSeguro (externa)|Transferencia|89100|aprobado|2026-09-12|14:55|PS-N7DCRVLK7M
+P00079|venta|V00079|Boletería|Tarjeta de débito|46000|aprobado|2026-10-01|11:20|
+P00080|venta|V00080|Boletería|Tarjeta de crédito|46000|aprobado|2026-09-11|15:36|
+P00081|venta|V00081|PagoSeguro (externa)|QR billetera virtual|76800|aprobado|2026-09-22|23:07|PS-4XDSEB6VJ5
+P00082|venta|V00082|PagoSeguro (externa)|Transferencia|59400|aprobado|2026-09-08|03:21|PS-JVD7JUK2HX
+P00083|venta|V00083|Boletería|Efectivo|22500|aprobado|2026-08-16|14:18|
+P00084|venta|V00084|Boletería|Tarjeta de crédito|32000|aprobado|2026-10-05|15:19|
+P00085|venta|V00085|Boletería|Efectivo|90000|aprobado|2026-09-20|10:27|
+P00086|venta|V00086|PagoSeguro (externa)|Tarjeta de crédito|59400|aprobado|2026-09-13|10:04|PS-WJHRFRM8YZ
+P00087|venta|V00087|Boletería|Tarjeta de crédito|54000|aprobado|2026-08-23|15:58|
+P00088|venta|V00088|Boletería|Efectivo|23000|aprobado|2026-09-03|20:15|
+P00089|venta|V00089|Boletería|Tarjeta de crédito|22400|aprobado|2026-08-19|20:52|
+P00090|venta|V00090|Boletería|Tarjeta de débito|54000|aprobado|2026-10-07|16:05|
+P00091|venta|V00091|Boletería|Tarjeta de débito|108000|aprobado|2026-08-24|16:33|
+P00092|venta|V00092|PagoSeguro (externa)|Transferencia|101200|aprobado|2026-09-24|00:50|PS-VVMBDCKW9Q
+P00093|venta|V00093|PagoSeguro (externa)|Tarjeta de débito|64800|aprobado|2026-09-30|23:32|PS-G3KMNAPH38
+P00094|venta|V00094|Boletería|Tarjeta de débito|23000|aprobado|2026-09-21|10:53|
+P00095|venta|V00095|Boletería|Tarjeta de crédito|54000|aprobado|2026-10-06|10:57|
+P00096|venta|V00096|PagoSeguro (externa)|Tarjeta de crédito|29700|aprobado|2026-09-26|05:39|PS-9MA3KBFW65
+P00097|venta|V00097|PagoSeguro (externa)|Transferencia|55200|aprobado|2026-09-23|19:45|PS-YARZQJEU9Y
+P00098|venta|V00098|PagoSeguro (externa)|Tarjeta de crédito|101200|aprobado|2026-08-24|06:27|PS-6THHSXHKTH
+P00099|venta|V00099|Boletería|Tarjeta de débito|128000|aprobado|2026-09-13|11:19|
+P00100|venta|V00100|PagoSeguro (externa)|QR billetera virtual|92800|aprobado|2026-08-16|11:54|PS-3VMEU8CE54
+P00101|venta|V00101|PagoSeguro (externa)|QR billetera virtual|127600|aprobado|2026-09-04|04:22|PS-5CCAZ6NRSU
+P00102|venta|V00102|Boletería|Tarjeta de crédito|69000|aprobado|2026-08-31|20:47|
+P00103|venta|V00103|PagoSeguro (externa)|Tarjeta de débito|99000|aprobado|2026-08-26|22:32|PS-S4VHVKASB6
+P00104|venta|V00104|Boletería|Efectivo|128000|aprobado|2026-09-29|21:22|
+P00105|venta|V00105|PagoSeguro (externa)|Transferencia|74250|aprobado|2026-09-07|15:07|PS-AEY2VDWPFR
+P00106|venta|V00106|Boletería|Tarjeta de débito|45000|aprobado|2026-08-26|10:16|
+P00107|venta|V00107|PagoSeguro (externa)|QR billetera virtual|140800|aprobado|2026-10-06|09:29|PS-42MJNZATXJ
+P00108|venta|V00108|PagoSeguro (externa)|Tarjeta de crédito|70400|aprobado|2026-08-18|21:39|PS-SKZPCULAEK
+P00109|venta|V00109|PagoSeguro (externa)|Tarjeta de crédito|64800|aprobado|2026-08-16|23:30|PS-X9MYE3FZJH
+P00110|venta|V00110|Boletería|Efectivo|90000|aprobado|2026-09-15|13:29|
+P00111|venta|V00111|Boletería|Tarjeta de crédito|69000|aprobado|2026-09-14|12:35|
+P00112|venta|V00112|PagoSeguro (externa)|Tarjeta de crédito|70400|aprobado|2026-10-05|02:49|PS-AHRQB4Z8KU
+P00113|venta|V00113|PagoSeguro (externa)|Tarjeta de débito|123750|aprobado|2026-09-02|13:06|PS-NAHB3973VJ
+P00114|venta|V00114|Boletería|Tarjeta de crédito|46000|aprobado|2026-09-13|21:06|
+P00115|venta|V00115|Boletería|Tarjeta de crédito|128000|aprobado|2026-10-04|20:23|
+P00116|venta|V00116|PagoSeguro (externa)|Tarjeta de débito|63800|aprobado|2026-09-21|01:51|PS-6BXLCUMXB5
+P00117|venta|V00117|PagoSeguro (externa)|QR billetera virtual|99000|aprobado|2026-09-16|01:22|PS-C7C2TET6T2
+P00118|venta|V00118|PagoSeguro (externa)|Tarjeta de débito|140800|aprobado|2026-09-18|08:07|PS-T4RB6X7TGD
+P00119|venta|V00119|PagoSeguro (externa)|Transferencia|49500|aprobado|2026-09-05|21:38|PS-B888C738N7
+P00120|venta|V00120|Boletería|Tarjeta de débito|46000|aprobado|2026-09-03|11:48|
+P00121|venta|V00121|PagoSeguro (externa)|Tarjeta de débito|75900|aprobado|2026-10-08|16:49|PS-A7CWQXUXDD
+P00122|venta|V00122|PagoSeguro (externa)|Transferencia|89100|aprobado|2026-09-29|15:31|PS-5B8XW7UF4F
+P00123|venta|V00123|Boletería|Tarjeta de crédito|64400|aprobado|2026-10-03|17:27|
+P00124|venta|V00124|PagoSeguro (externa)|Tarjeta de crédito|43200|aprobado|2026-08-27|10:25|PS-4JVMHQD5GR
+P00125|venta|V00125|PagoSeguro (externa)|Transferencia|99000|aprobado|2026-10-06|01:48|PS-Z7DR77CARA
+P00126|venta|V00126|PagoSeguro (externa)|Tarjeta de crédito|118800|aprobado|2026-10-02|03:35|PS-GMWJVAZC7P
+P00127|venta|V00127|PagoSeguro (externa)|QR billetera virtual|49500|aprobado|2026-09-28|16:43|PS-2SLSZKGPS8
+P00128|venta|V00128|Boletería|Tarjeta de débito|69000|aprobado|2026-09-24|17:58|
+P00129|venta|V00129|Boletería|Efectivo|75600|aprobado|2026-09-03|16:14|
+P00130|venta|V00130|PagoSeguro (externa)|QR billetera virtual|105600|aprobado|2026-10-03|18:40|PS-XFEDKGGWTN
+P00131|venta|V00131|PagoSeguro (externa)|Tarjeta de crédito|76800|aprobado|2026-09-28|22:38|PS-RHKB66CFCH
+P00132|venta|V00132|PagoSeguro (externa)|Tarjeta de débito|51200|aprobado|2026-09-20|15:14|PS-NZLHR8UFKF
+P00133|venta|V00133|Boletería|Tarjeta de débito|54000|aprobado|2026-09-14|10:21|
+P00134|venta|V00134|PagoSeguro (externa)|Transferencia|74250|aprobado|2026-09-30|17:11|PS-JFLAGZNT2V
+P00135|venta|V00135|PagoSeguro (externa)|Transferencia|25300|aprobado|2026-08-20|08:54|PS-FP3JVM5Z3E
+P00136|venta|V00136|PagoSeguro (externa)|Tarjeta de débito|176000|aprobado|2026-10-04|14:00|PS-946EUQ482T
+P00137|venta|V00137|PagoSeguro (externa)|Tarjeta de crédito|108000|aprobado|2026-09-18|05:18|PS-FB4ELW4UZK
+P00138|venta|V00138|PagoSeguro (externa)|Tarjeta de crédito|74250|aprobado|2026-09-26|14:31|PS-GTG33FX8AW
+P00139|venta|V00139|PagoSeguro (externa)|Tarjeta de crédito|73600|aprobado|2026-09-30|21:02|PS-HLT7R23YZ9
+P00140|venta|V00140|PagoSeguro (externa)|Tarjeta de crédito|50600|aprobado|2026-09-14|19:27|PS-HA8FZ7DUWH
+P00141|venta|V00141|Boletería|Tarjeta de crédito|48300|aprobado|2026-09-25|19:56|
+P00142|venta|V00142|Boletería|Tarjeta de crédito|90000|aprobado|2026-09-28|18:35|
+P00143|venta|V00143|PagoSeguro (externa)|Tarjeta de crédito|89100|aprobado|2026-10-08|14:34|PS-YW99NKD7XE
+P00144|venta|V00144|PagoSeguro (externa)|Transferencia|178200|aprobado|2026-09-16|11:58|PS-XNQ4GH5DKM
+P00145|venta|V00145|Boletería|Tarjeta de crédito|160000|aprobado|2026-08-20|10:22|
+P00146|venta|V00146|PagoSeguro (externa)|Transferencia|118800|aprobado|2026-09-03|17:05|PS-BTFPHAX2WF
+P00147|venta|V00147|Boletería|Efectivo|45000|aprobado|2026-09-14|10:44|
+P00148|venta|V00148|PagoSeguro (externa)|Tarjeta de débito|140800|aprobado|2026-08-25|13:42|PS-8U2YLQKVD8
+P00149|venta|V00149|PagoSeguro (externa)|Tarjeta de crédito|50600|aprobado|2026-09-29|09:38|PS-FA8P5YJZBQ
+P00150|venta|V00150|Boletería|Tarjeta de débito|128000|aprobado|2026-09-08|20:13|
+P00151|venta|V00151|PagoSeguro (externa)|Tarjeta de crédito|25600|aprobado|2026-09-27|17:54|PS-W9YCM88F8M
+P00152|venta|V00152|Boletería|Tarjeta de débito|58000|aprobado|2026-09-26|15:09|
+P00153|venta|V00153|PagoSeguro (externa)|Tarjeta de débito|118800|aprobado|2026-10-05|18:15|PS-JXNYJCXNJH
+P00154|venta|V00154|Boletería|Tarjeta de débito|145000|aprobado|2026-10-05|16:04|
+P00155|venta|V00155|PagoSeguro (externa)|QR billetera virtual|70400|aprobado|2026-08-26|07:54|PS-TY2FLSJ2LN
+P00156|venta|V00156|PagoSeguro (externa)|Transferencia|25300|aprobado|2026-09-14|14:14|PS-M8EQ3AJ5WF
+P00157|venta|V00157|PagoSeguro (externa)|Transferencia|66000|aprobado|2026-08-17|15:44|PS-L44DU2J9CF
+P00158|venta|V00158|Boletería|Tarjeta de crédito|39000|aprobado|2026-09-21|16:12|
+P00159|venta|V00159|PagoSeguro (externa)|Transferencia|64350|aprobado|2026-08-26|07:34|PS-DEP6A5U6UA
+P00160|venta|V00160|Boletería|Tarjeta de débito|56000|aprobado|2026-08-24|15:11|
+P00161|venta|V00161|PagoSeguro (externa)|QR billetera virtual|67200|aprobado|2026-08-21|16:00|PS-5R9XVCBKSN
+P00162|venta|V00162|PagoSeguro (externa)|QR billetera virtual|105600|aprobado|2026-09-23|11:28|PS-H7QZHBAL87
+P00163|venta|V00163|Boletería|Tarjeta de crédito|96000|aprobado|2026-08-30|17:59|
+P00164|venta|V00164|Boletería|Efectivo|39000|aprobado|2026-08-16|16:30|
+P00165|venta|V00165|PagoSeguro (externa)|Tarjeta de débito|105600|aprobado|2026-08-23|16:27|PS-97XS9LWSJ5
+P00166|venta|V00166|PagoSeguro (externa)|Tarjeta de crédito|132000|aprobado|2026-09-04|13:28|PS-92Y98JMG2L
+P00167|venta|V00167|Boletería|Efectivo|42000|aprobado|2026-09-21|17:40|
+P00168|venta|V00168|PagoSeguro (externa)|Transferencia|48000|aprobado|2026-09-27|16:17|PS-C3RZM7FVND
+P00169|venta|V00169|PagoSeguro (externa)|QR billetera virtual|110000|aprobado|2026-10-03|23:18|PS-9XPDL2J497
+P00170|venta|V00170|PagoSeguro (externa)|QR billetera virtual|20000|aprobado|2026-08-26|19:01|PS-62UA54A6QQ
+P00171|venta|V00171|PagoSeguro (externa)|Tarjeta de débito|46800|aprobado|2026-09-06|07:19|PS-4KF3E43E4L
+P00172|venta|V00172|PagoSeguro (externa)|QR billetera virtual|20000|aprobado|2026-09-04|20:15|PS-CF29HS3D5U
+P00173|venta|V00173|PagoSeguro (externa)|QR billetera virtual|44000|aprobado|2026-10-01|10:13|PS-99DSFMHVMC
+P00174|venta|V00174|PagoSeguro (externa)|Transferencia|52800|aprobado|2026-09-19|13:10|PS-KJKA7J6SDX
+P00175|venta|V00175|Boletería|Tarjeta de débito|28000|aprobado|2026-09-17|21:52|
+P00176|venta|V00176|Boletería|Tarjeta de crédito|58500|aprobado|2026-08-31|20:15|
+P00177|venta|V00177|Boletería|Tarjeta de débito|52500|aprobado|2026-10-07|18:22|
+P00178|venta|V00178|PagoSeguro (externa)|Tarjeta de crédito|79200|aprobado|2026-08-10|08:44|PS-2U5ULYZKLZ
+P00179|venta|V00179|Boletería|Efectivo|100000|aprobado|2026-08-11|13:44|
+P00180|venta|V00180|Boletería|Efectivo|120000|aprobado|2026-09-10|12:38|
+P00181|venta|V00181|PagoSeguro (externa)|Tarjeta de crédito|76800|aprobado|2026-10-01|08:58|PS-A25KPUE5WD
+P00182|venta|V00182|PagoSeguro (externa)|Tarjeta de crédito|64000|aprobado|2026-09-12|20:03|PS-ZB4AWKAP36
+P00183|venta|V00183|PagoSeguro (externa)|Transferencia|60000|aprobado|2026-09-08|16:22|PS-ZU9VN6F2RB
+P00184|venta|V00184|PagoSeguro (externa)|Tarjeta de débito|105600|aprobado|2026-08-26|09:24|PS-YY7VG878HY
+P00185|venta|V00185|PagoSeguro (externa)|Transferencia|92400|aprobado|2026-09-30|02:21|PS-KS2GS4JY68
+P00186|venta|V00186|Boletería|Tarjeta de crédito|112000|aprobado|2026-09-22|10:04|
+P00187|venta|V00187|PagoSeguro (externa)|Transferencia|66000|aprobado|2026-09-05|00:31|PS-ZZYAFFLJC4
+P00188|venta|V00188|Boletería|Tarjeta de crédito|112000|aprobado|2026-09-08|21:26|
+P00189|venta|V00189|PagoSeguro (externa)|Transferencia|44000|aprobado|2026-10-07|20:48|PS-R5QVEWCDAK
+P00190|venta|V00190|PagoSeguro (externa)|Tarjeta de débito|92400|aprobado|2026-09-17|20:47|PS-JGUH86U8NK
+P00191|venta|V00191|PagoSeguro (externa)|QR billetera virtual|55000|aprobado|2026-08-22|20:22|PS-WQKUZ7PKRD
+P00192|venta|V00192|PagoSeguro (externa)|Transferencia|55000|aprobado|2026-09-08|20:32|PS-UTC6HPNMHE
+P00193|venta|V00193|PagoSeguro (externa)|Transferencia|21450|aprobado|2026-09-16|23:06|PS-HMPBN27YLV
+P00194|venta|V00194|PagoSeguro (externa)|Tarjeta de débito|42900|aprobado|2026-10-06|13:41|PS-LKXJ6ZT8ZX
+P00195|venta|V00195|Boletería|Efectivo|33600|aprobado|2026-08-17|12:01|
+P00196|venta|V00196|PagoSeguro (externa)|Transferencia|123200|aprobado|2026-09-28|20:00|PS-SGMJHDCNS9
+P00197|venta|V00197|PagoSeguro (externa)|QR billetera virtual|85800|aprobado|2026-09-09|04:31|PS-QCDAMYBV2X
+P00198|venta|V00198|Boletería|Efectivo|24000|aprobado|2026-09-29|10:38|
+P00199|venta|V00199|Boletería|Efectivo|56000|aprobado|2026-09-26|12:34|
+P00200|venta|V00200|PagoSeguro (externa)|Tarjeta de crédito|22000|aprobado|2026-08-12|23:19|PS-AGEWJTBNRX
+P00201|venta|V00201|PagoSeguro (externa)|Transferencia|44000|aprobado|2026-09-25|10:32|PS-CFATGAPRW5
+P00202|venta|V00202|PagoSeguro (externa)|Tarjeta de crédito|15600|aprobado|2026-09-17|01:01|PS-4MFKZNACK3
+P00203|venta|V00203|PagoSeguro (externa)|Transferencia|30800|aprobado|2026-10-01|13:43|PS-2JS7D4E732
+P00204|venta|V00204|PagoSeguro (externa)|QR billetera virtual|89600|aprobado|2026-09-30|10:06|PS-RQ4ELJDT2K
+P00205|venta|V00205|PagoSeguro (externa)|Transferencia|44000|aprobado|2026-08-20|13:09|PS-93NDA647R5
+P00206|venta|V00206|Boletería|Tarjeta de débito|78000|aprobado|2026-09-22|20:49|
+P00207|venta|V00207|PagoSeguro (externa)|Tarjeta de débito|80000|aprobado|2026-09-18|07:40|PS-AR3BZUQYK3
+P00208|venta|V00208|Boletería|Tarjeta de crédito|78000|aprobado|2026-09-19|21:10|
+P00209|venta|V00209|PagoSeguro (externa)|QR billetera virtual|88000|aprobado|2026-08-12|17:05|PS-9HHFTQBT4M
+P00210|venta|V00210|PagoSeguro (externa)|QR billetera virtual|30800|aprobado|2026-09-20|01:11|PS-M4ZXTCTJCU
+P00211|venta|V00211|Boletería|Efectivo|80000|aprobado|2026-09-23|14:06|
+P00212|venta|V00212|PagoSeguro (externa)|Tarjeta de crédito|66000|aprobado|2026-08-27|14:26|PS-LP7C65PEVJ
+P00213|venta|V00213|Boletería|Tarjeta de débito|80000|aprobado|2026-09-26|21:17|
+P00214|venta|V00214|PagoSeguro (externa)|Transferencia|27500|aprobado|2026-08-08|03:25|PS-X7UKEULT3R
+P00215|venta|V00215|PagoSeguro (externa)|Transferencia|66000|aprobado|2026-09-19|21:23|PS-X56ZDUET4R
+P00216|venta|V00216|PagoSeguro (externa)|QR billetera virtual|21450|aprobado|2026-10-01|14:25|PS-YU92ZMZ8W4
+P00217|venta|V00217|PagoSeguro (externa)|Transferencia|154000|aprobado|2026-09-14|09:37|PS-TJQLXCUNML
+P00218|venta|V00218|Boletería|Tarjeta de crédito|28000|aprobado|2026-08-08|21:58|
+P00219|venta|V00219|Boletería|Tarjeta de crédito|40000|aprobado|2026-09-18|18:20|
+P00220|venta|V00220|Boletería|Tarjeta de débito|24000|aprobado|2026-09-18|15:19|
+P00221|venta|V00221|PagoSeguro (externa)|Transferencia|79200|aprobado|2026-10-07|14:18|PS-KZDBJ44BG8
+P00222|venta|V00222|PagoSeguro (externa)|Tarjeta de crédito|88000|aprobado|2026-08-21|11:52|PS-MDZQ7Q7YL3
+P00223|venta|V00223|Boletería|Tarjeta de débito|40950|aprobado|2026-08-20|18:46|
+P00224|venta|V00224|PagoSeguro (externa)|Tarjeta de débito|76800|aprobado|2026-09-23|02:33|PS-Z3QV2SD8TU
+P00225|venta|V00225|Boletería|Efectivo|20000|aprobado|2026-10-02|10:52|
+P00226|venta|V00226|Boletería|Efectivo|117000|aprobado|2026-08-30|16:11|
+P00227|venta|V00227|PagoSeguro (externa)|Transferencia|110000|aprobado|2026-10-06|13:52|PS-RDBY52NN3E
+P00228|venta|V00228|PagoSeguro (externa)|Tarjeta de débito|66000|aprobado|2026-08-29|12:33|PS-974LTQBHAE
+P00229|venta|V00229|Boletería|Efectivo|39000|aprobado|2026-09-16|16:33|
+P00230|venta|V00230|PagoSeguro (externa)|Transferencia|22000|aprobado|2026-09-01|20:58|PS-84FQJ9QGUA
+P00231|venta|V00231|PagoSeguro (externa)|Transferencia|154000|aprobado|2026-08-14|15:54|PS-TEFT8HKE9E
+P00232|venta|V00232|Boletería|Efectivo|96000|aprobado|2026-09-20|14:57|
+P00233|venta|V00233|PagoSeguro (externa)|Tarjeta de débito|82500|aprobado|2026-10-05|07:22|PS-NFJGUL9P2H
+P00234|venta|V00234|Boletería|Tarjeta de crédito|72000|aprobado|2026-10-07|17:34|
+P00235|venta|V00235|PagoSeguro (externa)|QR billetera virtual|42900|aprobado|2026-08-25|08:34|PS-9BMPFEFJ8V
+P00236|venta|V00236|PagoSeguro (externa)|Tarjeta de crédito|88000|aprobado|2026-09-21|06:34|PS-J7DBMKAMKR
+P00237|venta|V00237|PagoSeguro (externa)|Transferencia|38400|aprobado|2026-09-24|00:05|PS-2WD3LJWKL4
+P00238|venta|V00238|PagoSeguro (externa)|QR billetera virtual|30800|aprobado|2026-09-26|13:02|PS-XTLZ646MZG
+P00239|venta|V00239|Boletería|Tarjeta de débito|96000|aprobado|2026-08-17|12:28|
+P00240|venta|V00240|PagoSeguro (externa)|Transferencia|22000|aprobado|2026-09-03|22:04|PS-R4J88SMD8K
+P00241|venta|V00241|Boletería|Efectivo|72000|aprobado|2026-09-17|13:30|
+P00242|venta|V00242|Boletería|Tarjeta de crédito|58500|aprobado|2026-08-22|21:09|
+P00243|venta|V00243|PagoSeguro (externa)|Transferencia|52800|aprobado|2026-09-03|12:16|PS-G9HR62VMFG
+P00244|venta|V00244|Boletería|Tarjeta de crédito|168000|aprobado|2026-09-18|15:14|
+P00245|venta|V00245|Boletería|Tarjeta de crédito|20000|aprobado|2026-09-23|14:39|
+P00246|venta|V00246|Boletería|Tarjeta de débito|168000|aprobado|2026-10-09|14:03|
+P00247|venta|V00247|PagoSeguro (externa)|Tarjeta de débito|105600|aprobado|2026-10-07|03:14|PS-RFKG77Z3H6
+P00248|venta|V00248|PagoSeguro (externa)|Transferencia|92400|aprobado|2026-09-12|23:46|PS-8PQBTVUVDM
+P00249|venta|V00249|Boletería|Tarjeta de crédito|48000|aprobado|2026-09-18|12:12|
+P00250|venta|V00250|PagoSeguro (externa)|Tarjeta de débito|79200|aprobado|2026-08-20|04:04|PS-KTJY4Q6D79
+P00251|venta|V00251|Boletería|Efectivo|84000|aprobado|2026-09-24|20:22|
+P00252|venta|V00252|Boletería|Tarjeta de crédito|84000|aprobado|2026-09-07|21:12|
+P00253|venta|V00253|Boletería|Tarjeta de débito|80000|aprobado|2026-10-08|20:13|
+P00254|venta|V00254|PagoSeguro (externa)|QR billetera virtual|60000|aprobado|2026-08-30|18:31|PS-WG4P65WRB9
+P00255|venta|V00255|PagoSeguro (externa)|Transferencia|38400|aprobado|2026-10-07|07:16|PS-C9M52SVBR2
+P00256|venta|V00256|PagoSeguro (externa)|Transferencia|88000|aprobado|2026-09-11|00:29|PS-H43U778TXN
+P00257|venta|V00257|Boletería|Tarjeta de débito|80000|aprobado|2026-10-07|12:44|
+P00258|venta|V00258|PagoSeguro (externa)|Transferencia|38400|aprobado|2026-09-10|23:20|PS-LTVVVVKA2P
+P00259|venta|V00259|PagoSeguro (externa)|QR billetera virtual|105600|aprobado|2026-09-29|05:56|PS-WYQ44B5YFV
+P00260|venta|V00260|PagoSeguro (externa)|Transferencia|21450|aprobado|2026-09-03|00:56|PS-7MYNYPU2CQ
+P00261|venta|V00261|PagoSeguro (externa)|QR billetera virtual|62400|aprobado|2026-10-08|10:13|PS-5WGBUDLT32
+P00262|venta|V00262|Boletería|Tarjeta de crédito|19500|aprobado|2026-09-04|19:14|
+P00263|venta|V00263|PagoSeguro (externa)|Tarjeta de crédito|22000|aprobado|2026-08-02|15:59|PS-TSGTECU5Y5
+P00264|venta|V00264|Boletería|Efectivo|39000|aprobado|2026-08-24|20:10|
+P00265|venta|V00265|PagoSeguro (externa)|Transferencia|61600|aprobado|2026-10-05|10:29|PS-3TJLHQNEKE
+P00266|venta|V00266|PagoSeguro (externa)|Tarjeta de crédito|79200|aprobado|2026-09-08|09:23|PS-4REM8EBXBJ
+P00267|venta|V00267|Boletería|Tarjeta de débito|96000|aprobado|2026-09-25|12:55|
+P00268|venta|V00268|PagoSeguro (externa)|Tarjeta de débito|44800|aprobado|2026-08-09|03:33|PS-3CK73HL62N
+P00269|venta|V00269|Boletería|Efectivo|60000|aprobado|2026-09-06|20:11|
+P00270|venta|V00270|PagoSeguro (externa)|QR billetera virtual|85800|aprobado|2026-10-06|12:55|PS-7PX997E5MC
+P00271|venta|V00271|PagoSeguro (externa)|Tarjeta de débito|57600|aprobado|2026-09-21|21:05|PS-NZB3A94W5H
+P00272|venta|V00272|PagoSeguro (externa)|QR billetera virtual|137500|aprobado|2026-10-02|20:14|PS-YNBETYGLMC
+P00273|venta|V00273|PagoSeguro (externa)|Transferencia|110000|aprobado|2026-09-11|08:43|PS-Z49BYC75LE
+P00274|venta|V00274|PagoSeguro (externa)|Tarjeta de débito|44000|aprobado|2026-09-07|12:05|PS-4PQ5TWXZ2N
+P00275|venta|V00275|Boletería|Efectivo|132500|aprobado|2026-09-10|18:47|
+P00276|venta|V00276|PagoSeguro (externa)|Tarjeta de débito|71500|aprobado|2026-09-20|11:52|PS-KLPSLF9MHN
+P00277|venta|V00277|PagoSeguro (externa)|Tarjeta de crédito|209000|aprobado|2026-08-21|17:10|PS-Y9DL5BZY37
+P00278|venta|V00278|PagoSeguro (externa)|Tarjeta de crédito|71500|aprobado|2026-09-16|09:30|PS-URU2ZSVYRR
+P00279|venta|V00279|PagoSeguro (externa)|Tarjeta de crédito|58300|aprobado|2026-10-13|21:13|PS-4YWGZDFK9T
+P00280|venta|V00280|Boletería|Tarjeta de débito|34000|aprobado|2026-09-01|16:00|
+P00281|venta|V00281|PagoSeguro (externa)|Transferencia|60500|aprobado|2026-08-28|00:16|PS-PPTG6MXH6D
+P00282|venta|V00282|PagoSeguro (externa)|Tarjeta de crédito|125400|aprobado|2026-09-11|01:23|PS-77PQ2EQ373
+P00283|venta|V00283|PagoSeguro (externa)|Transferencia|83600|aprobado|2026-09-16|19:24|PS-CP2ESHLT9F
+P00284|venta|V00284|Boletería|Tarjeta de crédito|38500|aprobado|2026-09-17|12:36|
+P00285|venta|V00285|Boletería|Tarjeta de débito|79500|aprobado|2026-09-19|18:09|
+P00286|venta|V00286|PagoSeguro (externa)|Transferencia|125400|aprobado|2026-09-28|05:33|PS-6Y9LUBZBAF
+P00287|venta|V00287|PagoSeguro (externa)|Tarjeta de débito|29150|aprobado|2026-09-13|23:00|PS-6UKKRLZNYU
+P00288|venta|V00288|PagoSeguro (externa)|Tarjeta de débito|54400|aprobado|2026-10-06|10:47|PS-H4Y2DGDNHQ
+P00289|venta|V00289|Boletería|Efectivo|68250|aprobado|2026-10-04|21:28|
+P00290|venta|V00290|PagoSeguro (externa)|Tarjeta de débito|22000|aprobado|2026-08-25|02:53|PS-KETH38VUML
+P00291|venta|V00291|Boletería|Efectivo|110000|aprobado|2026-10-08|15:39|
+P00292|venta|V00292|PagoSeguro (externa)|Tarjeta de crédito|125400|aprobado|2026-10-05|18:57|PS-5275ELTNKG
+P00293|venta|V00293|Boletería|Tarjeta de débito|130000|aprobado|2026-10-14|14:09|
+P00294|venta|V00294|PagoSeguro (externa)|Tarjeta de crédito|149600|aprobado|2026-08-19|11:27|PS-8YLWSK8T8Y
+P00295|venta|V00295|PagoSeguro (externa)|Transferencia|110000|aprobado|2026-09-23|10:45|PS-Y7LHQQPHPR
+P00296|venta|V00296|PagoSeguro (externa)|Tarjeta de crédito|30400|aprobado|2026-10-13|20:51|PS-ZLAYGQC3M9
+P00297|venta|V00297|PagoSeguro (externa)|Tarjeta de crédito|52000|aprobado|2026-10-15|17:40|PS-22QXSSFFNX
+P00298|venta|V00298|PagoSeguro (externa)|Transferencia|250800|aprobado|2026-08-21|08:37|PS-WPWFZ3QU5H
+P00299|venta|V00299|PagoSeguro (externa)|QR billetera virtual|30250|aprobado|2026-09-21|03:16|PS-HMU8HSGW29
+P00300|venta|V00300|PagoSeguro (externa)|QR billetera virtual|125400|aprobado|2026-08-31|08:38|PS-4FQJVTVMHH
+P00301|venta|V00301|Boletería|Tarjeta de débito|79800|aprobado|2026-09-26|10:24|
+P00302|venta|V00302|PagoSeguro (externa)|QR billetera virtual|71500|aprobado|2026-09-23|16:37|PS-G3M3762CYN
+P00303|venta|V00303|Boletería|Tarjeta de crédito|136000|aprobado|2026-10-16|21:13|
+P00304|venta|V00304|Boletería|Efectivo|165000|aprobado|2026-10-11|21:16|
+P00305|venta|V00305|PagoSeguro (externa)|Tarjeta de débito|29150|aprobado|2026-10-06|23:51|PS-RKV73EYQQE
+P00306|venta|V00306|Boletería|Tarjeta de crédito|79500|aprobado|2026-09-15|13:48|
+P00307|venta|V00307|PagoSeguro (externa)|Tarjeta de crédito|87450|aprobado|2026-09-07|04:11|PS-Z39PG9HZZ4
+P00308|venta|V00308|Boletería|Tarjeta de débito|114000|aprobado|2026-08-29|19:05|
+P00309|venta|V00309|Boletería|Tarjeta de débito|114000|aprobado|2026-10-01|10:30|
+P00310|venta|V00310|PagoSeguro (externa)|QR billetera virtual|121000|aprobado|2026-10-10|01:28|PS-QYMMU97SH9
+P00311|venta|V00311|Boletería|Tarjeta de débito|136000|aprobado|2026-09-09|18:27|
+P00312|venta|V00312|PagoSeguro (externa)|Transferencia|152000|aprobado|2026-09-08|23:59|PS-PTRMKHY68F
+P00313|venta|V00313|Boletería|Efectivo|106000|aprobado|2026-10-09|14:42|
+P00314|venta|V00314|PagoSeguro (externa)|Transferencia|41800|aprobado|2026-10-04|02:45|PS-XNUQT7LZL2
+P00315|venta|V00315|PagoSeguro (externa)|Tarjeta de débito|41800|aprobado|2026-10-11|02:45|PS-44EKFBA378
+P00316|venta|V00316|Boletería|Efectivo|79500|aprobado|2026-08-27|10:58|
+P00317|venta|V00317|Boletería|Tarjeta de crédito|32500|aprobado|2026-09-24|17:58|
+P00318|venta|V00318|PagoSeguro (externa)|Tarjeta de crédito|121000|aprobado|2026-09-21|06:20|PS-5TL4LN6ELD
+P00319|venta|V00319|PagoSeguro (externa)|Transferencia|78000|aprobado|2026-08-13|04:51|PS-K36TQ6V5WT
+P00320|venta|V00320|Boletería|Efectivo|22750|aprobado|2026-10-13|12:34|
+P00321|venta|V00321|PagoSeguro (externa)|Transferencia|125400|aprobado|2026-09-02|09:48|PS-VRPD2ZE7PT
+P00322|venta|V00322|PagoSeguro (externa)|Tarjeta de crédito|35750|aprobado|2026-09-18|22:09|PS-8JAUPEZFBU
+P00323|venta|V00323|Boletería|Tarjeta de débito|65000|aprobado|2026-09-19|18:17|
+P00324|venta|V00324|PagoSeguro (externa)|QR billetera virtual|104000|aprobado|2026-08-27|01:38|PS-3EHYSRNDV3
+P00325|venta|V00325|PagoSeguro (externa)|Transferencia|116600|aprobado|2026-08-27|02:14|PS-MJ9YYNDRF8
+P00326|venta|V00326|PagoSeguro (externa)|QR billetera virtual|90750|aprobado|2026-10-01|23:36|PS-Z8PEQT7EKW
+P00327|venta|V00327|PagoSeguro (externa)|Transferencia|127200|aprobado|2026-10-09|21:04|PS-UZ247JG6AF
+P00328|venta|V00328|Boletería|Tarjeta de débito|65000|aprobado|2026-09-24|15:29|
+P00329|venta|V00329|PagoSeguro (externa)|Tarjeta de débito|112200|aprobado|2026-10-01|04:01|PS-55RMULLKXL
+P00330|venta|V00330|Boletería|Efectivo|102000|aprobado|2026-10-05|15:23|
+P00331|venta|V00331|PagoSeguro (externa)|QR billetera virtual|58300|aprobado|2026-09-20|05:42|PS-YKMBEDMKQQ
+P00332|venta|V00332|PagoSeguro (externa)|Tarjeta de débito|250800|aprobado|2026-10-09|01:21|PS-X7BQSVDV2N
+P00333|venta|V00333|PagoSeguro (externa)|Tarjeta de débito|167200|aprobado|2026-09-18|17:45|PS-5KS8HRU8XS
+P00334|venta|V00334|PagoSeguro (externa)|QR billetera virtual|74800|aprobado|2026-09-04|20:20|PS-5U96RWY67N
+P00335|venta|V00335|Boletería|Efectivo|152000|aprobado|2026-09-04|17:34|
+P00336|venta|V00336|PagoSeguro (externa)|Transferencia|30400|aprobado|2026-10-07|19:18|PS-3ZU64VXZVP
+P00337|venta|V00337|PagoSeguro (externa)|Tarjeta de crédito|163200|aprobado|2026-08-28|07:52|PS-C9UA77L9TF
+P00338|venta|V00338|PagoSeguro (externa)|Tarjeta de crédito|29150|aprobado|2026-08-26|15:21|PS-3DMC692AAS
+P00339|venta|V00339|PagoSeguro (externa)|Tarjeta de crédito|66000|aprobado|2026-09-09|12:28|PS-CENQKC4ZFT
+P00340|venta|V00340|PagoSeguro (externa)|QR billetera virtual|41800|aprobado|2026-10-05|12:21|PS-8KWVKDJ7X7
+P00341|venta|V00341|Boletería|Efectivo|114000|aprobado|2026-10-03|13:29|
+P00342|venta|V00342|PagoSeguro (externa)|Tarjeta de crédito|21200|aprobado|2026-10-12|12:39|PS-838ETY3LB3
+P00343|venta|V00343|Boletería|Tarjeta de débito|53000|aprobado|2026-09-21|16:07|
+P00344|venta|V00344|Boletería|Efectivo|37100|aprobado|2026-08-21|18:57|
+P00345|venta|V00345|PagoSeguro (externa)|Tarjeta de crédito|107250|aprobado|2026-10-10|23:24|PS-7A97LMG5SN
+P00346|venta|V00346|Boletería|Efectivo|136000|aprobado|2026-10-04|10:25|
+P00347|venta|V00347|Boletería|Tarjeta de crédito|162500|aprobado|2026-10-09|10:40|
+P00348|venta|V00348|Boletería|Tarjeta de crédito|34000|aprobado|2026-09-10|17:08|
+P00349|venta|V00349|PagoSeguro (externa)|Tarjeta de débito|121600|aprobado|2026-09-20|13:42|PS-D9EHGRPPZE
+P00350|venta|V00350|PagoSeguro (externa)|Tarjeta de crédito|104000|aprobado|2026-08-22|13:10|PS-N2VKKAMHBC
+P00351|venta|V00351|PagoSeguro (externa)|Tarjeta de crédito|90750|aprobado|2026-10-13|11:48|PS-WVYZV28SHL
+P00352|venta|V00352|Boletería|Tarjeta de débito|34000|aprobado|2026-09-29|15:00|
+P00353|venta|V00353|PagoSeguro (externa)|Tarjeta de débito|83600|aprobado|2026-09-12|17:03|PS-EMD4UJUZM7
+P00354|venta|V00354|PagoSeguro (externa)|Transferencia|83600|aprobado|2026-09-11|20:13|PS-AH3R9JR29N
+P00355|venta|V00355|Boletería|Efectivo|136000|aprobado|2026-10-02|14:42|
+P00356|venta|V00356|PagoSeguro (externa)|Transferencia|71500|aprobado|2026-10-10|20:57|PS-4E485FKZER
+P00357|venta|V00357|PagoSeguro (externa)|Transferencia|83600|aprobado|2026-10-14|09:44|PS-S9EU7BW49J
+P00358|venta|V00358|PagoSeguro (externa)|Transferencia|21200|aprobado|2026-09-28|18:57|PS-KMJ5Y8KUHH
+P00359|venta|V00359|PagoSeguro (externa)|Tarjeta de débito|90750|aprobado|2026-10-13|11:09|PS-P8F6UX65W8
+P00360|venta|V00360|Boletería|Tarjeta de débito|19250|aprobado|2026-09-06|15:50|
+P00361|venta|V00361|PagoSeguro (externa)|Tarjeta de débito|83600|aprobado|2026-09-24|22:29|PS-Z7W3KPFBUA
+P00362|venta|V00362|PagoSeguro (externa)|Tarjeta de débito|149600|aprobado|2026-10-04|07:37|PS-9DBSK32G3W
+P00363|venta|V00363|Boletería|Efectivo|76000|aprobado|2026-10-14|17:32|
+P00364|venta|V00364|Boletería|Tarjeta de débito|22750|aprobado|2026-08-16|11:51|
+P00365|venta|V00365|PagoSeguro (externa)|QR billetera virtual|121000|aprobado|2026-09-25|07:15|PS-HGF8RAU9NA
+P00366|venta|V00366|PagoSeguro (externa)|Transferencia|107250|aprobado|2026-10-02|17:09|PS-ETX72UY68U
+P00367|venta|V00367|PagoSeguro (externa)|QR billetera virtual|30400|aprobado|2026-09-04|19:10|PS-6B2APK46AK
+P00368|venta|V00368|PagoSeguro (externa)|QR billetera virtual|60500|aprobado|2026-09-18|20:17|PS-Y2ELG5PTP6
+P00369|venta|V00369|Boletería|Tarjeta de crédito|111300|aprobado|2026-09-27|10:17|
+P00370|venta|V00370|PagoSeguro (externa)|Tarjeta de débito|107250|aprobado|2026-09-23|03:10|PS-T2JJJ39JBV
+P00371|venta|V00371|PagoSeguro (externa)|QR billetera virtual|88000|aprobado|2026-09-27|05:08|PS-5997SUM8TX
+P00372|venta|V00372|PagoSeguro (externa)|Tarjeta de débito|107250|aprobado|2026-09-06|22:22|PS-695WYEV52R
+P00373|venta|V00373|PagoSeguro (externa)|Tarjeta de débito|178750|aprobado|2026-09-18|23:07|PS-XKMQ7Y3US9
+P00374|venta|V00374|Boletería|Tarjeta de débito|77000|aprobado|2026-09-26|11:00|
+P00375|venta|V00375|PagoSeguro (externa)|Transferencia|58300|aprobado|2026-09-01|03:06|PS-5JA4UQ57AM
+P00376|venta|V00376|PagoSeguro (externa)|Transferencia|156000|aprobado|2026-09-30|13:58|PS-F4S34QT462
+P00377|venta|V00377|Boletería|Tarjeta de crédito|55000|aprobado|2026-10-07|18:21|
+P00378|venta|V00378|Boletería|Efectivo|152000|aprobado|2026-10-04|14:45|
+P00379|venta|V00379|PagoSeguro (externa)|Tarjeta de débito|21200|aprobado|2026-09-29|17:26|PS-25PJYMQ3PQ
+P00380|venta|V00380|Boletería|Tarjeta de débito|114000|aprobado|2026-08-09|11:52|
+P00381|venta|V00381|PagoSeguro (externa)|Tarjeta de crédito|41800|aprobado|2026-09-11|14:50|PS-5MJ7PLFMAP
+P00382|venta|V00382|Boletería|Tarjeta de crédito|114000|aprobado|2026-09-18|18:02|
+P00383|venta|V00383|PagoSeguro (externa)|Tarjeta de débito|66000|aprobado|2026-09-28|19:25|PS-WT73GYFPVX
+P00384|venta|V00384|Boletería|Tarjeta de crédito|26500|aprobado|2026-10-14|10:22|
+P00385|venta|V00385|Boletería|Tarjeta de débito|97500|aprobado|2026-09-10|16:58|
+P00386|venta|V00386|PagoSeguro (externa)|Transferencia|143000|aprobado|2026-09-03|23:47|PS-39BDX7M8H9
+P00387|venta|V00387|Boletería|Tarjeta de débito|82500|aprobado|2026-09-21|19:51|
+P00388|venta|V00388|PagoSeguro (externa)|Tarjeta de débito|152000|aprobado|2026-10-06|23:56|PS-Z6NWJWV2EM
+P00389|venta|V00389|Boletería|Tarjeta de débito|106000|aprobado|2026-09-21|19:39|
+P00390|venta|V00390|PagoSeguro (externa)|Transferencia|167200|aprobado|2026-10-12|00:01|PS-K7MKD63F5S
+P00391|venta|V00391|Boletería|Tarjeta de débito|130000|aprobado|2026-10-02|11:00|
+P00392|venta|V00392|PagoSeguro (externa)|Tarjeta de débito|71500|aprobado|2026-10-10|20:50|PS-WKF4YCA498
+P00393|venta|V00393|PagoSeguro (externa)|Transferencia|87450|aprobado|2026-10-03|13:12|PS-L8R3HT8ZH6
+P00394|venta|V00394|Boletería|Tarjeta de crédito|79500|aprobado|2026-10-12|21:25|
+P00395|venta|V00395|Boletería|Efectivo|114000|aprobado|2026-10-09|16:14|
+P00396|venta|V00396|Boletería|Tarjeta de débito|77000|aprobado|2026-08-22|20:33|
+P00397|venta|V00397|Boletería|Efectivo|130000|aprobado|2026-09-16|20:14|
+P00398|venta|V00398|PagoSeguro (externa)|QR billetera virtual|143000|aprobado|2026-09-11|02:21|PS-28PJJWKUQ9
+P00399|venta|V00399|PagoSeguro (externa)|Tarjeta de crédito|29150|aprobado|2026-10-06|20:02|PS-K3VP93J4A7
+P00400|venta|V00400|PagoSeguro (externa)|QR billetera virtual|143000|aprobado|2026-08-21|05:59|PS-PXPSXNZA72
+P00401|venta|V00401|PagoSeguro (externa)|Transferencia|63600|aprobado|2026-10-11|04:11|PS-289L9LG6YT
+P00402|venta|V00402|Boletería|Tarjeta de crédito|65000|aprobado|2026-09-17|17:28|
+P00403|venta|V00403|PagoSeguro (externa)|Tarjeta de crédito|21200|aprobado|2026-09-10|09:06|PS-XJYLCZ88QN
+P00404|venta|V00404|PagoSeguro (externa)|Tarjeta de crédito|116600|aprobado|2026-10-04|13:52|PS-YPMZJWLLFG
+P00405|venta|V00405|PagoSeguro (externa)|Tarjeta de crédito|143000|aprobado|2026-10-07|11:34|PS-R32YJQQ8TP
+P00406|venta|V00406|Boletería|Tarjeta de crédito|102000|aprobado|2026-09-16|15:19|
+P00407|venta|V00407|Boletería|Efectivo|79500|aprobado|2026-10-06|11:26|
+P00408|venta|V00408|PagoSeguro (externa)|Tarjeta de débito|58300|aprobado|2026-09-10|00:06|PS-LS9AR3SFYK
+P00409|venta|V00409|Boletería|Tarjeta de crédito|55650|aprobado|2026-10-12|20:14|
+P00410|venta|V00410|PagoSeguro (externa)|QR billetera virtual|27200|aprobado|2026-09-11|09:44|PS-8RYY38CE5E
+P00411|venta|V00411|PagoSeguro (externa)|Tarjeta de crédito|35750|aprobado|2026-10-14|14:01|PS-6BVZAU5B9J
+P00412|venta|V00412|PagoSeguro (externa)|QR billetera virtual|41800|aprobado|2026-10-14|00:42|PS-32WQHL39PY
+P00413|venta|V00413|PagoSeguro (externa)|Transferencia|125400|aprobado|2026-09-24|08:18|PS-4SX89WKEDQ
+P00414|venta|V00414|PagoSeguro (externa)|QR billetera virtual|83600|aprobado|2026-10-02|19:10|PS-QEYRSLZ4B7
+P00415|venta|V00415|PagoSeguro (externa)|Tarjeta de débito|41800|aprobado|2026-08-23|20:46|PS-Y83HXBGDW2
+P00416|venta|V00416|PagoSeguro (externa)|Transferencia|29150|aprobado|2026-10-06|01:43|PS-RP9WPWGEUA
+P00417|venta|V00417|Boletería|Tarjeta de crédito|32500|aprobado|2026-09-25|13:49|
+P00418|venta|V00418|PagoSeguro (externa)|Transferencia|41800|aprobado|2026-09-08|21:03|PS-BLQ935F3GN
+P00419|venta|V00419|PagoSeguro (externa)|Tarjeta de débito|116600|aprobado|2026-10-05|04:37|PS-E9EPAQLWF8
+P00420|venta|V00420|PagoSeguro (externa)|Tarjeta de débito|58300|aprobado|2026-10-12|21:44|PS-SYL2ESEEKK
+P00421|venta|V00421|Boletería|Tarjeta de crédito|79500|aprobado|2026-09-24|15:08|
+P00422|venta|V00422|PagoSeguro (externa)|Tarjeta de crédito|107250|aprobado|2026-09-20|03:49|PS-VTZR7N9L65
+P00423|venta|V00423|Boletería|Efectivo|65000|aprobado|2026-09-20|13:20|
+P00424|venta|V00424|PagoSeguro (externa)|Tarjeta de crédito|187000|aprobado|2026-09-10|13:02|PS-DNRPCU779K
+P00425|venta|V00425|PagoSeguro (externa)|Tarjeta de crédito|60500|aprobado|2026-09-19|05:00|PS-DLN6A38XE4
+P00426|venta|V00426|PagoSeguro (externa)|Transferencia|52000|aprobado|2026-09-23|04:19|PS-XVDJRZKXWN
+P00427|venta|V00427|Boletería|Tarjeta de débito|34000|aprobado|2026-08-13|13:04|
+P00428|venta|V00428|Boletería|Tarjeta de débito|97500|aprobado|2026-09-07|18:20|
+P00429|venta|V00429|Boletería|Tarjeta de crédito|55000|aprobado|2026-09-25|17:40|
+P00430|venta|V00430|PagoSeguro (externa)|Transferencia|37400|aprobado|2026-08-29|15:33|PS-Q65Q6HHFQD
+P00431|venta|V00431|PagoSeguro (externa)|Tarjeta de débito|30250|aprobado|2026-10-15|10:08|PS-8QLEWQLX29
+P00432|venta|V00432|Boletería|Tarjeta de débito|82000|aprobado|2026-08-20|21:00|
+P00433|venta|V00433|PagoSeguro (externa)|QR billetera virtual|18700|aprobado|2026-10-14|10:39|PS-4TWUJNKYL6
+P00434|venta|V00434|Boletería|Tarjeta de crédito|51000|aprobado|2026-08-28|17:26|
+P00435|venta|V00435|PagoSeguro (externa)|QR billetera virtual|22550|aprobado|2026-09-10|08:11|PS-S53FA26MDN
+P00436|venta|V00436|PagoSeguro (externa)|Transferencia|135300|aprobado|2026-10-20|21:58|PS-WUF7MX3YC7
+P00437|venta|V00437|Boletería|Tarjeta de crédito|70000|aprobado|2026-08-15|19:40|
+P00438|venta|V00438|Boletería|Efectivo|52500|aprobado|2026-08-22|16:48|
+P00439|venta|V00439|Boletería|Tarjeta de débito|17500|aprobado|2026-09-27|11:04|
+P00440|venta|V00440|PagoSeguro (externa)|Tarjeta de débito|77000|aprobado|2026-10-07|03:39|PS-EXZPFDYBY2
+P00441|venta|V00441|PagoSeguro (externa)|Transferencia|74800|aprobado|2026-08-25|18:36|PS-J6H796WJ9M
+P00442|venta|V00442|Boletería|Tarjeta de débito|86000|aprobado|2026-10-18|18:13|
+P00443|venta|V00443|Boletería|Tarjeta de crédito|33600|aprobado|2026-08-14|21:52|
+P00444|venta|V00444|PagoSeguro (externa)|QR billetera virtual|49200|aprobado|2026-10-07|19:12|PS-LAHYHHENWX
+P00445|venta|V00445|Boletería|Tarjeta de crédito|68000|aprobado|2026-09-06|16:41|
+P00446|venta|V00446|Boletería|Efectivo|70000|aprobado|2026-10-22|18:22|
+P00447|venta|V00447|PagoSeguro (externa)|Tarjeta de débito|19200|aprobado|2026-08-25|05:39|PS-F65FVJZUCY
+P00448|venta|V00448|Boletería|Efectivo|82000|aprobado|2026-09-22|20:01|
+P00449|venta|V00449|PagoSeguro (externa)|QR billetera virtual|56100|aprobado|2026-08-18|13:29|PS-UDYVBRQ44Z
+P00450|venta|V00450|PagoSeguro (externa)|QR billetera virtual|57750|aprobado|2026-09-13|10:31|PS-F7LG3PRHVX
+P00451|venta|V00451|PagoSeguro (externa)|Tarjeta de crédito|56100|aprobado|2026-10-20|22:10|PS-JBD8PKYCSA
+P00452|venta|V00452|Boletería|Efectivo|102500|aprobado|2026-09-27|21:45|
+P00453|venta|V00453|Boletería|Efectivo|41000|aprobado|2026-10-10|16:44|
+P00454|venta|V00454|Boletería|Tarjeta de crédito|52500|aprobado|2026-08-16|20:16|
+P00455|venta|V00455|Boletería|Efectivo|14350|aprobado|2026-10-05|20:33|
+P00456|venta|V00456|PagoSeguro (externa)|Tarjeta de débito|56000|aprobado|2026-09-01|09:52|PS-GCJLHSSBC2
+P00457|venta|V00457|PagoSeguro (externa)|Transferencia|49200|aprobado|2026-08-25|18:08|PS-JKDX29WBYR
+P00458|venta|V00458|Boletería|Efectivo|96000|aprobado|2026-09-28|15:06|
+P00459|venta|V00459|PagoSeguro (externa)|Tarjeta de débito|28000|aprobado|2026-09-17|14:23|PS-MVWKH5RVPU
+P00460|venta|V00460|PagoSeguro (externa)|Transferencia|52800|aprobado|2026-10-06|11:28|PS-3MJ7WHLNKM
+P00461|venta|V00461|PagoSeguro (externa)|Tarjeta de débito|77000|aprobado|2026-10-02|19:03|PS-PT527847LG
+P00462|venta|V00462|PagoSeguro (externa)|QR billetera virtual|79200|aprobado|2026-09-17|19:15|PS-VZC5933GSR
+P00463|venta|V00463|PagoSeguro (externa)|Transferencia|19250|aprobado|2026-10-14|14:16|PS-A6LHCBZ2TR
+P00464|venta|V00464|Boletería|Tarjeta de crédito|20500|aprobado|2026-10-07|16:30|
+P00465|venta|V00465|PagoSeguro (externa)|QR billetera virtual|38400|aprobado|2026-09-14|22:11|PS-P95DSPJVBT
+P00466|venta|V00466|Boletería|Tarjeta de crédito|96000|aprobado|2026-08-21|21:59|
+P00467|venta|V00467|Boletería|Tarjeta de débito|96000|aprobado|2026-10-18|18:03|
+P00468|venta|V00468|PagoSeguro (externa)|Transferencia|105600|aprobado|2026-09-23|02:27|PS-VAY24WPWQR
+P00469|venta|V00469|Boletería|Tarjeta de crédito|61500|aprobado|2026-10-07|20:11|
+P00470|venta|V00470|PagoSeguro (externa)|Tarjeta de débito|56100|aprobado|2026-10-18|00:44|PS-DLS4JBEWVR
+P00471|venta|V00471|PagoSeguro (externa)|Transferencia|45100|aprobado|2026-08-18|09:47|PS-S4BKZJSXUM
+P00472|venta|V00472|Boletería|Tarjeta de crédito|51000|aprobado|2026-08-29|19:47|
+P00473|venta|V00473|Boletería|Efectivo|41000|aprobado|2026-10-06|21:06|
+P00474|venta|V00474|PagoSeguro (externa)|QR billetera virtual|22550|aprobado|2026-10-15|10:21|PS-XQV3PKQDZD
+P00475|venta|V00475|PagoSeguro (externa)|QR billetera virtual|105600|aprobado|2026-10-22|06:07|PS-LB73W3QXSY
+P00476|venta|V00476|PagoSeguro (externa)|Tarjeta de crédito|90200|aprobado|2026-09-26|04:36|PS-UUZHXATL7M
+P00477|venta|V00477|Boletería|Tarjeta de débito|24000|aprobado|2026-10-05|18:21|
+P00478|venta|V00478|PagoSeguro (externa)|Tarjeta de débito|42000|aprobado|2026-10-22|18:49|PS-5XY3EG3TBX
+P00479|venta|V00479|Boletería|Tarjeta de crédito|86000|aprobado|2026-09-13|15:34|
+P00480|venta|V00480|PagoSeguro (externa)|Transferencia|19250|aprobado|2026-10-16|08:21|PS-ZPW6WP9X98
+P00481|venta|V00481|Boletería|Tarjeta de crédito|51000|aprobado|2026-10-19|20:53|
+P00482|venta|V00482|Boletería|Tarjeta de crédito|82000|aprobado|2026-08-28|21:22|
+P00483|venta|V00483|PagoSeguro (externa)|Tarjeta de débito|38500|aprobado|2026-10-14|22:15|PS-ZV8YXQB7P6
+P00484|venta|V00484|PagoSeguro (externa)|Tarjeta de débito|57750|aprobado|2026-10-20|11:17|PS-KY8W7TWLW5
+P00485|venta|V00485|Boletería|Tarjeta de débito|70000|aprobado|2026-10-21|13:47|
+P00486|venta|V00486|PagoSeguro (externa)|Tarjeta de crédito|74800|aprobado|2026-08-29|01:21|PS-LAC26BJCW7
+P00487|venta|V00487|PagoSeguro (externa)|QR billetera virtual|34400|aprobado|2026-09-06|22:38|PS-27MZRSC8WV
+P00488|venta|V00488|Boletería|Tarjeta de débito|15050|aprobado|2026-09-16|18:15|
+P00489|venta|V00489|PagoSeguro (externa)|QR billetera virtual|56000|aprobado|2026-09-09|23:09|PS-BCS48P6EUF
+P00490|venta|V00490|Boletería|Tarjeta de crédito|48000|aprobado|2026-09-27|17:43|
+P00491|venta|V00491|Boletería|Tarjeta de débito|35000|aprobado|2026-09-15|16:57|
+P00492|venta|V00492|PagoSeguro (externa)|Transferencia|105600|aprobado|2026-09-25|05:54|PS-MKJD6SRKN8
+P00493|venta|V00493|PagoSeguro (externa)|Tarjeta de débito|77000|aprobado|2026-10-06|12:13|PS-QQZDSKMUXX
+P00494|venta|V00494|Boletería|Efectivo|12250|aprobado|2026-10-16|18:34|
+P00495|venta|V00495|Boletería|Tarjeta de débito|70000|aprobado|2026-09-01|13:34|
+P00496|venta|V00496|PagoSeguro (externa)|Tarjeta de crédito|74800|aprobado|2026-09-13|08:50|PS-FN9GK8HJ2C
+P00497|venta|V00497|PagoSeguro (externa)|Tarjeta de crédito|17200|aprobado|2026-09-13|01:23|PS-N3CMKNGA6A
+P00498|venta|V00498|PagoSeguro (externa)|QR billetera virtual|96250|aprobado|2026-10-22|23:18|PS-YRQU5FBTQV
+P00499|venta|V00499|PagoSeguro (externa)|QR billetera virtual|52800|aprobado|2026-10-01|20:23|PS-XRH7SSP4JP
+P00500|venta|V00500|Boletería|Efectivo|21500|aprobado|2026-10-08|14:44|
+P00501|venta|V00501|Boletería|Tarjeta de débito|102500|aprobado|2026-10-15|20:00|
+P00502|venta|V00502|Boletería|Efectivo|35000|aprobado|2026-09-26|19:25|
+P00503|venta|V00503|PagoSeguro (externa)|Tarjeta de débito|118250|aprobado|2026-10-18|01:30|PS-624AAV8BWF
+P00504|venta|V00504|Boletería|Tarjeta de débito|144000|aprobado|2026-09-26|15:19|
+P00505|venta|V00505|Boletería|Efectivo|82000|aprobado|2026-09-01|17:36|
+P00506|venta|V00506|PagoSeguro (externa)|QR billetera virtual|37400|aprobado|2026-09-27|03:04|PS-CFMGGUD2D3
+P00507|venta|V00507|Boletería|Tarjeta de débito|17000|aprobado|2026-10-06|20:27|
+P00508|venta|V00508|PagoSeguro (externa)|Tarjeta de crédito|56100|aprobado|2026-10-14|14:53|PS-Z2NH6EJ9VL
+P00509|venta|V00509|Boletería|Tarjeta de débito|68000|aprobado|2026-10-17|12:17|
+P00510|venta|V00510|PagoSeguro (externa)|Tarjeta de crédito|42000|aprobado|2026-09-08|18:31|PS-QWSSESBXGT
+P00511|venta|V00511|PagoSeguro (externa)|Tarjeta de débito|57750|aprobado|2026-10-20|06:33|PS-2CWHCL8TES
+P00512|venta|V00512|Boletería|Tarjeta de crédito|61500|aprobado|2026-10-10|21:43|
+P00513|venta|V00513|PagoSeguro (externa)|QR billetera virtual|45100|aprobado|2026-09-10|14:02|PS-3NLY3XUNPZ
+P00514|venta|V00514|PagoSeguro (externa)|Tarjeta de crédito|23650|aprobado|2026-08-12|07:07|PS-CR3G9GH2U3
+P00515|venta|V00515|PagoSeguro (externa)|QR billetera virtual|52800|aprobado|2026-09-13|05:04|PS-UUNW3MMPSL
+P00516|venta|V00516|PagoSeguro (externa)|QR billetera virtual|32800|aprobado|2026-08-29|01:18|PS-TQE3N8HW59
+P00517|venta|V00517|Boletería|Tarjeta de débito|96000|aprobado|2026-10-21|14:19|
+P00518|venta|V00518|PagoSeguro (externa)|QR billetera virtual|94600|aprobado|2026-08-22|23:21|PS-GWUQ2Q9ASD
+P00519|venta|V00519|Boletería|Tarjeta de débito|68000|aprobado|2026-09-22|10:37|
+P00520|venta|V00520|Boletería|Tarjeta de débito|41000|aprobado|2026-08-13|10:24|
+P00521|venta|V00521|PagoSeguro (externa)|Tarjeta de débito|14000|aprobado|2026-08-22|08:06|PS-RHZDVJ86K4
+P00522|venta|V00522|Boletería|Efectivo|107500|aprobado|2026-10-03|17:20|
+P00523|venta|V00523|Boletería|Tarjeta de débito|72000|aprobado|2026-09-27|17:49|
+P00524|venta|V00524|Boletería|Tarjeta de crédito|48000|aprobado|2026-10-15|14:08|
+P00525|venta|V00525|Boletería|Efectivo|34000|aprobado|2026-08-14|15:01|
+P00526|venta|V00526|PagoSeguro (externa)|QR billetera virtual|76800|aprobado|2026-10-10|17:58|PS-B22DXZ9W9L
+P00527|venta|V00527|PagoSeguro (externa)|QR billetera virtual|47300|aprobado|2026-09-29|11:31|PS-YVJD8EXDHU
+P00528|venta|V00528|PagoSeguro (externa)|Tarjeta de débito|18700|aprobado|2026-10-19|19:53|PS-CLBDXJ5NDM
+P00529|venta|V00529|Boletería|Efectivo|70000|aprobado|2026-09-01|16:27|
+P00530|venta|V00530|PagoSeguro (externa)|QR billetera virtual|112750|aprobado|2026-09-19|23:08|PS-6GYUGN6CKL
+P00531|venta|V00531|PagoSeguro (externa)|Transferencia|70950|aprobado|2026-08-31|02:50|PS-DC97ZUVB69
+P00532|venta|V00532|PagoSeguro (externa)|Transferencia|38500|aprobado|2026-10-20|06:48|PS-H6RCGD7WA8
+P00533|venta|V00533|PagoSeguro (externa)|QR billetera virtual|38500|aprobado|2026-10-18|19:26|PS-4W4GSSZK22
+P00534|venta|V00534|PagoSeguro (externa)|Tarjeta de crédito|28000|aprobado|2026-09-19|15:34|PS-Z7AHYAHTPQ
+P00535|venta|V00535|PagoSeguro (externa)|QR billetera virtual|19250|aprobado|2026-09-24|22:01|PS-4HCVQFDCDJ
+P00536|venta|V00536|Boletería|Efectivo|17500|aprobado|2026-09-28|15:12|
+P00537|venta|V00537|Boletería|Efectivo|24000|aprobado|2026-10-22|13:46|
+P00538|venta|V00538|Boletería|Efectivo|72000|aprobado|2026-10-06|10:20|
+P00539|venta|V00539|Boletería|Tarjeta de crédito|102500|aprobado|2026-09-17|18:16|
+P00540|venta|V00540|PagoSeguro (externa)|Tarjeta de débito|57600|aprobado|2026-09-18|22:33|PS-VNSR57GY65
+P00541|venta|V00541|Boletería|Efectivo|68000|aprobado|2026-10-09|11:54|
+P00542|venta|V00542|Boletería|Efectivo|68000|aprobado|2026-08-21|10:36|
+P00543|venta|V00543|Boletería|Tarjeta de débito|24000|aprobado|2026-09-14|11:13|
+P00544|venta|V00544|Boletería|Efectivo|21500|aprobado|2026-10-03|12:37|
+P00545|venta|V00545|Boletería|Tarjeta de débito|64500|aprobado|2026-09-16|19:24|
+P00546|venta|V00546|Boletería|Tarjeta de crédito|20500|aprobado|2026-10-03|17:01|
+P00547|venta|V00547|Boletería|Tarjeta de crédito|41000|aprobado|2026-09-22|15:12|
+P00548|venta|V00548|Boletería|Tarjeta de débito|85000|aprobado|2026-10-20|17:29|
+P00549|venta|V00549|PagoSeguro (externa)|QR billetera virtual|74800|aprobado|2026-09-02|16:54|PS-2Y44PCZGNL
+P00550|venta|V00550|PagoSeguro (externa)|QR billetera virtual|37400|aprobado|2026-10-12|06:15|PS-L9U8G6T5HU
+P00551|venta|V00551|PagoSeguro (externa)|Tarjeta de débito|65600|aprobado|2026-08-18|14:08|PS-96U6TDZ976
+P00552|venta|V00552|PagoSeguro (externa)|Tarjeta de débito|26400|aprobado|2026-09-14|19:29|PS-85QYEYMFKT
+P00553|venta|V00553|PagoSeguro (externa)|QR billetera virtual|19250|aprobado|2026-10-08|13:03|PS-456U952B8L
+P00554|venta|V00554|PagoSeguro (externa)|Tarjeta de crédito|37950|aprobado|2026-09-10|17:54|PS-MWLU3M2GZF
+P00555|venta|V00555|Boletería|Efectivo|34500|aprobado|2026-10-04|15:15|
+P00556|venta|V00556|PagoSeguro (externa)|Transferencia|15950|aprobado|2026-09-20|10:26|PS-XQ6MWLWNW6
+P00557|venta|V00557|PagoSeguro (externa)|QR billetera virtual|12100|aprobado|2026-08-18|10:59|PS-ENZXJDWWCG
+P00558|venta|V00558|Boletería|Tarjeta de débito|64000|aprobado|2026-09-03|13:34|
+P00559|venta|V00559|Boletería|Efectivo|27000|aprobado|2026-08-24|20:35|
+P00560|venta|V00560|PagoSeguro (externa)|Tarjeta de crédito|18400|aprobado|2026-08-27|10:55|PS-FQ57WC8ZZ4
+P00561|venta|V00561|PagoSeguro (externa)|Transferencia|48400|aprobado|2026-10-07|22:43|PS-GS3M82F5PJ
+P00562|venta|V00562|PagoSeguro (externa)|Transferencia|36300|aprobado|2026-08-15|20:19|PS-ZPJL9U5983
+P00563|venta|V00563|Boletería|Efectivo|96000|aprobado|2026-10-12|17:53|
+P00564|venta|V00564|PagoSeguro (externa)|Tarjeta de débito|12650|aprobado|2026-10-17|23:43|PS-2ARF2PAXYJ
+P00565|venta|V00565|PagoSeguro (externa)|Transferencia|14850|aprobado|2026-10-19|01:25|PS-DQN5VR69YH
+P00566|venta|V00566|Boletería|Tarjeta de crédito|44800|aprobado|2026-09-04|20:56|
+P00567|venta|V00567|PagoSeguro (externa)|Transferencia|44550|aprobado|2026-10-06|23:16|PS-9CSL2VUBN2
+P00568|venta|V00568|PagoSeguro (externa)|Tarjeta de débito|31900|aprobado|2026-09-14|06:34|PS-RX9E2ZU8AU
+P00569|venta|V00569|Boletería|Tarjeta de crédito|34500|aprobado|2026-10-15|16:08|
+P00570|venta|V00570|PagoSeguro (externa)|Transferencia|36800|aprobado|2026-10-21|07:28|PS-B4CYL2ABKU
+P00571|venta|V00571|Boletería|Tarjeta de débito|48000|aprobado|2026-09-24|13:08|
+P00572|venta|V00572|Boletería|Tarjeta de débito|48000|aprobado|2026-09-16|13:53|
+P00573|venta|V00573|PagoSeguro (externa)|Tarjeta de débito|63800|aprobado|2026-10-04|06:57|PS-HJXRK92RHD
+P00574|venta|V00574|Boletería|Tarjeta de débito|22000|aprobado|2026-10-23|19:25|
+P00575|venta|V00575|PagoSeguro (externa)|QR billetera virtual|74250|aprobado|2026-09-29|23:18|PS-V9BLZUCGZS
+P00576|venta|V00576|PagoSeguro (externa)|Transferencia|15950|aprobado|2026-08-08|23:52|PS-J43ENEMP7B
+P00577|venta|V00577|PagoSeguro (externa)|Tarjeta de crédito|29700|aprobado|2026-10-21|22:43|PS-6D5D3LQ4VW
+P00578|venta|V00578|PagoSeguro (externa)|Tarjeta de débito|37950|aprobado|2026-09-17|02:40|PS-SPN8SPU8FZ
+P00579|venta|V00579|PagoSeguro (externa)|Tarjeta de débito|29700|aprobado|2026-09-24|08:35|PS-V2G35QTLHG
+P00580|venta|V00580|PagoSeguro (externa)|QR billetera virtual|70400|aprobado|2026-10-01|04:41|PS-XADTBFNJ9P
+P00581|venta|V00581|Boletería|Efectivo|13500|aprobado|2026-09-14|20:33|
+P00582|venta|V00582|PagoSeguro (externa)|Tarjeta de débito|59400|aprobado|2026-10-14|04:10|PS-ZJB3YG3B2A
+P00583|venta|V00583|Boletería|Efectivo|22000|aprobado|2026-10-07|19:06|
+P00584|venta|V00584|PagoSeguro (externa)|Transferencia|9200|aprobado|2026-10-18|14:20|PS-6ECWVHT2MJ
+P00585|venta|V00585|Boletería|Efectivo|58000|aprobado|2026-09-01|15:33|
+P00586|venta|V00586|PagoSeguro (externa)|QR billetera virtual|12800|aprobado|2026-10-14|14:02|PS-TTEBWAEU5K
+P00587|venta|V00587|PagoSeguro (externa)|Transferencia|9200|aprobado|2026-08-10|05:57|PS-THLXWU2ULP
+P00588|venta|V00588|Boletería|Efectivo|44000|aprobado|2026-10-11|17:26|
+P00589|venta|V00589|Boletería|Efectivo|34500|aprobado|2026-08-16|12:00|
+P00590|venta|V00590|PagoSeguro (externa)|Tarjeta de crédito|12100|aprobado|2026-08-23|05:11|PS-JLZG84UZ89
+P00591|venta|V00591|Boletería|Efectivo|55000|aprobado|2026-08-14|12:39|
+P00592|venta|V00592|PagoSeguro (externa)|Transferencia|52800|aprobado|2026-10-01|16:52|PS-UFRANAHVMY
+P00593|venta|V00593|Boletería|Tarjeta de débito|13500|aprobado|2026-09-12|13:21|
+P00594|venta|V00594|PagoSeguro (externa)|Tarjeta de crédito|25600|aprobado|2026-09-07|12:27|PS-UWJZAZ5HSN
+P00595|venta|V00595|Boletería|Tarjeta de débito|22400|aprobado|2026-08-24|17:08|
+P00596|venta|V00596|Boletería|Tarjeta de débito|80000|aprobado|2026-10-22|21:06|
+P00597|venta|V00597|PagoSeguro (externa)|QR billetera virtual|43200|aprobado|2026-09-22|17:47|PS-GKQ63GKHH2
+P00598|venta|V00598|PagoSeguro (externa)|Transferencia|60500|aprobado|2026-09-02|12:38|PS-RPU3JK42DK
+P00599|venta|V00599|Boletería|Tarjeta de débito|32200|aprobado|2026-10-02|19:06|
+P00600|venta|V00600|PagoSeguro (externa)|Tarjeta de débito|70400|aprobado|2026-08-20|10:47|PS-CZA75J9HHY
+P00601|venta|V00601|Boletería|Efectivo|48000|aprobado|2026-10-02|12:30|
+P00602|venta|V00602|PagoSeguro (externa)|Tarjeta de débito|25300|aprobado|2026-10-04|21:09|PS-FPRTHNJWZY
+P00603|venta|V00603|Boletería|Tarjeta de débito|22000|aprobado|2026-10-16|14:33|
+P00604|venta|V00604|PagoSeguro (externa)|QR billetera virtual|24200|aprobado|2026-09-08|11:35|PS-ECE699DWLU
+P00605|venta|V00605|Boletería|Efectivo|15400|aprobado|2026-10-01|12:56|
+P00606|venta|V00606|PagoSeguro (externa)|Transferencia|26400|aprobado|2026-08-30|04:02|PS-ET6Y8TLEQA
+P00607|venta|V00607|PagoSeguro (externa)|Tarjeta de débito|12650|aprobado|2026-10-24|05:21|PS-VJDUN727KM
+P00608|venta|V00608|Boletería|Efectivo|46000|aprobado|2026-09-15|21:40|
+P00609|venta|V00609|PagoSeguro (externa)|Transferencia|52800|aprobado|2026-10-17|07:53|PS-4FEGAYCTJU
+P00610|venta|V00610|PagoSeguro (externa)|Tarjeta de crédito|63800|aprobado|2026-09-11|07:15|PS-WYLBQCWP5L
+P00611|venta|V00611|PagoSeguro (externa)|Tarjeta de débito|18400|aprobado|2026-10-11|07:36|PS-2YCVSRDF4S
+P00612|venta|V00612|Boletería|Efectivo|46000|aprobado|2026-09-11|12:51|
+P00613|venta|V00613|PagoSeguro (externa)|Tarjeta de débito|63800|aprobado|2026-09-19|03:59|PS-E6PKEKPMKC
+P00614|venta|V00614|PagoSeguro (externa)|Tarjeta de débito|36800|aprobado|2026-08-15|00:40|PS-5TSEFGPU6N
+P00615|venta|V00615|Boletería|Tarjeta de débito|64000|aprobado|2026-09-11|10:16|
+P00616|venta|V00616|PagoSeguro (externa)|Tarjeta de crédito|36300|aprobado|2026-09-28|03:38|PS-L96L6PE242
+P00617|venta|V00617|Boletería|Efectivo|23000|aprobado|2026-08-31|13:30|
+P00618|venta|V00618|PagoSeguro (externa)|Tarjeta de crédito|15950|aprobado|2026-10-21|10:38|PS-22PQL2LXEL
+P00619|venta|V00619|Boletería|Tarjeta de débito|22000|aprobado|2026-10-24|21:31|
+P00620|venta|V00620|PagoSeguro (externa)|QR billetera virtual|12100|aprobado|2026-09-27|16:59|PS-VNXXL3E5ZA
+P00621|venta|V00621|PagoSeguro (externa)|QR billetera virtual|47850|aprobado|2026-10-22|13:32|PS-NN2YHBCWNH
+P00622|venta|V00622|PagoSeguro (externa)|QR billetera virtual|63250|aprobado|2026-09-21|10:08|PS-MHTDXVE3DM
+P00623|venta|V00623|Boletería|Tarjeta de débito|34500|aprobado|2026-10-05|21:34|
+P00624|venta|V00624|Boletería|Tarjeta de débito|33000|aprobado|2026-10-21|12:34|
+P00625|venta|V00625|PagoSeguro (externa)|Transferencia|37950|aprobado|2026-08-26|06:10|PS-8CJPVPW228
+P00626|venta|V00626|PagoSeguro (externa)|Transferencia|25600|aprobado|2026-10-19|07:17|PS-AL6BUE4HWY
+P00627|venta|V00627|Boletería|Tarjeta de débito|34500|aprobado|2026-10-01|15:44|
+P00628|venta|V00628|PagoSeguro (externa)|Tarjeta de crédito|36800|aprobado|2026-09-03|21:19|PS-QVKAKEQD8X
+P00629|venta|V00629|PagoSeguro (externa)|QR billetera virtual|50600|aprobado|2026-09-02|21:55|PS-SPPWUHD3YD
+P00630|venta|V00630|PagoSeguro (externa)|Transferencia|35200|aprobado|2026-09-26|17:09|PS-MWUZMP8Z7N
+P00631|venta|V00631|Boletería|Tarjeta de crédito|69000|aprobado|2026-09-05|13:08|
+P00632|venta|V00632|PagoSeguro (externa)|Tarjeta de crédito|14850|aprobado|2026-09-18|00:47|PS-M4B6G3A7SE
+P00633|venta|V00633|PagoSeguro (externa)|Tarjeta de crédito|35200|aprobado|2026-08-19|09:15|PS-8N9XBQ3B2Z
+P00634|venta|V00634|Boletería|Efectivo|14500|aprobado|2026-10-14|18:04|
+P00635|venta|V00635|Boletería|Efectivo|34500|aprobado|2026-09-04|18:26|
+P00636|venta|V00636|PagoSeguro (externa)|Transferencia|9200|aprobado|2026-09-17|20:55|PS-6CXMU5C5PP
+P00637|venta|V00637|PagoSeguro (externa)|Tarjeta de crédito|43200|aprobado|2026-09-02|02:11|PS-J38QN8JMNZ
+P00638|venta|V00638|PagoSeguro (externa)|Tarjeta de crédito|14850|aprobado|2026-09-02|17:41|PS-657ZZS673Z
+P00639|venta|V00639|PagoSeguro (externa)|QR billetera virtual|75900|aprobado|2026-09-09|09:02|PS-U9T75JCETQ
+P00640|venta|V00640|Boletería|Tarjeta de débito|32000|aprobado|2026-08-17|20:19|
+P00641|venta|V00641|Boletería|Tarjeta de débito|43500|aprobado|2026-09-11|13:16|
+P00642|venta|V00642|Boletería|Tarjeta de débito|29000|aprobado|2026-10-15|12:51|
+P00643|venta|V00643|PagoSeguro (externa)|QR billetera virtual|47850|aprobado|2026-09-20|13:33|PS-SBH3KVA2P2
+P00644|venta|V00644|PagoSeguro (externa)|Tarjeta de crédito|88000|aprobado|2026-09-23|03:10|PS-KEK2QKPT6A
+P00645|venta|V00645|Boletería|Tarjeta de crédito|22000|aprobado|2026-10-17|15:08|
+P00646|venta|V00646|PagoSeguro (externa)|Tarjeta de crédito|31900|aprobado|2026-09-26|08:18|PS-D4ZVLX32XK
+P00647|venta|V00647|Boletería|Tarjeta de crédito|34500|aprobado|2026-10-15|19:10|
+P00648|venta|V00648|Boletería|Tarjeta de débito|40500|aprobado|2026-09-13|13:47|
+P00649|venta|V00649|PagoSeguro (externa)|QR billetera virtual|35200|aprobado|2026-10-18|07:47|PS-7U9CWMMEE9
+P00650|venta|V00650|Boletería|Tarjeta de crédito|16000|aprobado|2026-10-21|13:26|
+P00651|venta|V00651|PagoSeguro (externa)|Tarjeta de débito|44550|aprobado|2026-10-17|06:44|PS-2M968E2MJD
+P00652|venta|V00652|PagoSeguro (externa)|Tarjeta de débito|48400|aprobado|2026-09-24|13:49|PS-WUHX4ZWMDR
+P00653|venta|V00653|Boletería|Efectivo|64000|aprobado|2026-09-22|16:39|
+P00654|venta|V00654|Boletería|Tarjeta de débito|32200|aprobado|2026-10-09|19:07|
+P00655|venta|V00655|Boletería|Efectivo|32000|aprobado|2026-10-17|10:06|
+P00656|venta|V00656|PagoSeguro (externa)|Transferencia|47850|aprobado|2026-10-16|14:54|PS-HWGTTJH6YY
+P00657|venta|V00657|Boletería|Tarjeta de débito|43500|aprobado|2026-10-21|11:46|
+P00658|venta|V00658|PagoSeguro (externa)|QR billetera virtual|43200|aprobado|2026-09-19|03:47|PS-LMRAMF9F8X
+P00659|venta|V00659|PagoSeguro (externa)|Transferencia|44550|aprobado|2026-10-13|22:26|PS-9LEJVTFQLD
+P00660|venta|V00660|PagoSeguro (externa)|Transferencia|17600|aprobado|2026-08-25|13:51|PS-BEB8Y7XJPF
+P00661|venta|V00661|PagoSeguro (externa)|QR billetera virtual|12800|aprobado|2026-10-03|13:05|PS-DYEGV7LDC2
+P00662|venta|V00662|PagoSeguro (externa)|QR billetera virtual|29700|aprobado|2026-10-21|14:46|PS-QMKWKXDC3C
+P00663|venta|V00663|PagoSeguro (externa)|Transferencia|37950|aprobado|2026-09-01|08:15|PS-LQCQMJENFC
+P00664|venta|V00664|Boletería|Efectivo|29000|aprobado|2026-08-20|20:48|
+P00665|venta|V00665|Boletería|Tarjeta de crédito|16000|aprobado|2026-10-07|12:28|
+P00666|venta|V00666|Boletería|Tarjeta de crédito|40500|aprobado|2026-09-28|14:57|
+P00667|venta|V00667|PagoSeguro (externa)|Transferencia|31900|aprobado|2026-10-11|06:02|PS-ZU2JVNVUVG
+P00668|venta|V00668|PagoSeguro (externa)|Transferencia|66000|aprobado|2026-10-20|10:30|PS-A4PJ67P2LL
+P00669|venta|V00669|PagoSeguro (externa)|Tarjeta de débito|79200|aprobado|2026-09-17|17:43|PS-8YSGAK9T8M
+P00670|venta|V00670|PagoSeguro (externa)|Tarjeta de débito|123200|aprobado|2026-10-05|00:25|PS-6MVSZ4V58B
+P00671|venta|V00671|PagoSeguro (externa)|Transferencia|105600|aprobado|2026-10-17|15:32|PS-4XBGWAVG3J
+P00672|venta|V00672|Boletería|Efectivo|84000|aprobado|2026-09-27|10:26|
+P00673|venta|V00673|PagoSeguro (externa)|Tarjeta de crédito|30800|aprobado|2026-09-22|13:28|PS-NKCFGHVS87
+P00674|venta|V00674|Boletería|Tarjeta de débito|48000|aprobado|2026-10-07|16:28|
+P00675|venta|V00675|Boletería|Efectivo|39000|aprobado|2026-10-09|21:58|
+P00676|venta|V00676|Boletería|Efectivo|96000|aprobado|2026-10-26|16:17|
+P00677|venta|V00677|PagoSeguro (externa)|Tarjeta de débito|64350|aprobado|2026-10-16|12:08|PS-B2BQ8T3JCL
+P00678|venta|V00678|Boletería|Tarjeta de débito|80000|aprobado|2026-10-21|20:45|
+P00679|venta|V00679|PagoSeguro (externa)|Tarjeta de débito|55000|aprobado|2026-10-12|05:24|PS-HZETMZG55T
+P00680|venta|V00680|PagoSeguro (externa)|Transferencia|66000|aprobado|2026-10-09|22:41|PS-XG6V3UBHZH
+P00681|venta|V00681|Boletería|Efectivo|20000|aprobado|2026-08-22|14:04|
+P00682|venta|V00682|PagoSeguro (externa)|Tarjeta de crédito|85800|aprobado|2026-08-11|13:01|PS-Y5MK5B3FHK
+P00683|venta|V00683|Boletería|Tarjeta de débito|24000|aprobado|2026-10-19|20:37|
+P00684|venta|V00684|Boletería|Efectivo|96000|aprobado|2026-10-14|18:19|
+P00685|venta|V00685|Boletería|Efectivo|100000|aprobado|2026-08-25|20:57|
+P00686|venta|V00686|Boletería|Efectivo|40000|aprobado|2026-10-08|17:08|
+P00687|venta|V00687|PagoSeguro (externa)|Tarjeta de débito|64350|aprobado|2026-09-27|08:56|PS-C3YMK8DGE7
+P00688|venta|V00688|Boletería|Efectivo|50000|aprobado|2026-10-05|19:34|
+P00689|venta|V00689|PagoSeguro (externa)|Tarjeta de débito|132000|aprobado|2026-09-07|20:11|PS-M488MM46ZZ
+P00690|venta|V00690|PagoSeguro (externa)|QR billetera virtual|30800|aprobado|2026-08-15|08:57|PS-3JKH8Q4WZL
+P00691|venta|V00691|Boletería|Tarjeta de crédito|58500|aprobado|2026-09-26|12:35|
+P00692|venta|V00692|Boletería|Efectivo|78400|aprobado|2026-10-27|11:25|
+P00693|venta|V00693|Boletería|Efectivo|84000|aprobado|2026-09-17|17:00|
+P00694|venta|V00694|Boletería|Efectivo|52500|aprobado|2026-10-27|20:16|
+P00695|venta|V00695|PagoSeguro (externa)|Tarjeta de débito|79200|aprobado|2026-08-27|12:19|PS-LNS2SGXBSV
+P00696|venta|V00696|Boletería|Tarjeta de crédito|19600|aprobado|2026-10-05|17:52|
+P00697|venta|V00697|PagoSeguro (externa)|Transferencia|31200|aprobado|2026-10-16|09:48|PS-UL4F9LL4F2
+P00698|venta|V00698|PagoSeguro (externa)|Transferencia|88000|aprobado|2026-09-25|14:35|PS-4PXZ53UD8U
+P00699|venta|V00699|PagoSeguro (externa)|Tarjeta de crédito|57600|aprobado|2026-10-19|17:04|PS-N8ZVDKATJF
+P00700|venta|V00700|PagoSeguro (externa)|QR billetera virtual|64350|aprobado|2026-10-22|18:59|PS-LJPRDHE8UC
+P00701|venta|V00701|PagoSeguro (externa)|QR billetera virtual|110000|aprobado|2026-09-30|14:47|PS-DMPZC8RYPU
+P00702|venta|V00702|PagoSeguro (externa)|Tarjeta de crédito|61600|aprobado|2026-09-29|09:42|PS-MHPSDJTVR6
+P00703|venta|V00703|Boletería|Tarjeta de débito|78000|aprobado|2026-10-26|18:24|
+P00704|venta|V00704|Boletería|Efectivo|24000|aprobado|2026-10-14|13:41|
+P00705|venta|V00705|PagoSeguro (externa)|Tarjeta de crédito|82500|aprobado|2026-09-09|23:40|PS-NRQVNCY3P5
+P00706|venta|V00706|Boletería|Tarjeta de crédito|28000|aprobado|2026-09-22|19:50|
+P00707|venta|V00707|Boletería|Tarjeta de crédito|19500|aprobado|2026-10-16|15:05|
+P00708|venta|V00708|PagoSeguro (externa)|QR billetera virtual|22000|aprobado|2026-09-11|05:35|PS-QHNF7QLD2J
+P00709|venta|V00709|Boletería|Tarjeta de débito|24000|aprobado|2026-09-16|10:48|
+P00710|venta|V00710|PagoSeguro (externa)|Tarjeta de débito|32000|aprobado|2026-09-30|09:54|PS-UFY6CNF9BP
+P00711|venta|V00711|PagoSeguro (externa)|QR billetera virtual|137500|aprobado|2026-09-22|09:02|PS-3VA4SP5B8M
+P00712|venta|V00712|PagoSeguro (externa)|Tarjeta de débito|64350|aprobado|2026-10-03|00:02|PS-HS2FB6UR8S
+P00713|venta|V00713|PagoSeguro (externa)|Transferencia|31200|aprobado|2026-10-21|05:03|PS-Q64LH2LZT5
+P00714|venta|V00714|PagoSeguro (externa)|QR billetera virtual|82500|aprobado|2026-09-05|04:41|PS-GMGJ6G5NM7
+P00715|venta|V00715|PagoSeguro (externa)|Transferencia|92400|aprobado|2026-09-23|20:43|PS-TZLREGVCYM
+P00716|venta|V00716|Boletería|Tarjeta de crédito|120000|aprobado|2026-10-09|21:46|
+P00717|venta|V00717|Boletería|Tarjeta de débito|40000|aprobado|2026-09-18|18:33|
+P00718|venta|V00718|Boletería|Tarjeta de débito|75000|aprobado|2026-10-11|20:09|
+P00719|venta|V00719|Boletería|Efectivo|19500|aprobado|2026-10-20|16:07|
+P00720|venta|V00720|PagoSeguro (externa)|Tarjeta de débito|31200|aprobado|2026-09-04|09:00|PS-U6RDTXCHXZ
+P00721|venta|V00721|PagoSeguro (externa)|Tarjeta de débito|32000|aprobado|2026-10-18|14:05|PS-Y9R733RZ3Y
+P00722|venta|V00722|PagoSeguro (externa)|QR billetera virtual|85800|aprobado|2026-09-27|20:48|PS-GU7BCCZ2ZX
+P00723|venta|V00723|Boletería|Tarjeta de crédito|50000|aprobado|2026-09-18|10:29|
+P00724|venta|V00724|PagoSeguro (externa)|QR billetera virtual|79200|aprobado|2026-10-06|05:53|PS-67BAA686W7
+P00725|venta|V00725|Boletería|Tarjeta de débito|120000|aprobado|2026-09-24|19:41|
+P00726|venta|V00726|PagoSeguro (externa)|QR billetera virtual|46800|aprobado|2026-10-18|02:21|PS-UVQLJDQPA5
+P00727|venta|V00727|PagoSeguro (externa)|QR billetera virtual|26400|aprobado|2026-10-20|17:27|PS-2RUHRNKQ8U
+P00728|venta|V00728|PagoSeguro (externa)|Tarjeta de débito|30800|aprobado|2026-10-03|07:04|PS-3SAUCDKA2P
+P00729|venta|V00729|PagoSeguro (externa)|Transferencia|88000|aprobado|2026-10-18|19:27|PS-KC7SV3DAZR
+P00730|venta|V00730|Boletería|Tarjeta de débito|168000|aprobado|2026-10-25|21:09|
+P00731|venta|V00731|PagoSeguro (externa)|Tarjeta de débito|62400|aprobado|2026-10-17|17:22|PS-NXEX2E65B9
+P00732|venta|V00732|Boletería|Tarjeta de débito|100800|aprobado|2026-09-18|17:54|
+P00733|venta|V00733|PagoSeguro (externa)|Transferencia|30800|aprobado|2026-10-21|07:38|PS-YGXVH4RVNP
+P00734|venta|V00734|PagoSeguro (externa)|Tarjeta de débito|66000|aprobado|2026-10-26|08:04|PS-TKH5MDU4P2
+P00735|venta|V00735|Boletería|Tarjeta de débito|58500|aprobado|2026-08-28|14:17|
+P00736|venta|V00736|Boletería|Tarjeta de débito|60000|aprobado|2026-10-22|11:11|
+P00737|venta|V00737|Boletería|Efectivo|112000|aprobado|2026-10-08|12:34|
+P00738|venta|V00738|PagoSeguro (externa)|Tarjeta de crédito|30800|aprobado|2026-10-14|05:50|PS-6APH5XLC2A
+P00739|venta|V00739|Boletería|Tarjeta de crédito|78000|aprobado|2026-08-22|17:08|
+P00740|venta|V00740|Boletería|Tarjeta de crédito|39000|aprobado|2026-10-27|15:22|
+P00741|venta|V00741|PagoSeguro (externa)|Tarjeta de débito|38400|aprobado|2026-10-10|08:39|PS-VC4ETBQ9WE
+P00742|venta|V00742|PagoSeguro (externa)|Tarjeta de crédito|30800|aprobado|2026-09-17|22:46|PS-RM8QNPD9HZ
+P00743|venta|V00743|PagoSeguro (externa)|Tarjeta de débito|21450|aprobado|2026-09-05|14:48|PS-SZSKX7XDWT
+P00744|venta|V00744|Boletería|Tarjeta de crédito|120000|aprobado|2026-10-16|14:51|
+P00745|venta|V00745|PagoSeguro (externa)|Tarjeta de crédito|44000|aprobado|2026-10-05|11:25|PS-DSV2EW5UAH
+P00746|venta|V00746|PagoSeguro (externa)|Tarjeta de crédito|132000|aprobado|2026-10-23|19:05|PS-396WETY6BA
+P00747|venta|V00747|PagoSeguro (externa)|Transferencia|110000|aprobado|2026-10-01|15:59|PS-5ZA5Y4N8NW
+P00748|venta|V00748|PagoSeguro (externa)|Tarjeta de débito|31200|aprobado|2026-10-04|23:59|PS-RWBKZKTR42
+P00749|venta|V00749|PagoSeguro (externa)|Transferencia|52800|aprobado|2026-10-21|17:49|PS-JYX6UUPM3S
+P00750|venta|V00750|PagoSeguro (externa)|Tarjeta de débito|20000|aprobado|2026-09-02|09:52|PS-DQBY5N3GQP
+P00751|venta|V00751|PagoSeguro (externa)|Tarjeta de débito|55000|aprobado|2026-09-14|15:56|PS-XDFJFE3YPN
+P00752|venta|V00752|PagoSeguro (externa)|Transferencia|123200|aprobado|2026-09-14|19:24|PS-8EM5AMTLRK
+P00753|venta|V00753|Boletería|Tarjeta de crédito|27300|aprobado|2026-10-15|15:54|
+P00754|venta|V00754|Boletería|Efectivo|70000|aprobado|2026-08-12|19:56|
+P00755|venta|V00755|PagoSeguro (externa)|Tarjeta de crédito|61600|aprobado|2026-10-03|18:44|PS-6Z7W6MCQVF
+P00756|venta|V00756|PagoSeguro (externa)|Tarjeta de débito|67200|aprobado|2026-10-28|14:53|PS-JQFE9UYW36
+P00757|venta|V00757|PagoSeguro (externa)|QR billetera virtual|27500|aprobado|2026-09-12|22:20|PS-2JWHEK3N58
+P00758|venta|V00758|PagoSeguro (externa)|Tarjeta de débito|105600|aprobado|2026-09-21|03:48|PS-8BT73C9BG4
+P00759|venta|V00759|PagoSeguro (externa)|Tarjeta de débito|123200|aprobado|2026-10-28|23:45|PS-TNHK9EZX6G
+P00760|venta|V00760|Boletería|Tarjeta de débito|78000|aprobado|2026-09-26|10:09|
+P00761|venta|V00761|PagoSeguro (externa)|Transferencia|26400|aprobado|2026-09-03|08:11|PS-8GYFRN27EJ
+P00762|venta|V00762|Boletería|Tarjeta de crédito|84000|aprobado|2026-09-24|10:26|
+P00763|venta|V00763|PagoSeguro (externa)|QR billetera virtual|46800|aprobado|2026-10-17|10:41|PS-D7V9MPRH3R
+P00764|venta|V00764|PagoSeguro (externa)|Tarjeta de débito|105600|aprobado|2026-10-08|15:02|PS-RDJFP7UX4R
+P00765|venta|V00765|PagoSeguro (externa)|Tarjeta de crédito|61600|aprobado|2026-10-09|10:06|PS-7QXGP9XE69
+P00766|venta|V00766|PagoSeguro (externa)|Tarjeta de crédito|52800|aprobado|2026-10-19|20:50|PS-QVANFWGFC3
+P00767|venta|V00767|PagoSeguro (externa)|Tarjeta de débito|110000|aprobado|2026-10-25|15:50|PS-LQ6RTDFMCU
+P00768|venta|V00768|PagoSeguro (externa)|Tarjeta de débito|76800|aprobado|2026-08-30|14:36|PS-39AN4GFSU8
+P00769|venta|V00769|Boletería|Tarjeta de débito|13650|aprobado|2026-09-22|15:13|
+P00770|venta|V00770|PagoSeguro (externa)|Tarjeta de crédito|57600|aprobado|2026-10-18|03:33|PS-HWYU6TPK98
+P00771|venta|V00771|Boletería|Tarjeta de débito|20000|aprobado|2026-09-15|16:47|
+P00772|venta|V00772|Boletería|Tarjeta de débito|19500|aprobado|2026-09-16|18:24|
+P00773|venta|V00773|Boletería|Efectivo|96000|aprobado|2026-09-18|12:25|
+P00774|venta|V00774|Boletería|Efectivo|50000|aprobado|2026-10-01|16:08|
+P00775|venta|V00775|PagoSeguro (externa)|Tarjeta de débito|60000|aprobado|2026-10-09|08:11|PS-XUKXPYRFT6
+P00776|venta|V00776|PagoSeguro (externa)|Transferencia|22000|aprobado|2026-10-03|14:26|PS-6ATF7SDPUS
+P00777|venta|V00777|PagoSeguro (externa)|Tarjeta de débito|44000|aprobado|2026-09-21|08:06|PS-J895BH23LW
+P00778|venta|V00778|PagoSeguro (externa)|QR billetera virtual|137500|aprobado|2026-09-24|06:56|PS-2VBHEMS2Y3
+P00779|venta|V00779|PagoSeguro (externa)|Tarjeta de débito|110000|aprobado|2026-09-25|09:25|PS-BGXAHJYGVK
+P00780|venta|V00780|Boletería|Tarjeta de crédito|60000|aprobado|2026-10-25|18:16|
+P00781|venta|V00781|PagoSeguro (externa)|Tarjeta de débito|32000|aprobado|2026-10-16|01:45|PS-FUVS7BZ37U
+P00782|venta|V00782|PagoSeguro (externa)|Tarjeta de crédito|66000|aprobado|2026-09-25|15:21|PS-ZM9EKP9LGE
+P00783|venta|V00783|PagoSeguro (externa)|Transferencia|110000|aprobado|2026-09-30|02:26|PS-C7WQAA6BV4
+P00784|venta|V00784|PagoSeguro (externa)|Tarjeta de débito|105600|aprobado|2026-08-30|01:39|PS-4F4SP5AW2Z
+P00785|venta|V00785|PagoSeguro (externa)|QR billetera virtual|64350|aprobado|2026-09-24|15:08|PS-PQBRNU46F7
+P00786|venta|V00786|PagoSeguro (externa)|QR billetera virtual|70400|aprobado|2026-10-06|02:10|PS-TNVJ7VLJJS
+P00787|venta|V00787|Boletería|Tarjeta de débito|67500|aprobado|2026-10-24|19:32|
+P00788|venta|V00788|PagoSeguro (externa)|Tarjeta de débito|70400|aprobado|2026-10-22|13:50|PS-L4NATHYSB5
+P00789|venta|V00789|PagoSeguro (externa)|Tarjeta de débito|70400|aprobado|2026-09-14|14:08|PS-6UGKD6S772
+P00790|venta|V00790|PagoSeguro (externa)|QR billetera virtual|29700|aprobado|2026-09-07|19:48|PS-C62D4LNHLE
+P00791|venta|V00791|PagoSeguro (externa)|Tarjeta de débito|74250|aprobado|2026-10-29|08:56|PS-FSPDYQUQMJ
+P00792|venta|V00792|Boletería|Tarjeta de crédito|67500|aprobado|2026-09-12|14:08|
+P00793|venta|V00793|PagoSeguro (externa)|Transferencia|73600|aprobado|2026-08-31|21:56|PS-VKSFQPQFKQ
+P00794|venta|V00794|PagoSeguro (externa)|QR billetera virtual|50600|aprobado|2026-10-14|06:45|PS-SJX92UFC5S
+P00795|venta|V00795|Boletería|Efectivo|90000|aprobado|2026-10-11|19:49|
+P00796|venta|V00796|PagoSeguro (externa)|Transferencia|50600|aprobado|2026-10-18|12:24|PS-USYPZZKLWS
+P00797|venta|V00797|Boletería|Efectivo|22500|aprobado|2026-08-27|19:56|
+P00798|venta|V00798|Boletería|Tarjeta de débito|69000|aprobado|2026-10-16|12:17|
+P00799|venta|V00799|Boletería|Efectivo|60900|aprobado|2026-10-18|16:23|
+P00800|venta|V00800|PagoSeguro (externa)|Transferencia|59400|aprobado|2026-08-25|13:38|PS-Q3CDM3CG9S
+P00801|venta|V00801|PagoSeguro (externa)|Tarjeta de crédito|140800|aprobado|2026-10-01|13:48|PS-L9CL35N32N
+P00802|venta|V00802|PagoSeguro (externa)|Transferencia|140800|aprobado|2026-10-25|12:46|PS-ZXDVZPTNW4
+P00803|venta|V00803|Boletería|Efectivo|108000|aprobado|2026-10-13|16:15|
+P00804|venta|V00804|PagoSeguro (externa)|Tarjeta de débito|73600|aprobado|2026-09-15|02:46|PS-SQEYRRGSJF
+P00805|venta|V00805|Boletería|Efectivo|22500|aprobado|2026-08-29|17:31|
+P00806|venta|V00806|Boletería|Efectivo|67500|aprobado|2026-09-24|18:46|
+P00807|venta|V00807|PagoSeguro (externa)|Tarjeta de crédito|29700|aprobado|2026-10-01|09:24|PS-REA679XEU7
+P00808|venta|V00808|PagoSeguro (externa)|Transferencia|43200|aprobado|2026-10-21|20:45|PS-56FQ56D4BX
+P00809|venta|V00809|PagoSeguro (externa)|Tarjeta de débito|105600|aprobado|2026-09-11|16:00|PS-G78MEX48XY
+P00810|venta|V00810|PagoSeguro (externa)|Tarjeta de débito|89100|aprobado|2026-10-15|23:21|PS-XC5U2SEKH9
+P00811|venta|V00811|PagoSeguro (externa)|Tarjeta de débito|74250|aprobado|2026-10-06|20:15|PS-5TTBT5RHVY
+P00812|venta|V00812|PagoSeguro (externa)|Tarjeta de débito|140800|aprobado|2026-08-28|05:17|PS-CFFN23X5P4
+P00813|venta|V00813|PagoSeguro (externa)|Tarjeta de crédito|59400|aprobado|2026-10-14|19:53|PS-BFACQCGJGQ
+P00814|venta|V00814|PagoSeguro (externa)|Transferencia|55200|aprobado|2026-10-23|08:10|PS-EAS5WQT6LX
+P00815|venta|V00815|PagoSeguro (externa)|Tarjeta de crédito|108000|aprobado|2026-09-07|14:17|PS-CBHLGGS88Q
+P00816|venta|V00816|PagoSeguro (externa)|Tarjeta de crédito|140800|aprobado|2026-09-07|01:33|PS-TM92SMZ5K6
+P00817|venta|V00817|PagoSeguro (externa)|Tarjeta de crédito|127600|aprobado|2026-10-12|07:12|PS-FE7L24BS66
+P00818|venta|V00818|Boletería|Tarjeta de débito|22500|aprobado|2026-10-01|10:37|
+P00819|venta|V00819|Boletería|Tarjeta de crédito|54000|aprobado|2026-09-16|14:14|
+P00820|venta|V00820|PagoSeguro (externa)|QR billetera virtual|43200|aprobado|2026-09-22|16:57|PS-KLXEE5M2U3
+P00821|venta|V00821|Boletería|Tarjeta de débito|87000|aprobado|2026-09-08|10:53|
+P00822|venta|V00822|PagoSeguro (externa)|QR billetera virtual|50600|aprobado|2026-09-06|20:34|PS-K5ZRW5CC8L
+P00823|venta|V00823|Boletería|Efectivo|64000|aprobado|2026-09-23|12:23|
+P00824|venta|V00824|PagoSeguro (externa)|Transferencia|95700|aprobado|2026-08-10|12:28|PS-K7XAVNZD2D
+P00825|venta|V00825|PagoSeguro (externa)|Transferencia|43200|aprobado|2026-09-05|08:24|PS-NLHLXWQAD9
+P00826|venta|V00826|Boletería|Tarjeta de débito|116000|aprobado|2026-08-19|14:21|
+P00827|venta|V00827|PagoSeguro (externa)|Transferencia|55200|aprobado|2026-10-15|18:08|PS-K629FCA7BP
+P00828|venta|V00828|PagoSeguro (externa)|Tarjeta de crédito|31900|aprobado|2026-09-08|14:01|PS-YB3YYVYAZ6
+P00829|venta|V00829|PagoSeguro (externa)|Transferencia|50600|aprobado|2026-09-25|05:52|PS-DZ4ZQZY9SF
+P00830|venta|V00830|Boletería|Tarjeta de crédito|64000|aprobado|2026-10-26|11:16|
+P00831|venta|V00831|Boletería|Tarjeta de débito|108000|aprobado|2026-09-29|16:31|
+P00832|venta|V00832|PagoSeguro (externa)|Tarjeta de débito|89100|aprobado|2026-10-24|04:03|PS-G6ZE3NAULU
+P00833|venta|V00833|PagoSeguro (externa)|Tarjeta de débito|50600|aprobado|2026-10-28|19:21|PS-G6Y6958HCK
+P00834|venta|V00834|Boletería|Efectivo|90000|aprobado|2026-09-29|13:12|
+P00835|venta|V00835|Boletería|Efectivo|23000|aprobado|2026-09-06|11:27|
+P00836|venta|V00836|Boletería|Tarjeta de crédito|81000|aprobado|2026-10-13|11:31|
+P00837|venta|V00837|PagoSeguro (externa)|Tarjeta de débito|31900|aprobado|2026-10-11|15:59|PS-JD2D9LSGCW
+P00838|venta|V00838|Boletería|Tarjeta de crédito|96000|aprobado|2026-10-14|15:59|
+P00839|venta|V00839|PagoSeguro (externa)|Tarjeta de crédito|101200|aprobado|2026-09-27|15:54|PS-QQ8MPDY3F3
+P00840|venta|V00840|Boletería|Tarjeta de crédito|90000|aprobado|2026-09-05|19:43|
+P00841|venta|V00841|PagoSeguro (externa)|QR billetera virtual|118800|aprobado|2026-08-21|05:03|PS-DVFVYLKB5L
+P00842|venta|V00842|Boletería|Tarjeta de crédito|27000|aprobado|2026-10-16|13:50|
+P00843|venta|V00843|PagoSeguro (externa)|Tarjeta de débito|92800|aprobado|2026-10-03|22:30|PS-S2WMMHL9F5
+P00844|venta|V00844|Boletería|Efectivo|64000|aprobado|2026-09-06|14:23|
+P00845|venta|V00845|PagoSeguro (externa)|Tarjeta de débito|74250|aprobado|2026-08-10|02:04|PS-TAEEXJLAB3
+P00846|venta|V00846|PagoSeguro (externa)|Tarjeta de crédito|74250|aprobado|2026-10-19|19:40|PS-X5TL5R2FJ2
+P00847|venta|V00847|Boletería|Tarjeta de débito|44800|aprobado|2026-10-21|16:32|
+P00848|venta|V00848|Boletería|Tarjeta de crédito|90000|aprobado|2026-10-03|17:59|
+P00849|venta|V00849|Boletería|Tarjeta de débito|67200|aprobado|2026-10-14|14:59|
+P00850|venta|V00850|Boletería|Tarjeta de crédito|64000|aprobado|2026-10-28|11:39|
+P00851|venta|V00851|Boletería|Efectivo|32000|aprobado|2026-10-09|19:25|
+P00852|venta|V00852|PagoSeguro (externa)|Tarjeta de crédito|35200|aprobado|2026-10-25|22:48|PS-FKHXXUDEHA
+P00853|venta|V00853|PagoSeguro (externa)|Transferencia|25600|aprobado|2026-08-13|08:44|PS-8W3K3QEFLW
+P00854|venta|V00854|PagoSeguro (externa)|Transferencia|99000|aprobado|2026-09-05|06:15|PS-KWYGDZGBQF
+P00855|venta|V00855|PagoSeguro (externa)|Transferencia|127600|aprobado|2026-08-29|16:49|PS-7S3C7JJLLJ
+P00856|venta|V00856|Boletería|Tarjeta de crédito|23000|aprobado|2026-10-17|13:26|
+P00857|venta|V00857|Boletería|Tarjeta de crédito|54000|aprobado|2026-10-06|13:29|
+P00858|venta|V00858|Boletería|Efectivo|54000|aprobado|2026-08-29|14:13|
+P00859|venta|V00859|PagoSeguro (externa)|QR billetera virtual|118800|aprobado|2026-10-08|06:23|PS-KJFE82QKLB
+P00860|venta|V00860|Boletería|Tarjeta de débito|54000|aprobado|2026-09-26|15:28|
+P00861|venta|V00861|Boletería|Tarjeta de crédito|35000|aprobado|2026-09-02|19:15|
+P00862|venta|V00862|PagoSeguro (externa)|QR billetera virtual|23650|aprobado|2026-09-15|14:37|PS-TXKF2MRFE9
+P00863|venta|V00863|Boletería|Tarjeta de débito|50400|aprobado|2026-10-20|18:49|
+P00864|venta|V00864|PagoSeguro (externa)|Tarjeta de crédito|67650|aprobado|2026-10-25|20:00|PS-YMMGHRQKRY
+P00865|venta|V00865|Boletería|Efectivo|82000|aprobado|2026-10-20|16:00|
+P00866|venta|V00866|PagoSeguro (externa)|Tarjeta de crédito|76800|aprobado|2026-10-28|22:37|PS-MZ6GMTB73Z
+P00867|venta|V00867|Boletería|Tarjeta de crédito|64500|aprobado|2026-10-25|21:13|
+P00868|venta|V00868|Boletería|Tarjeta de débito|72000|aprobado|2026-09-16|21:02|
+P00869|venta|V00869|PagoSeguro (externa)|QR billetera virtual|17200|aprobado|2026-09-23|18:22|PS-XSVTVXXWXB
+P00870|venta|V00870|Boletería|Tarjeta de crédito|82000|aprobado|2026-09-01|16:50|
+P00871|venta|V00871|PagoSeguro (externa)|Tarjeta de débito|52800|aprobado|2026-10-16|09:59|PS-ARHM2853AS
+P00872|venta|V00872|Boletería|Tarjeta de débito|72000|aprobado|2026-09-01|15:43|
+P00873|venta|V00873|Boletería|Efectivo|35000|aprobado|2026-10-09|15:48|
+P00874|venta|V00874|Boletería|Efectivo|43050|aprobado|2026-10-13|18:22|
+P00875|venta|V00875|PagoSeguro (externa)|Tarjeta de débito|42000|aprobado|2026-09-03|15:53|PS-KR8ZH6FND7
+P00876|venta|V00876|Boletería|Tarjeta de crédito|20500|aprobado|2026-10-15|12:42|
+P00877|venta|V00877|PagoSeguro (externa)|Tarjeta de crédito|52800|aprobado|2026-10-17|12:38|PS-WHCAK8YZTF
+P00878|venta|V00878|PagoSeguro (externa)|Tarjeta de crédito|38500|aprobado|2026-10-20|04:37|PS-BV6VB36AJQ
+P00879|venta|V00879|PagoSeguro (externa)|Tarjeta de crédito|70950|aprobado|2026-09-12|23:56|PS-LEYG8GV76K
+P00880|venta|V00880|Boletería|Efectivo|96000|aprobado|2026-10-18|20:52|
+P00881|venta|V00881|PagoSeguro (externa)|Transferencia|38500|aprobado|2026-10-08|03:04|PS-C9ST2KD5Q4
+P00882|venta|V00882|Boletería|Efectivo|73500|aprobado|2026-09-17|13:56|
+P00883|venta|V00883|PagoSeguro (externa)|Transferencia|54400|aprobado|2026-09-27|09:01|PS-JY6DYYYJZJ
+P00884|venta|V00884|PagoSeguro (externa)|Tarjeta de crédito|105600|aprobado|2026-08-27|05:33|PS-FAUEPV24TX
+P00885|venta|V00885|PagoSeguro (externa)|Transferencia|56100|aprobado|2026-10-20|15:48|PS-DBA4G62S2S
+P00886|venta|V00886|PagoSeguro (externa)|Transferencia|56100|aprobado|2026-10-09|08:24|PS-XYKFNCL4L5
+P00887|venta|V00887|PagoSeguro (externa)|Tarjeta de crédito|42000|aprobado|2026-10-16|15:48|PS-EKZGQ7MVRP
+P00888|venta|V00888|Boletería|Efectivo|41000|aprobado|2026-10-05|12:13|
+P00889|venta|V00889|Boletería|Efectivo|24000|aprobado|2026-09-14|13:20|
+P00890|venta|V00890|PagoSeguro (externa)|QR billetera virtual|16400|aprobado|2026-09-02|13:23|PS-QAT3M5LMTY
+P00891|venta|V00891|Boletería|Tarjeta de débito|144000|aprobado|2026-09-13|12:53|
+P00892|venta|V00892|Boletería|Tarjeta de crédito|52500|aprobado|2026-08-23|10:30|
+P00893|venta|V00893|Boletería|Tarjeta de crédito|28700|aprobado|2026-09-22|11:18|
+P00894|venta|V00894|PagoSeguro (externa)|Transferencia|45100|aprobado|2026-09-22|07:15|PS-F6JWA4LVCJ
+P00895|venta|V00895|PagoSeguro (externa)|Transferencia|19250|aprobado|2026-09-15|07:54|PS-DENBJNYL2L
+P00896|venta|V00896|Boletería|Tarjeta de crédito|34000|aprobado|2026-09-04|12:45|
+P00897|venta|V00897|PagoSeguro (externa)|Tarjeta de crédito|52800|aprobado|2026-08-16|12:23|PS-G87MFXM4BJ
+P00898|venta|V00898|PagoSeguro (externa)|QR billetera virtual|18700|aprobado|2026-08-18|04:21|PS-T29TW83Z2U
+P00899|venta|V00899|PagoSeguro (externa)|Tarjeta de crédito|67650|aprobado|2026-08-16|12:52|PS-FK6TE2HP4L
+P00900|venta|V00900|Boletería|Efectivo|123000|aprobado|2026-09-27|14:22|
+P00901|venta|V00901|PagoSeguro (externa)|Transferencia|16400|aprobado|2026-10-28|21:49|PS-NVHXJD4KD5
+P00902|venta|V00902|PagoSeguro (externa)|QR billetera virtual|105600|aprobado|2026-10-11|07:25|PS-ENYMT8C3KA
+P00903|venta|V00903|Boletería|Tarjeta de débito|105000|aprobado|2026-10-21|17:01|
+P00904|venta|V00904|Boletería|Tarjeta de débito|61500|aprobado|2026-10-17|11:04|
+P00905|venta|V00905|PagoSeguro (externa)|QR billetera virtual|37400|aprobado|2026-10-28|22:39|PS-STZN8U4Y86
+P00906|venta|V00906|Boletería|Tarjeta de crédito|102500|aprobado|2026-09-04|12:37|
+P00907|venta|V00907|PagoSeguro (externa)|Tarjeta de débito|34400|aprobado|2026-10-10|14:19|PS-BXWWVEUN9M
+P00908|venta|V00908|PagoSeguro (externa)|Transferencia|74800|aprobado|2026-10-04|16:27|PS-KYJQYUVMHF
+P00909|venta|V00909|PagoSeguro (externa)|Tarjeta de crédito|57750|aprobado|2026-08-26|16:29|PS-LPLWMYEVBQ
+P00910|venta|V00910|Boletería|Tarjeta de débito|85000|aprobado|2026-08-10|13:11|
+P00911|venta|V00911|PagoSeguro (externa)|Tarjeta de débito|45100|aprobado|2026-09-26|15:35|PS-HWNLT9DG4P
+P00912|venta|V00912|PagoSeguro (externa)|QR billetera virtual|19250|aprobado|2026-10-13|14:28|PS-2SM4YPC788
+P00913|venta|V00913|Boletería|Tarjeta de débito|17000|aprobado|2026-09-25|10:58|
+P00914|venta|V00914|PagoSeguro (externa)|Tarjeta de crédito|90200|aprobado|2026-09-03|05:20|PS-3HLC3VVHNA
+P00915|venta|V00915|PagoSeguro (externa)|Tarjeta de crédito|38500|aprobado|2026-09-21|23:26|PS-PJ7BAAGTQZ
+P00916|venta|V00916|PagoSeguro (externa)|Tarjeta de débito|37400|aprobado|2026-10-07|18:15|PS-63TGM7ZS7R
+P00917|venta|V00917|Boletería|Tarjeta de crédito|17500|aprobado|2026-10-22|19:31|
+P00918|venta|V00918|Boletería|Efectivo|82000|aprobado|2026-10-04|18:31|
+P00919|venta|V00919|PagoSeguro (externa)|Tarjeta de crédito|51600|aprobado|2026-08-20|01:59|PS-F5BGDKGQPP
+P00920|venta|V00920|PagoSeguro (externa)|Tarjeta de crédito|54400|aprobado|2026-09-22|12:00|PS-UCA8EEANWJ
+P00921|venta|V00921|PagoSeguro (externa)|QR billetera virtual|56100|aprobado|2026-09-16|04:57|PS-Q389WQF3HX
+P00922|venta|V00922|PagoSeguro (externa)|Transferencia|90200|aprobado|2026-08-22|20:27|PS-CJP6GJSGKX
+P00923|venta|V00923|PagoSeguro (externa)|Transferencia|52800|aprobado|2026-10-10|16:20|PS-7J5J7MVRYH
+P00924|venta|V00924|PagoSeguro (externa)|Transferencia|105600|aprobado|2026-10-14|07:35|PS-YNE7GS3DFZ
+P00925|venta|V00925|PagoSeguro (externa)|Tarjeta de débito|77000|aprobado|2026-10-29|17:06|PS-NGKESXJFGT
+P00926|venta|V00926|PagoSeguro (externa)|Transferencia|17200|aprobado|2026-10-06|16:08|PS-Q6LD5DAYEY
+P00927|venta|V00927|Boletería|Efectivo|12250|aprobado|2026-08-19|18:15|
+P00928|venta|V00928|Boletería|Tarjeta de débito|17000|aprobado|2026-09-18|11:16|
+P00929|venta|V00929|PagoSeguro (externa)|Tarjeta de crédito|67650|aprobado|2026-10-24|03:42|PS-G47RUKKLQB
+P00930|venta|V00930|PagoSeguro (externa)|Transferencia|19200|aprobado|2026-10-17|22:43|PS-8ZGBE536FU
+P00931|venta|V00931|PagoSeguro (externa)|QR billetera virtual|57750|aprobado|2026-10-08|13:29|PS-QBV9EMPLR7
+P00932|venta|V00932|PagoSeguro (externa)|Tarjeta de crédito|27200|aprobado|2026-10-13|02:47|PS-B9FYRVAPNV
+P00933|venta|V00933|PagoSeguro (externa)|Tarjeta de crédito|67650|aprobado|2026-10-11|04:00|PS-BK2ANQAL7K
+P00934|venta|V00934|PagoSeguro (externa)|Tarjeta de débito|57750|aprobado|2026-10-21|08:57|PS-Q56L6DD839
+P00935|venta|V00935|PagoSeguro (externa)|Tarjeta de crédito|56100|aprobado|2026-10-08|00:45|PS-44NHJX6Y3L
+P00936|venta|V00936|Boletería|Efectivo|52500|aprobado|2026-09-26|10:19|
+P00937|venta|V00937|PagoSeguro (externa)|Tarjeta de crédito|40800|aprobado|2026-10-15|03:38|PS-DZJEYGKSRL
+P00938|venta|V00938|PagoSeguro (externa)|QR billetera virtual|57750|aprobado|2026-10-17|04:15|PS-MAXHTNUP9H
+P00939|venta|V00939|PagoSeguro (externa)|Tarjeta de crédito|70950|aprobado|2026-10-13|08:41|PS-VMMFLWP84H
+P00940|venta|V00940|PagoSeguro (externa)|Tarjeta de débito|74800|aprobado|2026-10-01|04:13|PS-6J3HEHKVGV
+P00941|venta|V00941|Boletería|Efectivo|28700|aprobado|2026-10-27|14:37|
+P00942|venta|V00942|Boletería|Tarjeta de débito|82000|aprobado|2026-08-12|18:06|
+P00943|venta|V00943|Boletería|Tarjeta de crédito|17000|aprobado|2026-10-19|18:53|
+P00944|venta|V00944|PagoSeguro (externa)|QR billetera virtual|56100|aprobado|2026-10-14|21:18|PS-27V67VL4HH
+P00945|venta|V00945|Boletería|Efectivo|68000|aprobado|2026-10-06|20:11|
+P00946|venta|V00946|Boletería|Efectivo|51000|aprobado|2026-08-07|20:09|
+P00947|venta|V00947|Boletería|Tarjeta de débito|68000|aprobado|2026-10-25|11:08|
+P00948|venta|V00948|PagoSeguro (externa)|QR billetera virtual|115500|aprobado|2026-08-21|11:49|PS-462SA52SGF
+P00949|venta|V00949|Boletería|Tarjeta de débito|61500|aprobado|2026-09-28|17:55|
+P00950|venta|V00950|PagoSeguro (externa)|Tarjeta de crédito|14000|aprobado|2026-10-07|13:33|PS-BFQEQSS25Z
+P00951|venta|V00951|PagoSeguro (externa)|Tarjeta de débito|45100|aprobado|2026-09-02|09:27|PS-Y7UCYPATXT
+P00952|venta|V00952|Boletería|Tarjeta de débito|17500|aprobado|2026-10-28|17:11|
+P00953|venta|V00953|PagoSeguro (externa)|QR billetera virtual|19250|aprobado|2026-08-20|14:28|PS-6VJ4HXA9UW
+P00954|venta|V00954|PagoSeguro (externa)|Transferencia|105600|aprobado|2026-09-14|18:16|PS-K9KWBDUMLS
+P00955|venta|V00955|Boletería|Tarjeta de crédito|68000|aprobado|2026-10-05|10:24|
+P00956|venta|V00956|PagoSeguro (externa)|Tarjeta de débito|65600|aprobado|2026-09-06|07:53|PS-MHNCRF4D7E
+P00957|venta|V00957|PagoSeguro (externa)|Transferencia|18700|aprobado|2026-10-11|15:54|PS-R4TUAAVFQP
+P00958|venta|V00958|Boletería|Tarjeta de crédito|21500|aprobado|2026-08-23|13:22|
+P00959|venta|V00959|PagoSeguro (externa)|Tarjeta de crédito|38400|aprobado|2026-10-20|08:40|PS-CSCNFN4QHX
+P00960|venta|V00960|PagoSeguro (externa)|Transferencia|50600|aprobado|2026-10-29|11:01|PS-ZGNUFRDJ3Z
+P00961|venta|V00961|PagoSeguro (externa)|Tarjeta de débito|24200|aprobado|2026-10-16|15:41|PS-TQPHDSJ3BD
+P00962|venta|V00962|Boletería|Tarjeta de débito|32000|aprobado|2026-09-19|19:10|
+P00963|venta|V00963|PagoSeguro (externa)|Tarjeta de crédito|12100|aprobado|2026-09-07|22:30|PS-LLYUYUKLGQ
+P00964|venta|V00964|Boletería|Efectivo|58000|aprobado|2026-10-08|16:43|
+P00965|venta|V00965|PagoSeguro (externa)|Tarjeta de débito|17600|aprobado|2026-08-09|19:27|PS-ERH33B6SSV
+P00966|venta|V00966|PagoSeguro (externa)|Tarjeta de débito|59400|aprobado|2026-08-15|02:26|PS-TZ89AV8J6C
+P00967|venta|V00967|Boletería|Tarjeta de débito|80000|aprobado|2026-08-27|21:03|
+P00968|venta|V00968|Boletería|Efectivo|54000|aprobado|2026-10-15|10:35|
+P00969|venta|V00969|Boletería|Tarjeta de crédito|27000|aprobado|2026-10-10|21:43|
+P00970|venta|V00970|PagoSeguro (externa)|Transferencia|37950|aprobado|2026-09-21|16:45|PS-JFTUNWZQ82
+P00971|venta|V00971|Boletería|Tarjeta de crédito|69000|aprobado|2026-09-11|16:40|
+P00972|venta|V00972|Boletería|Efectivo|16000|aprobado|2026-09-08|13:23|
+P00973|venta|V00973|PagoSeguro (externa)|Transferencia|70400|aprobado|2026-10-05|05:28|PS-GLJ9LMWPSS
+P00974|venta|V00974|Boletería|Tarjeta de crédito|24150|aprobado|2026-09-26|13:13|
+P00975|venta|V00975|PagoSeguro (externa)|Tarjeta de débito|70400|aprobado|2026-10-09|04:29|PS-ZTCLWC2Y8A
+P00976|venta|V00976|PagoSeguro (externa)|QR billetera virtual|12650|aprobado|2026-10-27|08:48|PS-WQWMJ5WXCL
+P00977|venta|V00977|PagoSeguro (externa)|Tarjeta de crédito|37950|aprobado|2026-10-28|15:23|PS-QFC2Q385WA
+P00978|venta|V00978|PagoSeguro (externa)|Tarjeta de crédito|8800|aprobado|2026-09-21|06:59|PS-T5FEJ2V5GE
+P00979|venta|V00979|Boletería|Tarjeta de crédito|14500|aprobado|2026-09-17|18:45|
+P00980|venta|V00980|PagoSeguro (externa)|QR billetera virtual|24200|aprobado|2026-10-03|01:42|PS-KZMC8A5PMK
+P00981|venta|V00981|Boletería|Efectivo|44000|aprobado|2026-08-20|14:37|
+P00982|venta|V00982|Boletería|Efectivo|44000|aprobado|2026-09-25|14:21|
+P00983|venta|V00983|Boletería|Efectivo|67500|aprobado|2026-10-24|16:31|
+P00984|venta|V00984|PagoSeguro (externa)|Transferencia|75900|aprobado|2026-08-14|19:21|PS-4X42DPUZGY
+P00985|venta|V00985|PagoSeguro (externa)|QR billetera virtual|35200|aprobado|2026-10-10|15:01|PS-HSAG73WJCQ
+P00986|venta|V00986|Boletería|Tarjeta de crédito|22000|aprobado|2026-09-26|11:17|
+P00987|venta|V00987|PagoSeguro (externa)|Transferencia|46400|aprobado|2026-09-07|20:49|PS-98MAX5YT28
+P00988|venta|V00988|Boletería|Tarjeta de crédito|15400|aprobado|2026-08-19|13:58|
+P00989|venta|V00989|PagoSeguro (externa)|Transferencia|12100|aprobado|2026-10-01|05:49|PS-YTBRHWM7L5
+P00990|venta|V00990|Boletería|Tarjeta de débito|8050|aprobado|2026-09-08|18:58|
+P00991|venta|V00991|Boletería|Efectivo|23000|aprobado|2026-10-19|11:21|
+P00992|venta|V00992|Boletería|Efectivo|48000|aprobado|2026-09-23|18:12|
+P00993|venta|V00993|Boletería|Tarjeta de débito|48000|aprobado|2026-10-01|19:29|
+P00994|venta|V00994|PagoSeguro (externa)|Tarjeta de débito|37950|aprobado|2026-10-14|22:15|PS-653YCDXZ9H
+P00995|venta|V00995|PagoSeguro (externa)|Tarjeta de crédito|70400|aprobado|2026-09-19|07:16|PS-BAWKPEWLHM
+P00996|venta|V00996|Boletería|Tarjeta de crédito|11500|aprobado|2026-08-23|16:55|
+P00997|venta|V00997|Boletería|Tarjeta de crédito|11000|aprobado|2026-10-29|11:29|
+P00998|venta|V00998|Boletería|Tarjeta de débito|8050|aprobado|2026-08-28|17:13|
+P00999|venta|V00999|Boletería|Tarjeta de débito|30450|aprobado|2026-10-18|12:28|
+P01000|venta|V01000|PagoSeguro (externa)|Tarjeta de crédito|63800|aprobado|2026-09-28|02:54|PS-6FRK2GFMFR
+P01001|venta|V01001|PagoSeguro (externa)|Tarjeta de débito|10800|aprobado|2026-08-08|23:22|PS-AQL7U3ARGT
+P01002|venta|V01002|PagoSeguro (externa)|QR billetera virtual|48400|aprobado|2026-10-14|18:58|PS-EYW76LF9P7
+P01003|venta|V01003|Boletería|Tarjeta de crédito|22400|aprobado|2026-09-01|21:36|
+P01004|venta|V01004|PagoSeguro (externa)|Tarjeta de crédito|50600|aprobado|2026-10-19|00:21|PS-9T3SUGKFA5
+P01005|venta|V01005|Boletería|Tarjeta de débito|44800|aprobado|2026-09-16|15:58|
+P01006|venta|V01006|Boletería|Tarjeta de crédito|30800|aprobado|2026-10-19|18:33|
+P01007|venta|V01007|Boletería|Efectivo|15400|aprobado|2026-10-05|12:20|
+P01008|venta|V01008|Boletería|Efectivo|23000|aprobado|2026-10-04|20:29|
+P01009|venta|V01009|Boletería|Tarjeta de crédito|54000|aprobado|2026-10-16|16:17|
+P01010|venta|V01010|PagoSeguro (externa)|Tarjeta de crédito|12650|aprobado|2026-10-17|23:02|PS-LJE3Y9SETF
+P01011|venta|V01011|PagoSeguro (externa)|QR billetera virtual|59400|aprobado|2026-09-04|03:04|PS-KVM5EZQ9FC
+P01012|venta|V01012|PagoSeguro (externa)|Tarjeta de débito|75900|aprobado|2026-10-29|08:35|PS-3VANNKX6HF
+P01013|venta|V01013|PagoSeguro (externa)|Tarjeta de débito|25600|aprobado|2026-10-26|01:31|PS-V6XJ739M93
+P01014|venta|V01014|Boletería|Efectivo|34500|aprobado|2026-09-15|21:04|
+P01015|venta|V01015|Boletería|Efectivo|32000|aprobado|2026-10-03|12:16|
+P01016|venta|V01016|Boletería|Efectivo|87000|aprobado|2026-10-01|16:28|
+P01017|venta|V01017|PagoSeguro (externa)|Tarjeta de débito|59400|aprobado|2026-09-27|23:30|PS-TBRGAVJPFC
+P01018|venta|V01018|PagoSeguro (externa)|Transferencia|12100|aprobado|2026-10-10|17:43|PS-PQ6YUBAQSC
+P01019|venta|V01019|PagoSeguro (externa)|Tarjeta de crédito|26400|aprobado|2026-09-10|02:36|PS-5Q2WMDCM8C
+P01020|venta|V01020|Boletería|Tarjeta de crédito|46000|aprobado|2026-10-13|11:51|
+P01021|venta|V01021|Boletería|Tarjeta de débito|67500|aprobado|2026-08-28|10:14|
+P01022|venta|V01022|PagoSeguro (externa)|Transferencia|27600|aprobado|2026-09-29|21:33|PS-QS5KX5RRJY
+P01023|venta|V01023|Boletería|Efectivo|27000|aprobado|2026-09-20|19:12|
+P01024|venta|V01024|Boletería|Tarjeta de crédito|80000|aprobado|2026-10-16|20:24|
+P01025|venta|V01025|Boletería|Tarjeta de débito|46000|aprobado|2026-09-05|15:36|
+P01026|venta|V01026|Boletería|Tarjeta de crédito|48000|aprobado|2026-09-28|18:39|
+P01027|venta|V01027|Boletería|Efectivo|11000|aprobado|2026-09-05|20:06|
+P01028|venta|V01028|PagoSeguro (externa)|Tarjeta de débito|50600|aprobado|2026-10-20|00:50|PS-54X5Y5ZW75
+P01029|venta|V01029|Boletería|Tarjeta de crédito|11500|aprobado|2026-09-09|20:12|
+P01030|venta|V01030|Boletería|Tarjeta de crédito|27000|aprobado|2026-09-25|20:09|
+P01031|venta|V01031|PagoSeguro (externa)|QR billetera virtual|21600|aprobado|2026-08-22|03:22|PS-RVPV84W5NJ
+P01032|venta|V01032|Boletería|Tarjeta de débito|11500|aprobado|2026-10-26|20:22|
+P01033|venta|V01033|PagoSeguro (externa)|Tarjeta de débito|58000|aprobado|2026-09-13|21:01|PS-F556V7G639
+P01034|venta|V01034|Boletería|Tarjeta de débito|48000|aprobado|2026-09-17|18:21|
+P01035|venta|V01035|PagoSeguro (externa)|QR billetera virtual|17600|aprobado|2026-08-22|03:57|PS-ANB9VNHKJQ
+P01036|venta|V01036|PagoSeguro (externa)|QR billetera virtual|17600|aprobado|2026-10-20|10:07|PS-G9F7BMKCUG
+P01037|venta|V01037|Boletería|Efectivo|43500|aprobado|2026-10-04|12:01|
+P01038|venta|V01038|Boletería|Tarjeta de crédito|48000|aprobado|2026-09-21|21:05|
+P01039|venta|V01039|PagoSeguro (externa)|Transferencia|11600|aprobado|2026-10-22|20:21|PS-BMUWC2KG9U
+P01040|venta|V01040|PagoSeguro (externa)|Transferencia|36800|aprobado|2026-09-28|22:33|PS-C9A3CL6NZM
+P01041|venta|V01041|Boletería|Efectivo|27000|aprobado|2026-10-09|21:48|
+P01042|venta|V01042|PagoSeguro (externa)|Transferencia|70400|aprobado|2026-10-09|14:15|PS-5AZSLJUC46
+P01043|venta|V01043|Boletería|Tarjeta de débito|46000|aprobado|2026-08-16|19:01|
+P01044|venta|V01044|PagoSeguro (externa)|QR billetera virtual|52800|aprobado|2026-09-15|19:40|PS-SNGESJZ7UE
+P01045|venta|V01045|Boletería|Tarjeta de crédito|11000|aprobado|2026-10-13|11:10|
+P01046|venta|V01046|PagoSeguro (externa)|QR billetera virtual|87450|aprobado|2026-10-21|06:11|PS-8FK5WN3YCV
+P01047|venta|V01047|PagoSeguro (externa)|QR billetera virtual|41800|aprobado|2026-09-08|06:18|PS-UNHHGRQE63
+P01048|venta|V01048|Boletería|Efectivo|228000|aprobado|2026-09-10|11:33|
+P01049|venta|V01049|PagoSeguro (externa)|Tarjeta de crédito|112200|aprobado|2026-09-11|08:27|PS-LS4E2QEF2B
+P01050|venta|V01050|Boletería|Tarjeta de débito|102000|aprobado|2026-10-15|16:07|
+P01051|venta|V01051|PagoSeguro (externa)|QR billetera virtual|58300|aprobado|2026-10-02|18:57|PS-QG5THK9RFG
+P01052|venta|V01052|Boletería|Efectivo|79500|aprobado|2026-10-11|15:59|
+P01053|venta|V01053|PagoSeguro (externa)|Tarjeta de débito|156000|aprobado|2026-10-02|03:09|PS-YK2B35H36J
+P01054|venta|V01054|PagoSeguro (externa)|Tarjeta de débito|54400|aprobado|2026-08-22|19:18|PS-GC56V4C3JH
+P01055|venta|V01055|PagoSeguro (externa)|Transferencia|87450|aprobado|2026-09-19|23:26|PS-4RZEB2CHGR
+P01056|venta|V01056|Boletería|Tarjeta de débito|79500|aprobado|2026-10-06|11:03|
+P01057|venta|V01057|Boletería|Tarjeta de crédito|228000|aprobado|2026-08-08|17:25|
+P01058|venta|V01058|PagoSeguro (externa)|Tarjeta de débito|121000|aprobado|2026-10-17|21:36|PS-5STCV4R49J
+P01059|venta|V01059|PagoSeguro (externa)|QR billetera virtual|58300|aprobado|2026-10-15|19:57|PS-T54ZMM37LV
+P01060|venta|V01060|PagoSeguro (externa)|QR billetera virtual|83600|aprobado|2026-09-14|22:04|PS-9XNQKRNWET
+P01061|venta|V01061|PagoSeguro (externa)|Tarjeta de crédito|81600|aprobado|2026-08-27|03:12|PS-ASWRN3QKFD
+P01062|venta|V01062|PagoSeguro (externa)|Tarjeta de débito|116600|aprobado|2026-09-13|03:59|PS-TTDQT2836Q
+P01063|venta|V01063|PagoSeguro (externa)|Transferencia|71500|aprobado|2026-10-19|19:19|PS-Y8KZUT9LUK
+P01064|venta|V01064|PagoSeguro (externa)|Tarjeta de débito|121600|aprobado|2026-10-01|23:12|PS-MXXP4EAF8J
+P01065|venta|V01065|Boletería|Efectivo|91000|aprobado|2026-09-28|15:46|
+P01066|venta|V01066|PagoSeguro (externa)|Tarjeta de crédito|58300|aprobado|2026-09-26|17:29|PS-TKHJ5TZNKC
+P01067|venta|V01067|Boletería|Tarjeta de crédito|106000|aprobado|2026-10-06|11:30|
+P01068|venta|V01068|Boletería|Efectivo|152000|aprobado|2026-08-14|18:17|
+P01069|venta|V01069|PagoSeguro (externa)|Tarjeta de débito|58300|aprobado|2026-10-20|12:19|PS-TQLKLYMPVF
+P01070|venta|V01070|Boletería|Tarjeta de débito|68000|aprobado|2026-10-11|12:30|
+P01071|venta|V01071|Boletería|Tarjeta de débito|152000|aprobado|2026-09-21|14:33|
+P01072|venta|V01072|Boletería|Tarjeta de crédito|53000|aprobado|2026-09-23|11:19|
+P01073|venta|V01073|Boletería|Efectivo|26500|aprobado|2026-10-22|21:44|
+P01074|venta|V01074|Boletería|Tarjeta de crédito|106400|aprobado|2026-09-30|14:16|
+P01075|venta|V01075|Boletería|Tarjeta de débito|53000|aprobado|2026-09-29|21:08|
+P01076|venta|V01076|Boletería|Tarjeta de crédito|27500|aprobado|2026-10-27|21:05|
+P01077|venta|V01077|PagoSeguro (externa)|QR billetera virtual|121000|aprobado|2026-08-13|03:58|PS-XPTY4UW2ZA
+P01078|venta|V01078|PagoSeguro (externa)|QR billetera virtual|107250|aprobado|2026-09-21|18:35|PS-KEP7YJHCGZ
+P01079|venta|V01079|Boletería|Tarjeta de débito|55000|aprobado|2026-08-04|17:45|
+P01080|venta|V01080|PagoSeguro (externa)|Transferencia|110000|aprobado|2026-09-09|11:28|PS-8VBZJZHNWA
+P01081|venta|V01081|PagoSeguro (externa)|Tarjeta de crédito|143000|aprobado|2026-10-08|19:37|PS-GJBU35TR9F
+P01082|venta|V01082|PagoSeguro (externa)|Transferencia|125400|aprobado|2026-09-30|19:59|PS-CM4AZN2EF5
+P01083|venta|V01083|PagoSeguro (externa)|Tarjeta de débito|145750|aprobado|2026-10-17|03:27|PS-GVMWNEFC77
+P01084|venta|V01084|PagoSeguro (externa)|Tarjeta de débito|167200|aprobado|2026-10-03|12:30|PS-KN8835M4Y6
+P01085|venta|V01085|PagoSeguro (externa)|Tarjeta de débito|78000|aprobado|2026-10-16|19:17|PS-PEWN83GX6T
+P01086|venta|V01086|Boletería|Efectivo|53000|aprobado|2026-10-18|16:16|
+P01087|venta|V01087|Boletería|Tarjeta de crédito|79500|aprobado|2026-10-27|21:11|
+P01088|venta|V01088|PagoSeguro (externa)|Transferencia|178750|aprobado|2026-10-25|21:35|PS-XCTA62ULJ7
+P01089|venta|V01089|PagoSeguro (externa)|Transferencia|35750|aprobado|2026-10-28|16:42|PS-EX7ZRTKR5S
+P01090|venta|V01090|Boletería|Efectivo|190000|aprobado|2026-09-07|13:16|
+P01091|venta|V01091|Boletería|Tarjeta de débito|53000|aprobado|2026-09-14|20:27|
+P01092|venta|V01092|PagoSeguro (externa)|QR billetera virtual|83600|aprobado|2026-09-23|02:08|PS-KH72CHPV99
+P01093|venta|V01093|Boletería|Efectivo|130000|aprobado|2026-10-25|20:29|
+P01094|venta|V01094|Boletería|Tarjeta de débito|137500|aprobado|2026-09-24|18:32|
+P01095|venta|V01095|PagoSeguro (externa)|Tarjeta de crédito|74800|aprobado|2026-08-05|06:54|PS-9AP7V6SX2K
+P01096|venta|V01096|PagoSeguro (externa)|Tarjeta de débito|87450|aprobado|2026-10-29|19:32|PS-MVWYVN6VYL
+P01097|venta|V01097|Boletería|Tarjeta de crédito|26500|aprobado|2026-10-18|19:06|
+P01098|venta|V01098|PagoSeguro (externa)|Transferencia|74800|aprobado|2026-08-30|12:51|PS-VGCVKYC7RY
+P01099|venta|V01099|PagoSeguro (externa)|QR billetera virtual|121000|aprobado|2026-10-25|18:32|PS-9RLHJ57MHJ
+P01100|venta|V01100|Boletería|Tarjeta de débito|79500|aprobado|2026-09-17|15:40|
+P01101|venta|V01101|PagoSeguro (externa)|QR billetera virtual|42400|aprobado|2026-10-05|10:59|PS-4YWV5N25SU
+P01102|venta|V01102|Boletería|Efectivo|65000|aprobado|2026-10-03|20:54|
+P01103|venta|V01103|Boletería|Tarjeta de débito|130000|aprobado|2026-10-14|17:22|
+P01104|venta|V01104|PagoSeguro (externa)|Tarjeta de débito|151250|aprobado|2026-09-23|21:09|PS-PK8P4VCZZP
+P01105|venta|V01105|PagoSeguro (externa)|Tarjeta de débito|37400|aprobado|2026-10-21|01:23|PS-FQERA7NRCC
+P01106|venta|V01106|PagoSeguro (externa)|Tarjeta de crédito|74800|aprobado|2026-09-23|08:36|PS-JPG2VUEMLM
+P01107|venta|V01107|PagoSeguro (externa)|QR billetera virtual|84800|aprobado|2026-09-19|17:04|PS-PNUWNMFNJP
+P01108|venta|V01108|PagoSeguro (externa)|Tarjeta de débito|30250|aprobado|2026-09-10|02:29|PS-NA7ZD7UPSK
+P01109|venta|V01109|Boletería|Tarjeta de crédito|102000|aprobado|2026-09-27|15:07|
+P01110|venta|V01110|PagoSeguro (externa)|Tarjeta de débito|167200|aprobado|2026-09-24|15:22|PS-L7KFX7U9D8
+P01111|venta|V01111|PagoSeguro (externa)|Tarjeta de débito|181500|aprobado|2026-09-18|14:35|PS-L342MYPU4Q
+P01112|venta|V01112|PagoSeguro (externa)|Transferencia|67100|aprobado|2026-09-22|03:41|PS-Y7KEES9CER
+P01113|venta|V01113|PagoSeguro (externa)|Tarjeta de crédito|79200|aprobado|2026-10-06|21:45|PS-R68DFPJKRW
+P01114|venta|V01114|PagoSeguro (externa)|Tarjeta de débito|67100|aprobado|2026-10-19|15:38|PS-V6KL7ZFSYW
+P01115|venta|V01115|Boletería|Tarjeta de crédito|126000|aprobado|2026-10-14|11:47|
+P01116|venta|V01116|Boletería|Tarjeta de crédito|108000|aprobado|2026-10-06|20:25|
+P01117|venta|V01117|PagoSeguro (externa)|Transferencia|79200|aprobado|2026-08-13|04:32|PS-G5TCQEEV76
+P01118|venta|V01118|PagoSeguro (externa)|QR billetera virtual|20800|aprobado|2026-08-25|05:58|PS-XAFXNG79NE
+P01119|venta|V01119|Boletería|Efectivo|61000|aprobado|2026-10-15|17:01|
+P01120|venta|V01120|Boletería|Efectivo|64050|aprobado|2026-10-11|20:16|
+P01121|venta|V01121|Boletería|Tarjeta de crédito|78000|aprobado|2026-10-09|11:36|
+P01122|venta|V01122|PagoSeguro (externa)|Tarjeta de débito|83200|aprobado|2026-10-18|11:49|PS-YYMMAUANRL
+P01123|venta|V01123|PagoSeguro (externa)|QR billetera virtual|82500|aprobado|2026-09-25|11:50|PS-SGDTW6R438
+P01124|venta|V01124|PagoSeguro (externa)|QR billetera virtual|39600|aprobado|2026-10-12|04:47|PS-A2XK96W343
+P01125|venta|V01125|PagoSeguro (externa)|QR billetera virtual|20000|aprobado|2026-10-20|18:47|PS-HT2GHTF8ZR
+P01126|venta|V01126|PagoSeguro (externa)|QR billetera virtual|40000|aprobado|2026-09-04|15:56|PS-W6RGSV2ST9
+P01127|venta|V01127|PagoSeguro (externa)|Transferencia|134200|aprobado|2026-10-06|13:41|PS-NAYVV73X9J
+P01128|venta|V01128|Boletería|Tarjeta de débito|122000|aprobado|2026-09-17|11:40|
+P01129|venta|V01129|PagoSeguro (externa)|Tarjeta de crédito|100650|aprobado|2026-10-05|22:33|PS-X56K9886LT
+P01130|venta|V01130|PagoSeguro (externa)|QR billetera virtual|62400|aprobado|2026-09-06|22:54|PS-Q8LRH8SVUZ
+P01131|venta|V01131|Boletería|Tarjeta de crédito|30500|aprobado|2026-10-25|11:35|
+P01132|venta|V01132|Boletería|Tarjeta de débito|104000|aprobado|2026-10-26|10:42|
+P01133|venta|V01133|PagoSeguro (externa)|Tarjeta de crédito|158400|aprobado|2026-10-19|10:42|PS-MJ44RTJKRB
+P01134|venta|V01134|PagoSeguro (externa)|Tarjeta de débito|107250|aprobado|2026-08-29|21:48|PS-N29KUTYCMX
+P01135|venta|V01135|PagoSeguro (externa)|Tarjeta de crédito|78000|aprobado|2026-10-10|10:07|PS-DCX3QLWFLN
+P01136|venta|V01136|PagoSeguro (externa)|QR billetera virtual|118800|aprobado|2026-10-14|00:47|PS-7PZFLUSQ4C
+P01137|venta|V01137|PagoSeguro (externa)|Transferencia|85800|aprobado|2026-08-22|22:16|PS-5XFDVRP84H
+P01138|venta|V01138|PagoSeguro (externa)|QR billetera virtual|110000|aprobado|2026-09-24|12:33|PS-7MLTTJQ842
+P01139|venta|V01139|PagoSeguro (externa)|Transferencia|86400|aprobado|2026-10-18|20:22|PS-CKBE8QB3L6
+P01140|venta|V01140|PagoSeguro (externa)|Tarjeta de crédito|82500|aprobado|2026-10-02|12:14|PS-KEGKGRSE28
+P01141|venta|V01141|Boletería|Efectivo|130000|aprobado|2026-09-19|14:29|
+P01142|venta|V01142|Boletería|Tarjeta de crédito|64050|aprobado|2026-10-14|11:18|
+P01143|venta|V01143|Boletería|Tarjeta de crédito|32500|aprobado|2026-10-15|16:29|
+P01144|venta|V01144|PagoSeguro (externa)|QR billetera virtual|85800|aprobado|2026-10-13|05:13|PS-P4ESVEFDX5
+P01145|venta|V01145|PagoSeguro (externa)|Transferencia|120000|aprobado|2026-09-21|19:07|PS-UCH2P32GY3
+P01146|venta|V01146|PagoSeguro (externa)|Transferencia|39050|aprobado|2026-09-05|14:32|PS-Y777LXS3K2
+P01147|venta|V01147|PagoSeguro (externa)|Transferencia|46200|aprobado|2026-10-06|20:09|PS-9V262E34XL
+P01148|venta|V01148|Boletería|Tarjeta de crédito|120000|aprobado|2026-09-23|14:31|
+P01149|venta|V01149|PagoSeguro (externa)|Transferencia|66000|aprobado|2026-10-22|00:18|PS-UHHFF3LEXQ
+P01150|venta|V01150|PagoSeguro (externa)|Transferencia|134400|aprobado|2026-10-24|02:03|PS-8VB7TVJYR3
+P01151|venta|V01151|Boletería|Tarjeta de débito|90000|aprobado|2026-10-14|10:24|
+P01152|venta|V01152|PagoSeguro (externa)|Tarjeta de débito|132000|aprobado|2026-09-29|02:30|PS-BC47Y3LQVP
+P01153|venta|V01153|Boletería|Efectivo|29500|aprobado|2026-10-25|11:18|
+P01154|venta|V01154|PagoSeguro (externa)|Tarjeta de débito|184800|aprobado|2026-09-18|22:17|PS-PKUBX75BG7
+P01155|venta|V01155|PagoSeguro (externa)|QR billetera virtual|46200|aprobado|2026-09-09|21:31|PS-QHJNJDZFLH
+P01156|venta|V01156|PagoSeguro (externa)|Transferencia|30400|aprobado|2026-10-12|04:27|PS-5PUBSWXRYT
+P01157|venta|V01157|Boletería|Tarjeta de crédito|106500|aprobado|2026-10-21|17:07|
+P01158|venta|V01158|PagoSeguro (externa)|Tarjeta de crédito|67200|aprobado|2026-09-05|05:52|PS-ASB2W9XDUR
+P01159|venta|V01159|PagoSeguro (externa)|QR billetera virtual|66000|aprobado|2026-10-26|02:49|PS-PKPFS6JBSZ
+P01160|venta|V01160|PagoSeguro (externa)|Tarjeta de débito|156200|aprobado|2026-08-31|19:55|PS-BVNE3JPRUM
+P01161|venta|V01161|PagoSeguro (externa)|Tarjeta de débito|78100|aprobado|2026-10-11|21:29|PS-2HJLC6T78P
+P01162|venta|V01162|PagoSeguro (externa)|Tarjeta de crédito|83600|aprobado|2026-09-12|06:37|PS-GJQFDZ3B8X
+P01163|venta|V01163|Boletería|Tarjeta de débito|114000|aprobado|2026-08-30|20:16|
+P01164|venta|V01164|PagoSeguro (externa)|Transferencia|72000|aprobado|2026-08-29|03:08|PS-QQ3A9F4KYL
+P01165|venta|V01165|PagoSeguro (externa)|Tarjeta de débito|194700|aprobado|2026-08-30|09:13|PS-39H8X98FSJ
+P01166|venta|V01166|Boletería|Efectivo|168000|aprobado|2026-10-07|10:51|
+P01167|venta|V01167|PagoSeguro (externa)|Tarjeta de crédito|125400|aprobado|2026-09-17|01:20|PS-XHRGND7VEB
+P01168|venta|V01168|PagoSeguro (externa)|Tarjeta de crédito|117150|aprobado|2026-09-13|21:53|PS-4GUN584QAP
+P01169|venta|V01169|Boletería|Tarjeta de crédito|120000|aprobado|2026-10-20|11:27|
+P01170|venta|V01170|PagoSeguro (externa)|QR billetera virtual|113600|aprobado|2026-10-14|08:24|PS-9WVXZC4J9D
+P01171|venta|V01171|Boletería|Tarjeta de crédito|120000|aprobado|2026-09-11|19:27|
+P01172|venta|V01172|PagoSeguro (externa)|Transferencia|125400|aprobado|2026-09-30|23:07|PS-B74KNJL46T
+P01173|venta|V01173|Boletería|Tarjeta de débito|84000|aprobado|2026-09-20|20:55|
+P01174|venta|V01174|Boletería|Tarjeta de débito|84000|aprobado|2026-08-30|13:45|
+P01175|venta|V01175|PagoSeguro (externa)|Tarjeta de débito|132000|aprobado|2026-08-08|23:54|PS-F6A6Q9ZP7B
+P01176|venta|V01176|Boletería|Tarjeta de débito|79800|aprobado|2026-10-10|15:41|
+P01177|venta|V01177|PagoSeguro (externa)|Tarjeta de crédito|41800|aprobado|2026-08-12|08:40|PS-46XLRPR9X7
+P01178|venta|V01178|Boletería|Tarjeta de débito|120000|aprobado|2026-08-22|16:34|
+P01179|venta|V01179|PagoSeguro (externa)|QR billetera virtual|99000|aprobado|2026-08-08|08:22|PS-3CA226NJ8Y
+P01180|venta|V01180|PagoSeguro (externa)|Tarjeta de débito|209000|aprobado|2026-10-20|02:15|PS-TZBSE4EH9A
+P01181|venta|V01181|PagoSeguro (externa)|QR billetera virtual|97350|aprobado|2026-09-18|00:21|PS-69KUMN7AQB
+P01182|venta|V01182|PagoSeguro (externa)|QR billetera virtual|56800|aprobado|2026-10-23|14:20|PS-H3RUDFHMPT
+P01183|venta|V01183|Boletería|Efectivo|35500|aprobado|2026-10-25|13:47|
+P01184|venta|V01184|PagoSeguro (externa)|Transferencia|194700|aprobado|2026-10-28|02:34|PS-RMYQXAP4YR
+P01185|venta|V01185|Boletería|Efectivo|60000|aprobado|2026-09-29|20:30|
+P01186|venta|V01186|PagoSeguro (externa)|QR billetera virtual|132000|aprobado|2026-10-12|19:06|PS-JBMG2SYFQ5
+P01187|venta|V01187|Boletería|Efectivo|71000|aprobado|2026-09-09|16:44|
+P01188|venta|V01188|Boletería|Tarjeta de crédito|76000|aprobado|2026-10-27|10:11|
+P01189|venta|V01189|PagoSeguro (externa)|Tarjeta de débito|46200|aprobado|2026-10-27|08:56|PS-GNGYX6AHP3
+P01190|venta|V01190|PagoSeguro (externa)|QR billetera virtual|125400|aprobado|2026-10-05|09:55|PS-V42RYLUQ8S
+P01191|venta|V01191|Boletería|Efectivo|35500|aprobado|2026-09-26|16:02|
+P01192|venta|V01192|Boletería|Tarjeta de crédito|84000|aprobado|2026-09-04|16:51|
+P01193|venta|V01193|PagoSeguro (externa)|Transferencia|117150|aprobado|2026-08-26|14:23|PS-67DH7SZGQS
+P01194|venta|V01194|Boletería|Efectivo|120000|aprobado|2026-09-23|11:42|
+P01195|venta|V01195|PagoSeguro (externa)|Tarjeta de débito|277200|aprobado|2026-09-26|19:44|PS-5N97WLDY8X
+P01196|venta|V01196|Boletería|Efectivo|88200|aprobado|2026-09-12|20:50|
+P01197|venta|V01197|PagoSeguro (externa)|Tarjeta de crédito|165000|aprobado|2026-08-10|03:31|PS-U9YGH6AKBD
+P01198|venta|V01198|Boletería|Tarjeta de débito|147500|aprobado|2026-10-08|14:28|
+P01199|venta|V01199|Boletería|Tarjeta de débito|126000|aprobado|2026-08-21|13:42|
+P01200|venta|V01200|PagoSeguro (externa)|QR billetera virtual|78100|aprobado|2026-09-22|19:11|PS-9JEPZVBRUB
+P01201|venta|V01201|PagoSeguro (externa)|Transferencia|66000|aprobado|2026-10-07|02:27|PS-XVXM4Q64BF
+P01202|venta|V01202|Boletería|Tarjeta de crédito|114000|aprobado|2026-08-27|20:39|
+P01203|venta|V01203|PagoSeguro (externa)|Transferencia|129800|aprobado|2026-09-24|10:45|PS-T9YNSGXRU6
+P01204|venta|V01204|Boletería|Tarjeta de crédito|106500|aprobado|2026-09-02|10:07|
+P01205|venta|V01205|Boletería|Efectivo|168000|aprobado|2026-10-19|13:54|
+P01206|venta|V01206|PagoSeguro (externa)|Tarjeta de crédito|129800|aprobado|2026-08-30|14:07|PS-W92AB9ZU8V
+P01207|venta|V01207|Boletería|Tarjeta de débito|30000|aprobado|2026-08-28|11:18|
+P01208|venta|V01208|PagoSeguro (externa)|Transferencia|113600|aprobado|2026-09-18|12:59|PS-9L7JUL8U8U
+P01209|venta|V01209|PagoSeguro (externa)|Transferencia|129800|aprobado|2026-10-07|18:13|PS-Y37RAWX2XK
+P01210|venta|V01210|Boletería|Tarjeta de crédito|42000|aprobado|2026-10-09|18:38|
+P01211|venta|V01211|Boletería|Efectivo|120000|aprobado|2026-08-11|20:18|
+P01212|venta|V01212|PagoSeguro (externa)|Tarjeta de débito|117150|aprobado|2026-10-18|03:44|PS-6HN2Z4TBM6
+P01213|venta|V01213|Boletería|Efectivo|71000|aprobado|2026-09-24|13:39|
+P01214|venta|V01214|PagoSeguro (externa)|Tarjeta de débito|66000|aprobado|2026-10-23|16:40|PS-AYATAN77QY
+P01215|venta|V01215|PagoSeguro (externa)|Transferencia|23600|aprobado|2026-09-24|19:22|PS-KJC7BHQ4CL
+P01216|venta|V01216|PagoSeguro (externa)|QR billetera virtual|99000|aprobado|2026-10-25|03:10|PS-6FMBJE9G6M
+P01217|venta|V01217|Boletería|Tarjeta de crédito|168000|aprobado|2026-10-14|15:23|
+P01218|venta|V01218|PagoSeguro (externa)|QR billetera virtual|100800|aprobado|2026-10-23|13:07|PS-43KEJWUT79
+P01219|venta|V01219|Boletería|Tarjeta de crédito|152000|aprobado|2026-09-10|16:51|
+P01220|venta|V01220|PagoSeguro (externa)|Transferencia|41800|aprobado|2026-08-26|02:51|PS-LPQEAWREJP
+P01221|venta|V01221|PagoSeguro (externa)|Tarjeta de débito|132000|aprobado|2026-10-19|05:24|PS-97GPHT2Y7A
+P01222|venta|V01222|Boletería|Tarjeta de débito|174000|aprobado|2026-09-30|18:51|
+P01223|venta|V01223|PagoSeguro (externa)|QR billetera virtual|30800|aprobado|2026-09-02|14:51|PS-TW96DZKDFT
+P01224|venta|V01224|PagoSeguro (externa)|Tarjeta de débito|22400|aprobado|2026-09-27|16:59|PS-67EU3XGFS2
+P01225|venta|V01225|PagoSeguro (externa)|Tarjeta de crédito|115200|aprobado|2026-10-05|17:29|PS-E8NN3Y8QRZ
+P01226|venta|V01226|PagoSeguro (externa)|Transferencia|149600|aprobado|2026-10-07|12:57|PS-J5UKEB97SV
+P01227|venta|V01227|Boletería|Tarjeta de débito|40600|aprobado|2026-08-19|10:44|
+P01228|venta|V01228|PagoSeguro (externa)|QR billetera virtual|61600|aprobado|2026-10-07|02:16|PS-5X3UVS96M5
+P01229|venta|V01229|PagoSeguro (externa)|Transferencia|37400|aprobado|2026-09-14|02:41|PS-6P3SV6YKFK
+P01230|venta|V01230|PagoSeguro (externa)|Tarjeta de débito|132000|aprobado|2026-10-09|01:57|PS-55D6A5XWQR
+P01231|venta|V01231|Boletería|Tarjeta de débito|136000|aprobado|2026-10-13|12:40|
+P01232|venta|V01232|PagoSeguro (externa)|Tarjeta de débito|44000|aprobado|2026-10-10|23:21|PS-VM4NUG3XH6
+P01233|venta|V01233|Boletería|Tarjeta de crédito|80000|aprobado|2026-09-07|12:08|
+P01234|venta|V01234|Boletería|Efectivo|68000|aprobado|2026-08-11|20:45|
+P01235|venta|V01235|PagoSeguro (externa)|Tarjeta de débito|74800|aprobado|2026-09-02|06:15|PS-Z9LY6PT8AT
+P01236|venta|V01236|Boletería|Tarjeta de crédito|50400|aprobado|2026-09-01|10:51|
+P01237|venta|V01237|PagoSeguro (externa)|Tarjeta de débito|123200|aprobado|2026-10-21|01:44|PS-GEQFX5TQZ3
+P01238|venta|V01238|Boletería|Tarjeta de débito|39200|aprobado|2026-10-06|18:15|
+P01239|venta|V01239|Boletería|Tarjeta de crédito|180000|aprobado|2026-09-30|13:05|
+P01240|venta|V01240|PagoSeguro (externa)|QR billetera virtual|63800|aprobado|2026-10-29|10:04|PS-AN387CAE5C
+P01241|venta|V01241|PagoSeguro (externa)|Tarjeta de débito|127600|aprobado|2026-10-25|05:53|PS-WMNFAY5PCX
+P01242|venta|V01242|PagoSeguro (externa)|Transferencia|132000|aprobado|2026-10-06|22:16|PS-W2MNGN6S8J
+P01243|venta|V01243|Boletería|Tarjeta de crédito|180000|aprobado|2026-10-14|19:55|
+P01244|venta|V01244|Boletería|Tarjeta de crédito|84000|aprobado|2026-10-10|15:47|
+P01245|venta|V01245|PagoSeguro (externa)|Tarjeta de crédito|132000|aprobado|2026-10-05|22:58|PS-92NNF4PWBK
+P01246|venta|V01246|PagoSeguro (externa)|QR billetera virtual|81600|aprobado|2026-10-13|06:21|PS-QDKSAHYC2M
+P01247|venta|V01247|PagoSeguro (externa)|Tarjeta de crédito|69600|aprobado|2026-08-19|06:50|PS-FA6DZWPEVB
+P01248|venta|V01248|PagoSeguro (externa)|Tarjeta de débito|44000|aprobado|2026-10-02|20:08|PS-5BTRNC3ZZD
+P01249|venta|V01249|PagoSeguro (externa)|QR billetera virtual|127600|aprobado|2026-10-24|03:56|PS-DFN7MFFQ73
+P01250|venta|V01250|Boletería|Tarjeta de débito|108000|aprobado|2026-09-19|16:14|
+P01251|venta|V01251|Boletería|Tarjeta de débito|87000|aprobado|2026-10-21|19:47|
+P01252|venta|V01252|Boletería|Efectivo|56000|aprobado|2026-10-15|17:22|
+P01253|venta|V01253|PagoSeguro (externa)|Tarjeta de crédito|176000|aprobado|2026-10-23|03:44|PS-M5QX4L4XTB
+P01254|venta|V01254|Boletería|Efectivo|102000|aprobado|2026-10-14|13:37|
+P01255|venta|V01255|PagoSeguro (externa)|Tarjeta de débito|95700|aprobado|2026-09-25|20:55|PS-H55YSDARE5
+P01256|venta|V01256|PagoSeguro (externa)|QR billetera virtual|61600|aprobado|2026-09-22|04:27|PS-BVVRJMR4KQ
+P01257|venta|V01257|Boletería|Efectivo|80000|aprobado|2026-09-23|21:19|
+P01258|venta|V01258|PagoSeguro (externa)|Tarjeta de débito|37400|aprobado|2026-10-15|03:10|PS-S34PU53UJG
+P01259|venta|V01259|PagoSeguro (externa)|Transferencia|23200|aprobado|2026-09-06|16:24|PS-69326GVJKS
+P01260|venta|V01260|Boletería|Tarjeta de crédito|112000|aprobado|2026-09-30|17:31|
+P01261|venta|V01261|PagoSeguro (externa)|Tarjeta de débito|61600|aprobado|2026-10-21|21:34|PS-SDN5D6QMSR
+P01262|venta|V01262|Boletería|Tarjeta de débito|84000|aprobado|2026-10-11|16:39|
+P01263|venta|V01263|Boletería|Efectivo|116000|aprobado|2026-10-15|18:36|
+P01264|venta|V01264|Boletería|Efectivo|40000|aprobado|2026-10-27|15:12|
+P01265|venta|V01265|PagoSeguro (externa)|QR billetera virtual|79200|aprobado|2026-09-29|12:45|PS-L9CGYS9B3J
+P01266|venta|V01266|PagoSeguro (externa)|Tarjeta de débito|89600|aprobado|2026-10-15|12:16|PS-XUQMRL5JWD
+P01267|venta|V01267|PagoSeguro (externa)|Transferencia|123200|aprobado|2026-08-21|11:06|PS-EP4D66MUL5
+P01268|venta|V01268|PagoSeguro (externa)|Transferencia|63800|aprobado|2026-10-06|01:53|PS-XMQGRRQTQY
+P01269|venta|V01269|Boletería|Tarjeta de débito|29000|aprobado|2026-09-21|15:56|
+P01270|venta|V01270|Boletería|Tarjeta de débito|28000|aprobado|2026-10-02|18:36|
+P01271|venta|V01271|PagoSeguro (externa)|Tarjeta de débito|132000|aprobado|2026-10-08|21:53|PS-ACKS5L44HT
+P01272|venta|V01272|PagoSeguro (externa)|Tarjeta de crédito|61600|aprobado|2026-08-27|02:53|PS-YKP4LVJ6JZ
+P01273|venta|V01273|PagoSeguro (externa)|Transferencia|37400|aprobado|2026-10-13|21:10|PS-AKX63PTJJD
+P01274|venta|V01274|PagoSeguro (externa)|Tarjeta de débito|159500|aprobado|2026-09-11|04:09|PS-7WR72NNVUJ
+P01275|venta|V01275|Boletería|Tarjeta de débito|80000|aprobado|2026-10-10|21:52|
+P01276|venta|V01276|PagoSeguro (externa)|Transferencia|31900|aprobado|2026-09-21|11:30|PS-UDXEF9L33W
+P01277|venta|V01277|PagoSeguro (externa)|Tarjeta de crédito|138225|aprobado|2026-10-18|05:29|PS-5PA8DYE7C8
+P01278|venta|V01278|PagoSeguro (externa)|Tarjeta de débito|104400|aprobado|2026-09-10|21:13|PS-WF33C29Y8K
+P01279|venta|V01279|PagoSeguro (externa)|Tarjeta de débito|84000|aprobado|2026-09-23|17:54|PS-XJW2FN6853
+P01280|venta|V01280|Boletería|Efectivo|41225|aprobado|2026-09-03|10:49|
+P01281|venta|V01281|PagoSeguro (externa)|Tarjeta de débito|166250|aprobado|2026-09-19|00:03|PS-FK4KDYW4WU
+P01282|venta|V01282|PagoSeguro (externa)|Tarjeta de crédito|99750|aprobado|2026-08-26|06:15|PS-GGFNRS7BBV
+P01283|venta|V01283|PagoSeguro (externa)|QR billetera virtual|112000|aprobado|2026-10-28|21:46|PS-DWBAGUJCJA
+P01284|venta|V01284|PagoSeguro (externa)|Tarjeta de débito|46075|aprobado|2026-09-26|01:36|PS-7G9E43FS7G
+P01285|venta|V01285|PagoSeguro (externa)|Transferencia|194750|aprobado|2026-10-24|06:44|PS-NSUVYYXRDB
+P01286|venta|V01286|PagoSeguro (externa)|QR billetera virtual|77900|aprobado|2026-09-10|08:58|PS-H4J2RS6X3V
+P01287|venta|V01287|Boletería|Efectivo|59500|aprobado|2026-08-25|13:17|
+P01288|venta|V01288|PagoSeguro (externa)|Transferencia|56000|aprobado|2026-10-04|03:31|PS-BFD6TGJJ3D
+P01289|venta|V01289|Boletería|Tarjeta de débito|23800|aprobado|2026-09-30|11:59|
+P01290|venta|V01290|PagoSeguro (externa)|Tarjeta de débito|165300|aprobado|2026-09-14|10:50|PS-TXRJX4QL47
+P01291|venta|V01291|PagoSeguro (externa)|Tarjeta de crédito|112000|aprobado|2026-10-01|08:14|PS-7J9H63AGYC
+P01292|venta|V01292|Boletería|Efectivo|115600|aprobado|2026-08-28|12:15|
+P01293|venta|V01293|PagoSeguro (externa)|Tarjeta de crédito|98400|aprobado|2026-08-14|06:34|PS-VEBRYCVN35
+P01294|venta|V01294|PagoSeguro (externa)|Tarjeta de débito|166250|aprobado|2026-10-12|03:35|PS-DPSWTJ43BG
+P01295|venta|V01295|Boletería|Efectivo|119000|aprobado|2026-10-24|19:54|
+P01296|venta|V01296|PagoSeguro (externa)|Tarjeta de débito|82650|aprobado|2026-10-22|12:04|PS-DNCZTUTDD7
+P01297|venta|V01297|Boletería|Efectivo|57400|aprobado|2026-10-25|15:00|
+P01298|venta|V01298|Boletería|Tarjeta de crédito|174250|aprobado|2026-08-23|17:20|
+P01299|venta|V01299|Boletería|Tarjeta de crédito|24500|aprobado|2026-10-08|18:31|
+P01300|venta|V01300|PagoSeguro (externa)|QR billetera virtual|276450|aprobado|2026-09-26|23:14|PS-AU8SA9QHV4
+P01301|venta|V01301|PagoSeguro (externa)|Transferencia|112000|aprobado|2026-09-11|23:21|PS-9GP87CJR9F
+P01302|venta|V01302|Boletería|Tarjeta de crédito|148750|aprobado|2026-09-11|18:49|
+P01303|venta|V01303|PagoSeguro (externa)|QR billetera virtual|108800|aprobado|2026-10-08|14:29|PS-QNHNRKME9Z
+P01304|venta|V01304|PagoSeguro (externa)|QR billetera virtual|133000|aprobado|2026-10-05|19:35|PS-RA9AL96DRU
+P01305|venta|V01305|PagoSeguro (externa)|Tarjeta de débito|77900|aprobado|2026-09-13|01:55|PS-Y275YVXF2X
+P01306|venta|V01306|PagoSeguro (externa)|QR billetera virtual|133000|aprobado|2026-10-08|14:27|PS-NN3LU6DTX2
+P01307|venta|V01307|Boletería|Tarjeta de débito|115600|aprobado|2026-10-06|18:11|
+P01308|venta|V01308|PagoSeguro (externa)|QR billetera virtual|81600|aprobado|2026-09-22|00:39|PS-PXBLVZSMDX
+P01309|venta|V01309|Boletería|Tarjeta de crédito|29750|aprobado|2026-08-30|18:57|
+P01310|venta|V01310|Boletería|Tarjeta de crédito|104550|aprobado|2026-10-03|19:46|
+P01311|venta|V01311|PagoSeguro (externa)|QR billetera virtual|77600|aprobado|2026-09-06|12:18|PS-AG3SYB42E7
+P01312|venta|V01312|PagoSeguro (externa)|QR billetera virtual|155800|aprobado|2026-10-05|18:23|PS-NFJU5TATBQ
+P01313|venta|V01313|PagoSeguro (externa)|Tarjeta de crédito|199500|aprobado|2026-10-06|08:11|PS-PG89VB9NQP
+P01314|venta|V01314|PagoSeguro (externa)|QR billetera virtual|38800|aprobado|2026-09-19|09:15|PS-VEC2UHU442
+P01315|venta|V01315|PagoSeguro (externa)|Tarjeta de débito|99750|aprobado|2026-10-22|07:36|PS-QDE5CDPHJG
+P01316|venta|V01316|Boletería|Tarjeta de crédito|164900|aprobado|2026-09-24|16:38|
+P01317|venta|V01317|Boletería|Efectivo|121800|aprobado|2026-08-16|17:27|
+P01318|venta|V01318|PagoSeguro (externa)|QR billetera virtual|155800|aprobado|2026-09-07|01:18|PS-CF63DCYSX6
+P01319|venta|V01319|Boletería|Efectivo|71400|aprobado|2026-10-27|19:16|
+P01320|venta|V01320|PagoSeguro (externa)|QR billetera virtual|38800|aprobado|2026-10-12|12:53|PS-AE2NQ348UE
+P01321|venta|V01321|Boletería|Tarjeta de crédito|28900|aprobado|2026-09-20|16:18|
+P01322|venta|V01322|PagoSeguro (externa)|QR billetera virtual|38800|aprobado|2026-08-29|14:03|PS-NWU4XWKL9H
+P01323|venta|V01323|Boletería|Tarjeta de crédito|98000|aprobado|2026-10-10|20:24|
+P01324|venta|V01324|Boletería|Tarjeta de débito|59500|aprobado|2026-09-02|12:51|
+P01325|venta|V01325|Boletería|Tarjeta de débito|139400|aprobado|2026-10-17|19:22|
+P01326|venta|V01326|PagoSeguro (externa)|Tarjeta de débito|64600|aprobado|2026-10-08|19:10|PS-8P2R38U74V
+P01327|venta|V01327|PagoSeguro (externa)|Tarjeta de crédito|56000|aprobado|2026-09-29|14:29|PS-H3JNSPR7VT
+P01328|venta|V01328|Boletería|Tarjeta de crédito|98000|aprobado|2026-10-04|11:06|
+P01329|venta|V01329|Boletería|Tarjeta de crédito|119000|aprobado|2026-09-16|11:14|
+P01330|venta|V01330|Boletería|Efectivo|69700|aprobado|2026-10-16|15:25|
+P01331|venta|V01331|Boletería|Tarjeta de crédito|110925|aprobado|2026-10-16|21:54|
+P01332|venta|V01332|PagoSeguro (externa)|QR billetera virtual|27200|aprobado|2026-10-27|14:25|PS-F6J88R6AEH
+P01333|venta|V01333|Boletería|Tarjeta de crédito|89250|aprobado|2026-10-28|10:31|
+P01334|venta|V01334|PagoSeguro (externa)|Tarjeta de crédito|232800|aprobado|2026-10-17|15:04|PS-ZB8VC5W4ST
+P01335|venta|V01335|PagoSeguro (externa)|Tarjeta de crédito|184300|aprobado|2026-09-30|16:49|PS-WUWKYMUY3V
+P01336|venta|V01336|Boletería|Tarjeta de crédito|82450|aprobado|2026-10-17|13:03|
+P01337|venta|V01337|Boletería|Tarjeta de débito|147900|aprobado|2026-09-25|12:49|
+P01338|venta|V01338|PagoSeguro (externa)|Tarjeta de débito|96900|aprobado|2026-10-08|15:40|PS-UB5ARSKURL
+P01339|venta|V01339|PagoSeguro (externa)|Tarjeta de débito|38950|aprobado|2026-10-22|07:10|PS-TUJKTRQTZH
+P01340|venta|V01340|PagoSeguro (externa)|QR billetera virtual|77900|aprobado|2026-09-23|05:40|PS-BF5U39W3K7
+P01341|venta|V01341|Boletería|Efectivo|123675|aprobado|2026-10-17|15:09|
+P01342|venta|V01342|Boletería|Efectivo|34850|aprobado|2026-09-12|13:14|
+P01343|venta|V01343|PagoSeguro (externa)|Tarjeta de débito|104400|aprobado|2026-10-11|06:55|PS-8MMLP56F7V
+P01344|venta|V01344|Boletería|Tarjeta de crédito|104550|aprobado|2026-10-13|14:09|
+P01345|venta|V01345|Boletería|Efectivo|110925|aprobado|2026-10-05|21:08|
+P01346|venta|V01346|PagoSeguro (externa)|QR billetera virtual|133000|aprobado|2026-08-23|00:47|PS-TSQDTVKVZA
+P01347|venta|V01347|PagoSeguro (externa)|Tarjeta de crédito|161500|aprobado|2026-10-06|22:20|PS-47ZEMJ7CWW
+P01348|venta|V01348|Boletería|Tarjeta de crédito|82450|aprobado|2026-08-13|17:00|
+P01349|venta|V01349|Boletería|Efectivo|89250|aprobado|2026-10-20|19:30|
+P01350|venta|V01350|PagoSeguro (externa)|QR billetera virtual|82650|aprobado|2026-08-29|06:42|PS-VL79CDHYNM
+P01351|venta|V01351|PagoSeguro (externa)|Tarjeta de crédito|33250|aprobado|2026-10-17|21:13|PS-YUVM8NB7S7
+P01352|venta|V01352|Boletería|Efectivo|36975|aprobado|2026-08-21|13:32|
+P01353|venta|V01353|Boletería|Tarjeta de débito|110925|aprobado|2026-09-21|14:18|
+P01354|venta|V01354|PagoSeguro (externa)|Transferencia|81600|aprobado|2026-10-11|06:17|PS-J5RZL5B8ES
+P01355|venta|V01355|Boletería|Efectivo|86700|aprobado|2026-09-30|20:01|
+P01356|venta|V01356|PagoSeguro (externa)|QR billetera virtual|69600|aprobado|2026-10-07|09:38|PS-BW8JH5NUR2
+P01357|venta|V01357|PagoSeguro (externa)|QR billetera virtual|96900|aprobado|2026-10-28|00:57|PS-UCP9NMJWTH
+P01358|venta|V01358|PagoSeguro (externa)|QR billetera virtual|33250|aprobado|2026-10-24|16:48|PS-NFQVF7M6VY
+P01359|venta|V01359|Boletería|Tarjeta de crédito|73950|aprobado|2026-10-21|16:49|
+P01360|venta|V01360|Boletería|Tarjeta de crédito|57800|aprobado|2026-09-14|19:24|
+P01361|venta|V01361|PagoSeguro (externa)|QR billetera virtual|165300|aprobado|2026-10-24|02:33|PS-MYEUY9ARQN
+P01362|venta|V01362|Boletería|Tarjeta de débito|86700|aprobado|2026-10-16|16:00|
+P01363|venta|V01363|PagoSeguro (externa)|Transferencia|96900|aprobado|2026-09-09|05:50|PS-UHTSYMWA34
+P01364|venta|V01364|Boletería|Tarjeta de débito|36975|aprobado|2026-09-27|10:49|
+P01365|venta|V01365|PagoSeguro (externa)|Tarjeta de crédito|32300|aprobado|2026-10-13|15:16|PS-4VD86CT972
+P01366|venta|V01366|PagoSeguro (externa)|Tarjeta de débito|33250|aprobado|2026-10-23|15:40|PS-6Q73F4ZPFU
+P01367|venta|V01367|Boletería|Efectivo|69700|aprobado|2026-08-31|12:09|
+P01368|venta|V01368|PagoSeguro (externa)|Tarjeta de crédito|99750|aprobado|2026-08-22|20:34|PS-TLQRCQWRLL
+P01369|venta|V01369|Boletería|Tarjeta de crédito|101850|aprobado|2026-09-09|15:46|
+P01370|venta|V01370|Boletería|Tarjeta de débito|115600|aprobado|2026-09-29|13:34|
+P01371|venta|V01371|Boletería|Tarjeta de crédito|28900|aprobado|2026-10-15|21:18|
+P01372|venta|V01372|PagoSeguro (externa)|Tarjeta de crédito|129200|aprobado|2026-10-12|14:24|PS-VAAGQZPLA2
+P01373|venta|V01373|PagoSeguro (externa)|Tarjeta de débito|66500|aprobado|2026-10-13|12:02|PS-EUD8HWNXGM
+P01374|venta|V01374|Boletería|Efectivo|73500|aprobado|2026-10-26|12:11|
+P01375|venta|V01375|Boletería|Efectivo|86700|aprobado|2026-08-24|14:45|
+P01376|venta|V01376|Boletería|Tarjeta de crédito|110925|aprobado|2026-10-25|10:41|
+P01377|venta|V01377|PagoSeguro (externa)|Tarjeta de débito|129200|aprobado|2026-09-25|03:45|PS-RK5E83Z3GP
+P01378|venta|V01378|PagoSeguro (externa)|Tarjeta de débito|131200|aprobado|2026-08-28|19:27|PS-4EFNQZG5JN
+P01379|venta|V01379|PagoSeguro (externa)|Transferencia|99750|aprobado|2026-09-10|06:53|PS-P9PKCJNPYR
+P01380|venta|V01380|Boletería|Efectivo|69700|aprobado|2026-10-17|18:00|
+P01381|venta|V01381|PagoSeguro (externa)|Tarjeta de crédito|46075|aprobado|2026-10-16|07:41|PS-JAKBMKMULS
+P01382|venta|V01382|Boletería|Tarjeta de débito|59500|aprobado|2026-10-12|21:31|
+P01383|venta|V01383|PagoSeguro (externa)|Transferencia|184300|aprobado|2026-08-30|12:55|PS-4ZWZJ6FSG3
+P01384|venta|V01384|Boletería|Tarjeta de débito|41225|aprobado|2026-10-21|14:33|
+P01385|venta|V01385|Boletería|Efectivo|110925|aprobado|2026-10-19|12:56|
+P01386|venta|V01386|Boletería|Tarjeta de crédito|28700|aprobado|2026-10-11|18:35|
+P01387|venta|V01387|PagoSeguro (externa)|Tarjeta de débito|68400|aprobado|2026-09-15|06:13|PS-N69TJMN8PD
+P01388|venta|V01388|PagoSeguro (externa)|Tarjeta de débito|15600|aprobado|2026-09-26|11:31|PS-N8NJZB4LR7
+P01389|venta|V01389|Boletería|Tarjeta de crédito|102000|aprobado|2026-08-18|18:44|
+P01390|venta|V01390|Boletería|Efectivo|61200|aprobado|2026-10-24|13:13|
+P01391|venta|V01391|Boletería|Tarjeta de débito|68000|aprobado|2026-10-11|18:06|
+P01392|venta|V01392|PagoSeguro (externa)|Tarjeta de débito|79800|aprobado|2026-10-12|17:36|PS-PPXW7VY5KH
+P01393|venta|V01393|PagoSeguro (externa)|Transferencia|74100|aprobado|2026-09-29|13:58|PS-6GYMTWB2X2
+P01394|venta|V01394|PagoSeguro (externa)|QR billetera virtual|91200|aprobado|2026-09-03|06:47|PS-5KAWL263WC
+P01395|venta|V01395|Boletería|Tarjeta de débito|33600|aprobado|2026-10-24|18:57|
+P01396|venta|V01396|PagoSeguro (externa)|QR billetera virtual|64000|aprobado|2026-10-02|12:55|PS-Q3PNBJCVAS
+P01397|venta|V01397|PagoSeguro (externa)|Transferencia|55575|aprobado|2026-10-25|08:28|PS-BME7BFVGNQ
+P01398|venta|V01398|PagoSeguro (externa)|Tarjeta de crédito|57000|aprobado|2026-10-10|13:02|PS-Y4WMPNR3SL
+P01399|venta|V01399|Boletería|Tarjeta de débito|81600|aprobado|2026-10-20|13:29|
+P01400|venta|V01400|Boletería|Efectivo|40800|aprobado|2026-08-08|18:17|
+P01401|venta|V01401|Boletería|Tarjeta de débito|34000|aprobado|2026-09-20|17:30|
+P01402|venta|V01402|PagoSeguro (externa)|QR billetera virtual|74100|aprobado|2026-10-13|13:26|PS-W8HUGUTRB3
+P01403|venta|V01403|PagoSeguro (externa)|Tarjeta de crédito|74100|aprobado|2026-10-01|02:45|PS-X6TBAMCHED
+P01404|venta|V01404|PagoSeguro (externa)|Tarjeta de crédito|91200|aprobado|2026-08-31|22:11|PS-TTYJHTJVH5
+P01405|venta|V01405|PagoSeguro (externa)|Tarjeta de crédito|95000|aprobado|2026-09-07|12:48|PS-62NKTHHBS3
+P01406|venta|V01406|Boletería|Tarjeta de crédito|17000|aprobado|2026-09-08|10:58|
+P01407|venta|V01407|PagoSeguro (externa)|QR billetera virtual|26600|aprobado|2026-10-03|17:58|PS-EW7T52CXH4
+P01408|venta|V01408|Boletería|Tarjeta de crédito|40800|aprobado|2026-10-19|17:16|
+P01409|venta|V01409|PagoSeguro (externa)|QR billetera virtual|37050|aprobado|2026-08-06|08:38|PS-HVWA4RT2CM
+P01410|venta|V01410|Boletería|Tarjeta de crédito|20400|aprobado|2026-10-22|21:35|
+P01411|venta|V01411|Boletería|Efectivo|16575|aprobado|2026-10-23|11:11|
+P01412|venta|V01412|PagoSeguro (externa)|Tarjeta de débito|67200|aprobado|2026-09-10|02:46|PS-YLPD26DMFA
+P01413|venta|V01413|Boletería|Efectivo|81600|aprobado|2026-10-26|16:25|
+P01414|venta|V01414|PagoSeguro (externa)|QR billetera virtual|23750|aprobado|2026-10-28|05:41|PS-GQCURDYMQ6
+P01415|venta|V01415|PagoSeguro (externa)|Tarjeta de crédito|32000|aprobado|2026-09-21|17:54|PS-KEAG7LNQZ6
+P01416|venta|V01416|PagoSeguro (externa)|QR billetera virtual|41400|aprobado|2026-08-03|07:05|PS-TFC7UUZWG5
+P01417|venta|V01417|PagoSeguro (externa)|Tarjeta de débito|48600|aprobado|2026-08-26|15:19|PS-MXLR6CT7ZL
+P01418|venta|V01418|Boletería|Efectivo|43200|aprobado|2026-10-27|12:12|
+P01419|venta|V01419|PagoSeguro (externa)|Tarjeta de crédito|9900|aprobado|2026-09-29|13:02|PS-9MRSSLXW9N
+P01420|venta|V01420|Boletería|Efectivo|32400|aprobado|2026-10-03|18:41|
+P01421|venta|V01421|PagoSeguro (externa)|QR billetera virtual|43200|aprobado|2026-08-28|03:26|PS-UNFCBAKJNG
+P01422|venta|V01422|PagoSeguro (externa)|Transferencia|11600|aprobado|2026-10-10|14:49|PS-V7KHAPJ5BE
+P01423|venta|V01423|Boletería|Efectivo|34800|aprobado|2026-09-16|13:31|
+P01424|venta|V01424|PagoSeguro (externa)|Tarjeta de débito|31050|aprobado|2026-09-22|19:54|PS-88YB8Q35D8
+P01425|venta|V01425|PagoSeguro (externa)|Transferencia|28800|aprobado|2026-10-18|10:26|PS-2QAUCYJHJM
+P01426|venta|V01426|PagoSeguro (externa)|Tarjeta de crédito|19800|aprobado|2026-09-18|01:44|PS-QS42TU2G96
+P01427|venta|V01427|PagoSeguro (externa)|QR billetera virtual|43200|aprobado|2026-09-05|15:53|PS-JKP6AGQC2P
+P01428|venta|V01428|PagoSeguro (externa)|Transferencia|19800|aprobado|2026-09-16|14:09|PS-69NUZF3XMR
+P01429|venta|V01429|Boletería|Efectivo|34800|aprobado|2026-10-13|20:23|
+P01430|venta|V01430|PagoSeguro (externa)|QR billetera virtual|38400|aprobado|2026-10-06|02:05|PS-5ZAJ7V5W8E
+P01431|venta|V01431|PagoSeguro (externa)|Transferencia|12800|aprobado|2026-10-03|06:18|PS-D76MBCCWM2
+P01432|venta|V01432|PagoSeguro (externa)|Tarjeta de débito|14400|aprobado|2026-10-26|01:09|PS-4WDGGR9D7X
+P01433|venta|V01433|PagoSeguro (externa)|Tarjeta de crédito|51200|aprobado|2026-09-27|07:42|PS-YT2P3P6JH3
+P01434|venta|V01434|PagoSeguro (externa)|Tarjeta de crédito|10350|aprobado|2026-10-14|20:10|PS-2LL2UJN8K9
+P01435|venta|V01435|PagoSeguro (externa)|Tarjeta de débito|57600|aprobado|2026-09-22|20:39|PS-TG2MWA2MYB
+P01436|venta|V01436|PagoSeguro (externa)|Tarjeta de débito|34800|aprobado|2026-10-04|10:49|PS-GYHMSEMNVD
+P01437|venta|V01437|PagoSeguro (externa)|Tarjeta de débito|27600|aprobado|2026-08-26|20:13|PS-T7BSUEH5FQ
+P01438|venta|V01438|Boletería|Tarjeta de crédito|43200|aprobado|2026-10-29|13:27|
+P01439|venta|V01439|PagoSeguro (externa)|Tarjeta de crédito|36800|aprobado|2026-08-26|20:35|PS-F66CG5DEZK
+P01440|venta|V01440|PagoSeguro (externa)|Tarjeta de débito|19800|aprobado|2026-08-24|13:23|PS-66CMUU343T
+P01441|venta|V01441|Boletería|Tarjeta de crédito|59500|aprobado|2026-09-11|21:47|
+P01442|venta|V01442|Boletería|Efectivo|40800|aprobado|2026-10-09|12:35|
+P01443|venta|V01443|Boletería|Efectivo|69700|aprobado|2026-10-21|19:04|
+P01444|venta|V01444|PagoSeguro (externa)|QR billetera virtual|32300|aprobado|2026-10-13|07:42|PS-8GS7JSP6XA
+P01445|venta|V01445|PagoSeguro (externa)|Tarjeta de débito|49875|aprobado|2026-10-04|22:23|PS-HEHJJ8RAY2
+P01446|venta|V01446|PagoSeguro (externa)|QR billetera virtual|91200|aprobado|2026-10-01|05:49|PS-H598GA4YMY
+P01447|venta|V01447|Boletería|Tarjeta de crédito|44625|aprobado|2026-10-10|11:04|
+P01448|venta|V01448|PagoSeguro (externa)|QR billetera virtual|42000|aprobado|2026-09-30|23:13|PS-P7B6JEYJK2
+P01449|venta|V01449|Boletería|Efectivo|36550|aprobado|2026-09-21|11:41|
+P01450|venta|V01450|Boletería|Efectivo|81600|aprobado|2026-10-27|20:06|
+P01451|venta|V01451|PagoSeguro (externa)|Transferencia|49875|aprobado|2026-09-18|02:44|PS-F67EGWQKW4
+P01452|venta|V01452|Boletería|Tarjeta de crédito|69700|aprobado|2026-09-25|20:59|
+P01453|venta|V01453|PagoSeguro (externa)|QR billetera virtual|40850|aprobado|2026-09-04|05:04|PS-DTFJVPTHGP
+P01454|venta|V01454|PagoSeguro (externa)|Tarjeta de crédito|40800|aprobado|2026-10-02|00:39|PS-PN9PLUJ5UV
+P01455|venta|V01455|Boletería|Efectivo|35700|aprobado|2026-09-29|17:32|
+P01456|venta|V01456|PagoSeguro (externa)|Tarjeta de débito|68000|aprobado|2026-09-16|22:18|PS-55FSY8NQVM
+P01457|venta|V01457|Boletería|Tarjeta de crédito|18275|aprobado|2026-10-28|16:57|
+P01458|venta|V01458|Boletería|Efectivo|59500|aprobado|2026-10-12|16:07|
+P01459|venta|V01459|Boletería|Tarjeta de crédito|69700|aprobado|2026-10-02|19:41|
+P01460|venta|V01460|Boletería|Tarjeta de crédito|14450|aprobado|2026-10-10|18:42|
+P01461|venta|V01461|PagoSeguro (externa)|QR billetera virtual|81700|aprobado|2026-08-11|16:49|PS-5RYF2THPP9
+P01462|venta|V01462|PagoSeguro (externa)|QR billetera virtual|80750|aprobado|2026-09-10|08:54|PS-YYC3E99U9Q
+P01463|venta|V01463|PagoSeguro (externa)|QR billetera virtual|33250|aprobado|2026-09-22|01:01|PS-578EFRHVHG
+P01464|venta|V01464|Boletería|Efectivo|61200|aprobado|2026-09-21|11:51|
+P01465|venta|V01465|Boletería|Efectivo|50400|aprobado|2026-10-20|18:30|
+P01466|venta|V01466|Boletería|Tarjeta de débito|52275|aprobado|2026-10-20|11:45|
+P01467|venta|V01467|Boletería|Tarjeta de débito|69700|aprobado|2026-09-25|18:06|
+P01468|venta|V01468|Boletería|Tarjeta de débito|24500|aprobado|2026-08-21|14:41|
+P01469|venta|V01469|Boletería|Tarjeta de débito|23800|aprobado|2026-10-26|14:36|
+P01470|venta|V01470|Boletería|Tarjeta de crédito|27200|aprobado|2026-08-12|10:47|
+P01471|venta|V01471|PagoSeguro (externa)|Tarjeta de débito|43700|aprobado|2026-09-29|03:02|PS-75BGWMGS5D
+P01472|venta|V01472|PagoSeguro (externa)|Transferencia|51300|aprobado|2026-10-25|08:53|PS-WTNXGNJLS9
+P01473|venta|V01473|Boletería|Tarjeta de crédito|49300|aprobado|2026-08-05|18:56|
+P01474|venta|V01474|PagoSeguro (externa)|Transferencia|64800|aprobado|2026-09-21|16:34|PS-BRCMGXFFS7
+P01475|venta|V01475|PagoSeguro (externa)|QR billetera virtual|91200|aprobado|2026-09-23|18:20|PS-88KTGPTRHA
+P01476|venta|V01476|Boletería|Tarjeta de crédito|19550|aprobado|2026-10-12|16:51|
+P01477|venta|V01477|Boletería|Tarjeta de crédito|22950|aprobado|2026-09-28|11:01|
+P01478|venta|V01478|PagoSeguro (externa)|Tarjeta de crédito|91200|aprobado|2026-09-29|02:49|PS-9NUEL3Z8EQ
+P01479|venta|V01479|Boletería|Efectivo|68850|aprobado|2026-10-04|19:47|
+P01480|venta|V01480|PagoSeguro (externa)|Tarjeta de crédito|76800|aprobado|2026-10-09|15:12|PS-TSUTRUZE3J
+P01481|venta|V01481|Boletería|Efectivo|47250|aprobado|2026-10-20|11:42|
+P01482|venta|V01482|PagoSeguro (externa)|QR billetera virtual|69600|aprobado|2026-09-10|08:26|PS-NYNMLTZNM7
+P01483|venta|V01483|PagoSeguro (externa)|Transferencia|85500|aprobado|2026-10-05|02:53|PS-59QTDXKU59
+P01484|venta|V01484|Boletería|Efectivo|19550|aprobado|2026-10-10|12:43|
+P01485|venta|V01485|PagoSeguro (externa)|Transferencia|108000|aprobado|2026-10-17|19:43|PS-NKHZFXZ2Z9
+P01486|venta|V01486|PagoSeguro (externa)|Transferencia|51300|aprobado|2026-09-18|08:01|PS-DZE9GAY9YF
+P01487|venta|V01487|Boletería|Tarjeta de débito|64400|aprobado|2026-10-15|21:51|
+P01488|venta|V01488|PagoSeguro (externa)|Transferencia|82650|aprobado|2026-09-28|09:52|PS-3PU3ACKL7S
+P01489|venta|V01489|PagoSeguro (externa)|QR billetera virtual|54000|aprobado|2026-10-12|06:38|PS-W473UR76JK
+P01490|venta|V01490|Boletería|Tarjeta de débito|27200|aprobado|2026-10-17|13:52|
+P01491|venta|V01491|PagoSeguro (externa)|QR billetera virtual|87400|aprobado|2026-09-19|04:17|PS-Z6MFXM6M4Q
+P01492|venta|V01492|PagoSeguro (externa)|QR billetera virtual|25600|aprobado|2026-08-12|18:24|PS-NDC8TM7YRE
+P01493|venta|V01493|PagoSeguro (externa)|Tarjeta de débito|54000|aprobado|2026-10-11|20:33|PS-GG346WH6DV
+P01494|venta|V01494|PagoSeguro (externa)|QR billetera virtual|21375|aprobado|2026-09-25|22:32|PS-ZM7LYU9GJ2
+P01495|venta|V01495|PagoSeguro (externa)|Tarjeta de débito|43700|aprobado|2026-10-07|19:11|PS-K7JZBG37AA
+P01496|venta|V01496|Boletería|Tarjeta de crédito|58650|aprobado|2026-09-01|16:28|
+P01497|venta|V01497|Boletería|Tarjeta de débito|54400|aprobado|2026-10-25|10:57|
+P01498|venta|V01498|PagoSeguro (externa)|Tarjeta de crédito|121600|aprobado|2026-10-29|08:37|PS-K33J8FUV7B
+P01499|venta|V01499|Boletería|Efectivo|68850|aprobado|2026-09-21|19:40|
+P01500|venta|V01500|Boletería|Tarjeta de débito|16100|aprobado|2026-08-08|16:15|
+P01501|venta|V01501|PagoSeguro (externa)|Transferencia|21375|aprobado|2026-10-13|04:36|PS-JS2EXF4U66
+P01502|venta|V01502|PagoSeguro (externa)|Tarjeta de débito|54000|aprobado|2026-10-20|14:39|PS-MP52P4NFD9
+P01503|venta|V01503|Boletería|Efectivo|39100|aprobado|2026-09-06|14:25|
+P01504|venta|V01504|Boletería|Tarjeta de débito|76500|aprobado|2026-10-11|16:45|
+P01505|venta|V01505|Boletería|Tarjeta de débito|81600|aprobado|2026-09-22|10:33|
+P01506|venta|V01506|PagoSeguro (externa)|Transferencia|43700|aprobado|2026-10-19|16:26|PS-KL6EEUMD7D
+P01507|venta|V01507|PagoSeguro (externa)|QR billetera virtual|112575|aprobado|2026-10-02|16:13|PS-L89UWT5J28
+P01508|venta|V01508|PagoSeguro (externa)|Tarjeta de crédito|247950|aprobado|2026-10-11|09:00|PS-NG4NMTMLJJ
+P01509|venta|V01509|PagoSeguro (externa)|Tarjeta de crédito|75600|aprobado|2026-09-19|06:54|PS-WEJBG9DE2E
+P01510|venta|V01510|PagoSeguro (externa)|Transferencia|29600|aprobado|2026-09-27|04:20|PS-PLE3T578C9
+P01511|venta|V01511|Boletería|Tarjeta de débito|155550|aprobado|2026-10-06|18:46|
+P01512|venta|V01512|Boletería|Efectivo|110600|aprobado|2026-10-22|11:50|
+P01513|venta|V01513|PagoSeguro (externa)|Transferencia|29925|aprobado|2026-09-15|14:57|PS-EMEHDD3ZBN
+P01514|venta|V01514|Boletería|Tarjeta de crédito|147900|aprobado|2026-10-06|10:26|
+P01515|venta|V01515|PagoSeguro (externa)|Tarjeta de crédito|175750|aprobado|2026-10-09|06:58|PS-E9NKQJPHCZ
+P01516|venta|V01516|PagoSeguro (externa)|Transferencia|105450|aprobado|2026-10-23|09:57|PS-UZX6Z69N6F
+P01517|venta|V01517|PagoSeguro (externa)|Tarjeta de crédito|100800|aprobado|2026-09-06|05:23|PS-43PZABQBXK
+P01518|venta|V01518|PagoSeguro (externa)|Transferencia|57950|aprobado|2026-10-07|09:29|PS-WQQ39N3248
+P01519|venta|V01519|PagoSeguro (externa)|Tarjeta de crédito|34800|aprobado|2026-09-09|10:01|PS-WXSGVAPNPX
+P01520|venta|V01520|Boletería|Tarjeta de crédito|155550|aprobado|2026-09-06|17:40|
+P01521|venta|V01521|PagoSeguro (externa)|Tarjeta de crédito|123975|aprobado|2026-10-18|01:01|PS-QN2RAL3RPZ
+P01522|venta|V01522|PagoSeguro (externa)|Transferencia|173850|aprobado|2026-08-25|05:30|PS-YLANASBUZ3
+P01523|venta|V01523|PagoSeguro (externa)|Tarjeta de débito|175750|aprobado|2026-09-16|22:26|PS-SYSHF5AJDV
+P01524|venta|V01524|PagoSeguro (externa)|Transferencia|62700|aprobado|2026-09-04|10:27|PS-B4TET58U8P
+P01525|venta|V01525|PagoSeguro (externa)|QR billetera virtual|79200|aprobado|2026-08-23|23:24|PS-ACC7RZTK4C
+P01526|venta|V01526|PagoSeguro (externa)|Tarjeta de crédito|91200|aprobado|2026-09-05|20:38|PS-M32WBXDNGG
+P01527|venta|V01527|PagoSeguro (externa)|Tarjeta de crédito|31350|aprobado|2026-10-12|09:59|PS-7YJ6XY4E4S
+P01528|venta|V01528|PagoSeguro (externa)|QR billetera virtual|39425|aprobado|2026-09-04|13:03|PS-R5MS55FN9F
+P01529|venta|V01529|Boletería|Tarjeta de crédito|105825|aprobado|2026-09-28|12:22|
+P01530|venta|V01530|PagoSeguro (externa)|Tarjeta de crédito|125400|aprobado|2026-09-12|11:27|PS-Q2XVG9H5CP
+P01531|venta|V01531|PagoSeguro (externa)|Transferencia|132800|aprobado|2026-10-22|10:25|PS-DG2AM355K3
+P01532|venta|V01532|PagoSeguro (externa)|Tarjeta de débito|79200|aprobado|2026-10-24|12:10|PS-G8PNPKZHN5
+P01533|venta|V01533|PagoSeguro (externa)|Tarjeta de débito|125400|aprobado|2026-10-23|14:32|PS-UKN32ZD3BG
+P01534|venta|V01534|Boletería|Tarjeta de débito|105825|aprobado|2026-10-02|18:27|
+P01535|venta|V01535|PagoSeguro (externa)|Tarjeta de crédito|124800|aprobado|2026-10-06|13:50|PS-JC97MD3UTH
+P01536|venta|V01536|PagoSeguro (externa)|Tarjeta de crédito|26400|aprobado|2026-09-19|07:14|PS-T6L8XQP5S9
+P01537|venta|V01537|PagoSeguro (externa)|Transferencia|31200|aprobado|2026-09-26|05:18|PS-RAZB39VG85
+P01538|venta|V01538|PagoSeguro (externa)|QR billetera virtual|174800|aprobado|2026-09-21|09:49|PS-7BKRDL7RQD
+P01539|venta|V01539|Boletería|Efectivo|66300|aprobado|2026-10-21|16:53|
+P01540|venta|V01540|Boletería|Efectivo|99450|aprobado|2026-10-09|12:26|
+P01541|venta|V01541|PagoSeguro (externa)|QR billetera virtual|79200|aprobado|2026-10-16|20:23|PS-67YG7TNYG4
+P01542|venta|V01542|Boletería|Tarjeta de débito|132600|aprobado|2026-10-19|21:41|
+P01543|venta|V01543|PagoSeguro (externa)|Tarjeta de crédito|31200|aprobado|2026-10-05|16:30|PS-ZQZWPHKVXB
+P01544|venta|V01544|Boletería|Efectivo|108800|aprobado|2026-10-10|18:38|
+P01545|venta|V01545|Boletería|Tarjeta de débito|140250|aprobado|2026-09-27|14:52|
+P01546|venta|V01546|PagoSeguro (externa)|Tarjeta de crédito|31350|aprobado|2026-08-15|08:08|PS-2JTRJRGYFF
+P01547|venta|V01547|PagoSeguro (externa)|Tarjeta de débito|94050|aprobado|2026-10-02|21:41|PS-ZR9MCDWDEH
+P01548|venta|V01548|Boletería|Efectivo|136000|aprobado|2026-10-05|16:32|
+P01549|venta|V01549|Boletería|Efectivo|108800|aprobado|2026-10-11|13:30|
+P01550|venta|V01550|PagoSeguro (externa)|Transferencia|74100|aprobado|2026-08-27|21:58|PS-XVQRBAYDNW
+P01551|venta|V01551|PagoSeguro (externa)|QR billetera virtual|71250|aprobado|2026-10-07|19:56|PS-X8AP6EZWFB
+P01552|venta|V01552|Boletería|Tarjeta de crédito|63750|aprobado|2026-09-26|18:45|
+P01553|venta|V01553|Boletería|Tarjeta de crédito|72800|aprobado|2026-10-14|12:01|
+P01554|venta|V01554|PagoSeguro (externa)|Tarjeta de débito|23750|aprobado|2026-09-24|23:49|PS-SB6VND8ZAA
+P01555|venta|V01555|Boletería|Efectivo|85000|aprobado|2026-10-08|21:06|
+P01556|venta|V01556|Boletería|Tarjeta de débito|63750|aprobado|2026-10-09|21:34|
+P01557|venta|V01557|PagoSeguro (externa)|Transferencia|144875|aprobado|2026-10-21|15:59|PS-VVXFSSRXCA
+P01558|venta|V01558|PagoSeguro (externa)|Tarjeta de débito|74100|aprobado|2026-10-28|12:35|PS-QPJTKVAYYC
+P01559|venta|V01559|Boletería|Tarjeta de débito|88400|aprobado|2026-09-16|21:34|
+P01560|venta|V01560|Boletería|Tarjeta de débito|25200|aprobado|2026-10-27|11:04|
+P01561|venta|V01561|PagoSeguro (externa)|Tarjeta de crédito|74100|aprobado|2026-10-29|16:54|PS-W8D2CUL5FQ
+P01562|venta|V01562|Boletería|Efectivo|25925|aprobado|2026-09-29|13:19|
+P01563|venta|V01563|Boletería|Efectivo|63750|aprobado|2026-09-12|14:52|
+P01564|venta|V01564|Boletería|Tarjeta de crédito|91800|aprobado|2026-09-21|21:05|
+P01565|venta|V01565|PagoSeguro (externa)|Tarjeta de débito|26600|aprobado|2026-09-11|01:10|PS-UVRA98XGRD
+P01566|venta|V01566|PagoSeguro (externa)|Tarjeta de crédito|22800|aprobado|2026-09-20|11:24|PS-BH6ZWVPDMX
+P01567|venta|V01567|PagoSeguro (externa)|QR billetera virtual|95000|aprobado|2026-10-14|23:46|PS-42R62DNKAK
+P01568|venta|V01568|PagoSeguro (externa)|QR billetera virtual|76000|aprobado|2026-09-06|18:11|PS-K3KJ5T6SM6
+P01569|venta|V01569|Boletería|Tarjeta de crédito|51000|aprobado|2026-09-22|15:51|
+P01570|venta|V01570|Boletería|Tarjeta de crédito|20400|aprobado|2026-09-30|18:56|
+P01571|venta|V01571|Boletería|Tarjeta de crédito|71400|aprobado|2026-09-16|15:11|
+P01572|venta|V01572|Boletería|Tarjeta de crédito|40950|aprobado|2026-08-18|16:28|
+P01573|venta|V01573|PagoSeguro (externa)|Transferencia|38400|aprobado|2026-08-08|01:13|PS-SQBHVTBGKT
+P01574|venta|V01574|PagoSeguro (externa)|QR billetera virtual|57000|aprobado|2026-09-29|14:52|PS-H462BNM2RS
+P01575|venta|V01575|PagoSeguro (externa)|Tarjeta de débito|53200|aprobado|2026-10-11|05:28|PS-NRFXM3D7A5
+P01576|venta|V01576|PagoSeguro (externa)|QR billetera virtual|134400|aprobado|2026-09-18|12:09|PS-9GRK7CS8FT
+P01577|venta|V01577|PagoSeguro (externa)|Tarjeta de débito|32000|aprobado|2026-10-16|22:34|PS-SNJZBCRDU7
+P01578|venta|V01578|PagoSeguro (externa)|QR billetera virtual|40000|aprobado|2026-10-21|00:05|PS-5WHJXFYHX5
+P01579|venta|V01579|PagoSeguro (externa)|Transferencia|46800|aprobado|2026-10-20|08:25|PS-X4ZSHPT2SY
+P01580|venta|V01580|Boletería|Tarjeta de débito|42000|aprobado|2026-10-18|16:13|
+P01581|venta|V01581|PagoSeguro (externa)|Tarjeta de crédito|76000|aprobado|2026-10-15|09:10|PS-C82KDLZP3K
+P01582|venta|V01582|PagoSeguro (externa)|Tarjeta de crédito|80000|aprobado|2026-10-28|22:58|PS-MJPA7RL846
+P01583|venta|V01583|PagoSeguro (externa)|Transferencia|95000|aprobado|2026-09-01|10:20|PS-KFT7EQJ4K5
+P01584|venta|V01584|PagoSeguro (externa)|Tarjeta de crédito|48000|aprobado|2026-10-17|16:38|PS-V4QKHHH24Z
+P01585|venta|V01585|Boletería|Tarjeta de crédito|51000|aprobado|2026-09-15|11:13|
+P01586|venta|V01586|PagoSeguro (externa)|Tarjeta de débito|57600|aprobado|2026-10-24|02:32|PS-ZY5LFD3S48
+P01587|venta|V01587|PagoSeguro (externa)|QR billetera virtual|100000|aprobado|2026-08-24|06:08|PS-WRH3Q8S5RC
+P01588|venta|V01588|PagoSeguro (externa)|Tarjeta de débito|76000|aprobado|2026-10-29|19:19|PS-BVMFCRA6G2
+P01589|venta|V01589|Boletería|Tarjeta de crédito|174250|aprobado|2026-08-25|20:05|
+P01590|venta|V01590|Boletería|Tarjeta de débito|135800|aprobado|2026-09-08|11:22|
+P01591|venta|V01591|PagoSeguro (externa)|Tarjeta de crédito|77900|aprobado|2026-09-06|00:32|PS-MRR3KS2PN9
+P01592|venta|V01592|PagoSeguro (externa)|Tarjeta de débito|66500|aprobado|2026-09-17|08:01|PS-QLTDNZC64X
+P01593|venta|V01593|PagoSeguro (externa)|Tarjeta de débito|129200|aprobado|2026-09-25|12:47|PS-S4ZGZF8JC9
+P01594|venta|V01594|PagoSeguro (externa)|Tarjeta de crédito|84000|aprobado|2026-09-11|00:22|PS-SY5REHJ387
+P01595|venta|V01595|Boletería|Efectivo|164900|aprobado|2026-10-17|12:42|
+P01596|venta|V01596|PagoSeguro (externa)|Tarjeta de débito|133000|aprobado|2026-09-12|12:31|PS-FM2VJ8E96Z
+P01597|venta|V01597|Boletería|Tarjeta de crédito|41225|aprobado|2026-08-29|13:27|
+P01598|venta|V01598|Boletería|Tarjeta de débito|147900|aprobado|2026-10-20|19:10|
+P01599|venta|V01599|Boletería|Tarjeta de débito|28900|aprobado|2026-09-27|14:17|
+P01600|venta|V01600|Boletería|Tarjeta de crédito|41225|aprobado|2026-10-19|18:15|
+P01601|venta|V01601|Boletería|Tarjeta de débito|89250|aprobado|2026-08-28|10:11|
+P01602|venta|V01602|PagoSeguro (externa)|Transferencia|77900|aprobado|2026-10-28|04:05|PS-2U4XDKWSJJ
+P01603|venta|V01603|PagoSeguro (externa)|Tarjeta de crédito|99750|aprobado|2026-10-27|13:06|PS-TMSZWS8RX9
+P01604|venta|V01604|PagoSeguro (externa)|Transferencia|64600|aprobado|2026-10-15|14:29|PS-PJW3FPFYF5
+P01605|venta|V01605|Boletería|Tarjeta de débito|59500|aprobado|2026-10-10|15:05|
+P01606|venta|V01606|PagoSeguro (externa)|Tarjeta de crédito|129200|aprobado|2026-09-15|01:17|PS-R8YM6Q9VTE
+P01607|venta|V01607|Boletería|Efectivo|139400|aprobado|2026-08-06|10:36|
+P01608|venta|V01608|Boletería|Tarjeta de crédito|104550|aprobado|2026-10-24|18:16|
+P01609|venta|V01609|Boletería|Efectivo|41225|aprobado|2026-10-22|13:39|
+P01610|venta|V01610|PagoSeguro (externa)|Tarjeta de débito|116850|aprobado|2026-09-19|16:28|PS-V7XATY5UAU
+P01611|venta|V01611|PagoSeguro (externa)|Tarjeta de crédito|84000|aprobado|2026-10-23|10:12|PS-F2HMAKN63D
+P01612|venta|V01612|PagoSeguro (externa)|Transferencia|69600|aprobado|2026-09-29|14:56|PS-M8V6Q3WDZS
+P01613|venta|V01613|PagoSeguro (externa)|Transferencia|92150|aprobado|2026-10-28|15:38|PS-JSJ995MNC5
+P01614|venta|V01614|PagoSeguro (externa)|Transferencia|166250|aprobado|2026-08-22|02:17|PS-2R3N7G24TH
+P01615|venta|V01615|Boletería|Efectivo|104550|aprobado|2026-09-08|21:24|
+P01616|venta|V01616|Boletería|Tarjeta de débito|23800|aprobado|2026-10-26|15:30|
+P01617|venta|V01617|PagoSeguro (externa)|Tarjeta de débito|54400|aprobado|2026-10-20|06:58|PS-UGJL46VMA9
+P01618|venta|V01618|PagoSeguro (externa)|Tarjeta de débito|77900|aprobado|2026-10-12|06:51|PS-NYDX8P3MY6
+P01619|venta|V01619|PagoSeguro (externa)|Tarjeta de débito|38950|aprobado|2026-09-19|18:28|PS-UYE37VNQZ7
+P01620|venta|V01620|PagoSeguro (externa)|Tarjeta de débito|56000|aprobado|2026-10-12|13:40|PS-NCASTLJCQV
+P01621|venta|V01621|Boletería|Tarjeta de débito|115600|aprobado|2026-10-15|19:33|
+P01622|venta|V01622|PagoSeguro (externa)|Tarjeta de crédito|116850|aprobado|2026-09-28|19:41|PS-V7AVVT9KX9
+P01623|venta|V01623|PagoSeguro (externa)|Tarjeta de crédito|38950|aprobado|2026-10-24|13:27|PS-2UJUSP22W8
+P01624|venta|V01624|PagoSeguro (externa)|Transferencia|155800|aprobado|2026-10-13|11:27|PS-95GPY2TW74
+P01625|venta|V01625|PagoSeguro (externa)|Tarjeta de débito|27200|aprobado|2026-08-29|13:53|PS-KPF7UYN5HB
+P01626|venta|V01626|Boletería|Efectivo|119000|aprobado|2026-09-21|20:42|
+P01627|venta|V01627|PagoSeguro (externa)|QR billetera virtual|84000|aprobado|2026-08-10|22:59|PS-J75NPDX4TT
+P01628|venta|V01628|PagoSeguro (externa)|Transferencia|27200|aprobado|2026-10-06|01:04|PS-2MSZ3QM9TS
+P01629|venta|V01629|Boletería|Tarjeta de débito|89250|aprobado|2026-09-05|17:21|
+P01630|venta|V01630|Boletería|Tarjeta de débito|73950|aprobado|2026-10-11|10:11|
+P01631|venta|V01631|PagoSeguro (externa)|QR billetera virtual|155800|aprobado|2026-09-25|02:57|PS-FCYTHC8K47
+P01632|venta|V01632|PagoSeguro (externa)|QR billetera virtual|13050|aprobado|2026-08-27|21:04|PS-H4TZSF4RMB
+P01633|venta|V01633|PagoSeguro (externa)|Tarjeta de crédito|9900|aprobado|2026-08-09|08:56|PS-B6S9N5MDX9
+P01634|venta|V01634|PagoSeguro (externa)|Tarjeta de crédito|14400|aprobado|2026-10-15|05:55|PS-Y8XZ8BSC6L
+P01635|venta|V01635|PagoSeguro (externa)|Tarjeta de débito|31050|aprobado|2026-10-02|06:39|PS-EJPE8J2UVG
+P01636|venta|V01636|PagoSeguro (externa)|Transferencia|20700|aprobado|2026-10-10|05:00|PS-CCGUJKG8S5
+P01637|venta|V01637|Boletería|Tarjeta de débito|43200|aprobado|2026-10-14|11:45|
+P01638|venta|V01638|PagoSeguro (externa)|QR billetera virtual|9900|aprobado|2026-09-20|13:48|PS-R75WQPWVLQ
+P01639|venta|V01639|Boletería|Tarjeta de débito|52800|aprobado|2026-10-06|16:36|
+P01640|venta|V01640|PagoSeguro (externa)|QR billetera virtual|9900|aprobado|2026-09-24|11:52|PS-ATLNQCMGZQ
+P01641|venta|V01641|Boletería|Efectivo|38400|aprobado|2026-09-02|13:06|
+P01642|venta|V01642|PagoSeguro (externa)|Tarjeta de crédito|43200|aprobado|2026-10-05|16:28|PS-PWBJFXMZFZ
+P01643|venta|V01643|PagoSeguro (externa)|QR billetera virtual|48600|aprobado|2026-08-19|15:52|PS-RWLFQCXZT2
+P01644|venta|V01644|PagoSeguro (externa)|Tarjeta de débito|39150|aprobado|2026-10-16|22:46|PS-GLY2F7BS7Q
+P01645|venta|V01645|PagoSeguro (externa)|Tarjeta de crédito|14400|aprobado|2026-09-30|06:51|PS-ZZ3QSXXHUP
+P01646|venta|V01646|PagoSeguro (externa)|QR billetera virtual|28800|aprobado|2026-10-16|20:26|PS-6SJ2FWG7KB
+P01647|venta|V01647|Boletería|Efectivo|51200|aprobado|2026-08-19|11:52|
+P01648|venta|V01648|Boletería|Efectivo|43200|aprobado|2026-09-12|10:35|
+P01649|venta|V01649|Boletería|Tarjeta de crédito|64000|aprobado|2026-10-03|14:09|
+P01650|venta|V01650|Boletería|Tarjeta de crédito|35200|aprobado|2026-10-01|16:31|
+P01651|venta|V01651|Boletería|Tarjeta de crédito|25600|aprobado|2026-08-10|13:21|
+P01652|venta|V01652|Boletería|Tarjeta de débito|36800|aprobado|2026-10-24|15:25|
+P01653|venta|V01653|PagoSeguro (externa)|QR billetera virtual|10350|aprobado|2026-09-30|16:22|PS-NS6GK2VTH2
+P01654|venta|V01654|Boletería|Tarjeta de débito|27600|aprobado|2026-08-28|19:55|
+P01655|venta|V01655|PagoSeguro (externa)|Tarjeta de débito|48600|aprobado|2026-10-24|22:31|PS-3XXERKNP7V
+P01656|venta|V01656|PagoSeguro (externa)|Transferencia|28800|aprobado|2026-08-30|22:33|PS-QBL5G85KY4
+P01657|venta|V01657|Boletería|Tarjeta de crédito|8800|aprobado|2026-08-20|20:54|
+P01658|venta|V01658|Boletería|Tarjeta de débito|35200|aprobado|2026-09-21|16:45|
+P01659|venta|V01659|PagoSeguro (externa)|Transferencia|19800|aprobado|2026-09-06|09:29|PS-P2CNJBLFXE
+P01660|venta|V01660|Boletería|Tarjeta de débito|64800|aprobado|2026-10-14|13:25|
+P01661|venta|V01661|Boletería|Efectivo|23200|aprobado|2026-09-03|18:51|
+P01662|venta|V01662|Boletería|Tarjeta de débito|18400|aprobado|2026-09-27|11:48|
+P01663|venta|V01663|Boletería|Tarjeta de débito|10800|aprobado|2026-09-02|16:23|
+P01664|venta|V01664|PagoSeguro (externa)|QR billetera virtual|48600|aprobado|2026-10-22|17:19|PS-UKAU9YBTE3
+P01665|venta|V01665|PagoSeguro (externa)|QR billetera virtual|28800|aprobado|2026-10-18|14:45|PS-FNXXTY5Y23
+P01666|venta|V01666|PagoSeguro (externa)|Tarjeta de débito|24300|aprobado|2026-10-14|16:29|PS-8KNFVZV7XW
+P01667|cuota|C0001|Boletería|Tarjeta de débito|9500|aprobado|2025-02-03|11:41|Recibo 1
+P01668|cuota|C0002|Boletería|Efectivo|9500|aprobado|2025-03-05|16:39|Recibo 2
+P01669|cuota|C0003|Boletería|Efectivo|9500|aprobado|2025-04-08|17:21|Recibo 3
+P01670|cuota|C0004|Boletería|Efectivo|9500|aprobado|2025-05-06|17:29|Recibo 4
+P01671|cuota|C0005|Boletería|Efectivo|9500|aprobado|2025-06-06|11:29|Recibo 5
+P01672|cuota|C0006|Boletería|Tarjeta de débito|9500|aprobado|2025-07-07|14:59|Recibo 6
+P01673|cuota|C0007|Boletería|Efectivo|9500|aprobado|2025-08-05|15:26|Recibo 7
+P01674|cuota|C0008|Boletería|Efectivo|9500|aprobado|2025-09-07|16:09|Recibo 8
+P01675|cuota|C0009|Boletería|Efectivo|9500|aprobado|2025-10-05|10:06|Recibo 9
+P01676|cuota|C0010|Boletería|Tarjeta de débito|9500|aprobado|2025-11-09|16:45|Recibo 10
+P01677|cuota|C0011|Boletería|Tarjeta de débito|9500|aprobado|2025-12-05|16:34|Recibo 11
+P01678|cuota|C0012|Boletería|Efectivo|12000|aprobado|2026-01-09|15:10|Recibo 12
+P01679|cuota|C0013|Boletería|Tarjeta de débito|12000|aprobado|2026-02-09|13:02|Recibo 13
+P01680|cuota|C0014|Boletería|Efectivo|12000|aprobado|2026-03-08|18:34|Recibo 14
+P01681|cuota|C0015|Boletería|Tarjeta de débito|12000|aprobado|2026-04-07|16:11|Recibo 15
+P01682|cuota|C0016|Boletería|Efectivo|12000|aprobado|2026-05-06|10:55|Recibo 16
+P01683|cuota|C0017|Boletería|Efectivo|12000|aprobado|2026-06-10|18:33|Recibo 17
+P01684|cuota|C0018|Boletería|Efectivo|12000|aprobado|2026-07-11|10:08|Recibo 18
+P01685|cuota|C0019|Boletería|Tarjeta de débito|12000|aprobado|2026-08-05|18:11|Recibo 19
+P01686|cuota|C0020|Boletería|Tarjeta de débito|12000|aprobado|2026-09-08|13:24|Recibo 20
+P01687|cuota|C0021|Boletería|Tarjeta de débito|12000|aprobado|2026-10-06|15:14|Recibo 21
+P01688|cuota|C0022|Boletería|Tarjeta de débito|9500|aprobado|2025-03-12|11:43|Recibo 22
+P01689|cuota|C0023|Boletería|Efectivo|9500|aprobado|2025-04-07|12:22|Recibo 23
+P01690|cuota|C0024|Boletería|Tarjeta de débito|9500|aprobado|2025-05-08|19:41|Recibo 24
+P01691|cuota|C0025|Boletería|Tarjeta de débito|9500|aprobado|2025-06-04|17:03|Recibo 25
+P01692|cuota|C0026|Boletería|Tarjeta de débito|9500|aprobado|2025-07-09|18:59|Recibo 26
+P01693|cuota|C0027|Boletería|Tarjeta de débito|9500|aprobado|2025-08-08|19:38|Recibo 27
+P01694|cuota|C0028|Boletería|Tarjeta de débito|9500|aprobado|2025-09-04|10:55|Recibo 28
+P01695|cuota|C0029|Boletería|Efectivo|9500|aprobado|2025-10-10|14:30|Recibo 29
+P01696|cuota|C0030|Boletería|Tarjeta de débito|9500|aprobado|2025-11-03|19:39|Recibo 30
+P01697|cuota|C0031|Boletería|Tarjeta de débito|9500|aprobado|2025-12-04|12:11|Recibo 31
+P01698|cuota|C0032|Boletería|Efectivo|12000|aprobado|2026-01-06|17:16|Recibo 32
+P01699|cuota|C0033|Boletería|Tarjeta de débito|12000|aprobado|2026-02-09|13:41|Recibo 33
+P01700|cuota|C0034|Boletería|Tarjeta de débito|12000|aprobado|2026-03-07|10:41|Recibo 34
+P01701|cuota|C0035|Boletería|Tarjeta de débito|12000|aprobado|2026-04-06|18:37|Recibo 35
+P01702|cuota|C0036|Boletería|Tarjeta de débito|12000|aprobado|2026-05-06|14:16|Recibo 36
+P01703|cuota|C0037|Boletería|Tarjeta de débito|12000|aprobado|2026-06-07|11:33|Recibo 37
+P01704|cuota|C0038|Boletería|Tarjeta de débito|12000|aprobado|2026-07-06|14:29|Recibo 38
+P01705|cuota|C0039|Boletería|Tarjeta de débito|12000|aprobado|2026-01-07|12:20|Recibo 39
+P01706|cuota|C0040|Boletería|Efectivo|12000|aprobado|2026-02-07|13:35|Recibo 40
+P01707|cuota|C0041|Boletería|Efectivo|12000|aprobado|2026-03-05|13:25|Recibo 41
+P01708|cuota|C0042|Boletería|Tarjeta de débito|12000|aprobado|2026-04-03|13:40|Recibo 42
+P01709|cuota|C0043|Boletería|Tarjeta de débito|12000|aprobado|2026-05-05|10:27|Recibo 43
+P01710|cuota|C0044|Boletería|Tarjeta de débito|12000|aprobado|2026-06-10|19:41|Recibo 44
+P01711|cuota|C0045|Boletería|Tarjeta de débito|12000|aprobado|2026-07-07|10:33|Recibo 45
+P01712|cuota|C0046|Boletería|Tarjeta de débito|12000|aprobado|2026-08-06|19:59|Recibo 46
+P01713|cuota|C0047|Boletería|Tarjeta de débito|12000|aprobado|2026-09-07|18:47|Recibo 47
+P01714|cuota|C0048|Boletería|Efectivo|12000|aprobado|2026-10-07|14:00|Recibo 48
+P01715|cuota|C0049|Boletería|Efectivo|9500|aprobado|2025-05-13|18:40|Recibo 49
+P01716|cuota|C0050|Boletería|Tarjeta de débito|9500|aprobado|2025-06-06|13:36|Recibo 50
+P01717|cuota|C0051|Boletería|Tarjeta de débito|9500|aprobado|2025-07-08|12:19|Recibo 51
+P01718|cuota|C0052|Boletería|Tarjeta de débito|9500|aprobado|2025-08-07|17:23|Recibo 52
+P01719|cuota|C0053|Boletería|Efectivo|9500|aprobado|2025-09-03|10:56|Recibo 53
+P01720|cuota|C0054|Boletería|Tarjeta de débito|9500|aprobado|2025-10-09|17:11|Recibo 54
+P01721|cuota|C0055|Boletería|Tarjeta de débito|9500|aprobado|2025-11-10|10:50|Recibo 55
+P01722|cuota|C0056|Boletería|Efectivo|9500|aprobado|2025-12-10|15:13|Recibo 56
+P01723|cuota|C0057|Boletería|Tarjeta de débito|12000|aprobado|2026-01-12|12:11|Recibo 57
+P01724|cuota|C0058|Boletería|Tarjeta de débito|12000|aprobado|2026-02-04|18:05|Recibo 58
+P01725|cuota|C0059|Boletería|Efectivo|12000|aprobado|2026-03-06|13:26|Recibo 59
+P01726|cuota|C0060|Boletería|Efectivo|12000|aprobado|2026-04-03|14:50|Recibo 60
+P01727|cuota|C0061|Boletería|Tarjeta de débito|12000|aprobado|2026-05-04|16:11|Recibo 61
+P01728|cuota|C0062|Boletería|Tarjeta de débito|12000|aprobado|2026-06-10|17:00|Recibo 62
+P01729|cuota|C0063|Boletería|Efectivo|12000|aprobado|2026-07-13|18:10|Recibo 63
+P01730|cuota|C0064|Boletería|Tarjeta de débito|12000|aprobado|2026-08-07|13:36|Recibo 64
+P01731|cuota|C0065|Boletería|Tarjeta de débito|12000|aprobado|2026-09-08|14:41|Recibo 65
+P01732|cuota|C0066|Boletería|Tarjeta de débito|12000|aprobado|2026-10-10|19:22|Recibo 66
+P01733|cuota|C0067|Boletería|Efectivo|12000|aprobado|2026-02-12|19:40|Recibo 67
+P01734|cuota|C0068|Boletería|Efectivo|12000|aprobado|2026-03-04|16:18|Recibo 68
+P01735|cuota|C0069|Boletería|Tarjeta de débito|12000|aprobado|2026-04-10|12:10|Recibo 69
+P01736|cuota|C0070|Boletería|Tarjeta de débito|12000|aprobado|2026-05-04|10:07|Recibo 70
+P01737|cuota|C0071|Boletería|Tarjeta de débito|12000|aprobado|2026-06-10|15:52|Recibo 71
+P01738|cuota|C0072|Boletería|Efectivo|12000|aprobado|2026-07-06|12:51|Recibo 72
+P01739|cuota|C0073|Boletería|Efectivo|12000|aprobado|2026-08-03|16:30|Recibo 73
+P01740|cuota|C0074|Boletería|Efectivo|12000|aprobado|2026-09-10|11:04|Recibo 74
+P01741|cuota|C0075|Boletería|Efectivo|12000|aprobado|2026-10-06|14:20|Recibo 75
+P01742|cuota|C0076|Boletería|Efectivo|9500|aprobado|2025-01-13|12:39|Recibo 76
+P01743|cuota|C0077|Boletería|Efectivo|9500|aprobado|2025-02-03|11:05|Recibo 77
+P01744|cuota|C0078|Boletería|Efectivo|9500|aprobado|2025-03-05|12:28|Recibo 78
+P01745|cuota|C0079|Boletería|Tarjeta de débito|9500|aprobado|2025-04-07|12:56|Recibo 79
+P01746|cuota|C0080|Boletería|Tarjeta de débito|9500|aprobado|2025-05-10|11:42|Recibo 80
+P01747|cuota|C0081|Boletería|Tarjeta de débito|9500|aprobado|2025-06-05|15:53|Recibo 81
+P01748|cuota|C0082|Boletería|Efectivo|9500|aprobado|2025-07-04|16:13|Recibo 82
+P01749|cuota|C0083|Boletería|Efectivo|9500|aprobado|2025-08-04|16:16|Recibo 83
+P01750|cuota|C0084|Boletería|Tarjeta de débito|9500|aprobado|2025-09-07|16:33|Recibo 84
+P01751|cuota|C0085|Boletería|Tarjeta de débito|9500|aprobado|2025-10-03|16:47|Recibo 85
+P01752|cuota|C0086|Boletería|Efectivo|9500|aprobado|2025-11-09|16:21|Recibo 86
+P01753|cuota|C0087|Boletería|Efectivo|9500|aprobado|2025-12-08|14:26|Recibo 87
+P01754|cuota|C0088|Boletería|Tarjeta de débito|12000|aprobado|2026-01-09|18:52|Recibo 88
+P01755|cuota|C0089|Boletería|Tarjeta de débito|12000|aprobado|2026-02-03|15:39|Recibo 89
+P01756|cuota|C0090|Boletería|Efectivo|12000|aprobado|2026-03-04|17:03|Recibo 90
+P01757|cuota|C0091|Boletería|Efectivo|12000|aprobado|2026-04-03|19:14|Recibo 91
+P01758|cuota|C0092|Boletería|Efectivo|12000|aprobado|2026-05-06|12:01|Recibo 92
+P01759|cuota|C0093|Boletería|Efectivo|12000|aprobado|2026-06-10|14:44|Recibo 93
+P01760|cuota|C0094|Boletería|Tarjeta de débito|12000|aprobado|2026-07-07|17:12|Recibo 94
+P01761|cuota|C0095|Boletería|Tarjeta de débito|12000|aprobado|2026-08-04|19:26|Recibo 95
+P01762|cuota|C0096|Boletería|Efectivo|12000|aprobado|2026-09-07|18:49|Recibo 96
+P01763|cuota|C0097|Boletería|Efectivo|12000|aprobado|2026-10-10|16:13|Recibo 97
+P01764|cuota|C0098|Boletería|Efectivo|9500|aprobado|2025-06-17|15:30|Recibo 98
+P01765|cuota|C0099|Boletería|Tarjeta de débito|9500|aprobado|2025-07-10|14:58|Recibo 99
+P01766|cuota|C0100|Boletería|Efectivo|9500|aprobado|2025-08-07|14:10|Recibo 100
+P01767|cuota|C0101|Boletería|Tarjeta de débito|9500|aprobado|2025-09-10|14:44|Recibo 101
+P01768|cuota|C0102|Boletería|Tarjeta de débito|9500|aprobado|2025-10-09|10:36|Recibo 102
+P01769|cuota|C0103|Boletería|Efectivo|9500|aprobado|2025-11-06|15:12|Recibo 103
+P01770|cuota|C0104|Boletería|Tarjeta de débito|9500|aprobado|2025-12-08|13:04|Recibo 104
+P01771|cuota|C0105|Boletería|Efectivo|12000|aprobado|2026-01-06|12:31|Recibo 105
+P01772|cuota|C0106|Boletería|Efectivo|12000|aprobado|2026-02-06|15:11|Recibo 106
+P01773|cuota|C0107|Boletería|Tarjeta de débito|12000|aprobado|2026-03-06|16:45|Recibo 107
+P01774|cuota|C0108|Boletería|Efectivo|12000|aprobado|2026-04-06|15:40|Recibo 108
+P01775|cuota|C0109|Boletería|Efectivo|12000|aprobado|2026-05-11|12:57|Recibo 109
+P01776|cuota|C0110|Boletería|Efectivo|12000|aprobado|2026-06-10|19:45|Recibo 110
+P01777|cuota|C0111|Boletería|Tarjeta de débito|12000|aprobado|2026-07-12|13:47|Recibo 111
+P01778|cuota|C0112|Boletería|Efectivo|12000|aprobado|2026-08-06|11:49|Recibo 112
+P01779|cuota|C0113|Boletería|Tarjeta de débito|12000|aprobado|2026-09-10|13:41|Recibo 113
+P01780|cuota|C0114|Boletería|Tarjeta de débito|12000|aprobado|2026-10-13|15:56|Recibo 114
+P01781|cuota|C0115|Boletería|Efectivo|12000|aprobado|2026-05-02|12:51|Recibo 115
+P01782|cuota|C0116|Boletería|Efectivo|12000|aprobado|2026-06-07|11:12|Recibo 116
+P01783|cuota|C0117|Boletería|Efectivo|12000|aprobado|2026-07-11|12:23|Recibo 117
+P01784|cuota|C0118|Boletería|Tarjeta de débito|12000|aprobado|2026-08-10|10:00|Recibo 118
+P01785|cuota|C0119|Boletería|Tarjeta de débito|12000|aprobado|2026-09-05|15:37|Recibo 119
+P01786|cuota|C0120|Boletería|Efectivo|12000|aprobado|2026-10-09|12:58|Recibo 120
+P01787|cuota|C0121|Boletería|Tarjeta de débito|9500|aprobado|2025-07-16|14:53|Recibo 121
+P01788|cuota|C0122|Boletería|Tarjeta de débito|9500|aprobado|2025-08-05|13:37|Recibo 122
+P01789|cuota|C0123|Boletería|Efectivo|9500|aprobado|2025-09-10|13:48|Recibo 123
+P01790|cuota|C0124|Boletería|Tarjeta de débito|9500|aprobado|2025-10-06|19:55|Recibo 124
+P01791|cuota|C0125|Boletería|Efectivo|9500|aprobado|2025-11-08|12:57|Recibo 125
+P01792|cuota|C0126|Boletería|Efectivo|9500|aprobado|2025-12-09|18:27|Recibo 126
+P01793|cuota|C0127|Boletería|Tarjeta de débito|12000|aprobado|2026-01-06|17:24|Recibo 127
+P01794|cuota|C0128|Boletería|Efectivo|12000|aprobado|2026-02-05|10:34|Recibo 128
+P01795|cuota|C0129|Boletería|Tarjeta de débito|12000|aprobado|2026-03-07|11:01|Recibo 129
+P01796|cuota|C0130|Boletería|Efectivo|12000|aprobado|2026-04-09|11:04|Recibo 130
+P01797|cuota|C0131|Boletería|Efectivo|12000|aprobado|2026-05-10|19:28|Recibo 131
+P01798|cuota|C0132|Boletería|Efectivo|12000|aprobado|2026-06-06|10:54|Recibo 132
+P01799|cuota|C0133|Boletería|Efectivo|12000|aprobado|2026-07-13|17:04|Recibo 133
+P01800|cuota|C0134|Boletería|Tarjeta de débito|12000|aprobado|2026-08-09|18:47|Recibo 134
+P01801|cuota|C0135|Boletería|Efectivo|12000|aprobado|2026-09-06|19:14|Recibo 135
+P01802|cuota|C0136|Boletería|Tarjeta de débito|12000|aprobado|2026-10-13|10:46|Recibo 136
+P01803|cuota|C0137|Boletería|Tarjeta de débito|12000|aprobado|2026-01-16|13:03|Recibo 137
+P01804|cuota|C0138|Boletería|Efectivo|12000|aprobado|2026-02-04|16:17|Recibo 138
+P01805|cuota|C0139|Boletería|Efectivo|12000|aprobado|2026-03-09|18:58|Recibo 139
+P01806|cuota|C0140|Boletería|Tarjeta de débito|12000|aprobado|2026-04-10|11:06|Recibo 140
+P01807|cuota|C0141|Boletería|Tarjeta de débito|12000|aprobado|2026-05-08|11:03|Recibo 141
+P01808|cuota|C0142|Boletería|Tarjeta de débito|12000|aprobado|2026-06-07|15:24|Recibo 142
+P01809|cuota|C0143|Boletería|Efectivo|12000|aprobado|2026-07-06|14:19|Recibo 143
+P01810|cuota|C0144|Boletería|Tarjeta de débito|12000|aprobado|2026-08-07|14:46|Recibo 144
+P01811|cuota|C0145|Boletería|Tarjeta de débito|12000|aprobado|2026-09-10|19:11|Recibo 145
+P01812|cuota|C0146|Boletería|Efectivo|12000|aprobado|2026-10-06|13:15|Recibo 146
+P01813|cuota|C0147|Boletería|Efectivo|9500|aprobado|2025-06-15|15:56|Recibo 147
+P01814|cuota|C0148|Boletería|Efectivo|9500|aprobado|2025-07-09|16:57|Recibo 148
+P01815|cuota|C0149|Boletería|Tarjeta de débito|9500|aprobado|2025-08-11|17:32|Recibo 149
+P01816|cuota|C0150|Boletería|Efectivo|9500|aprobado|2025-09-05|15:13|Recibo 150
+P01817|cuota|C0151|Boletería|Efectivo|9500|aprobado|2025-10-07|10:45|Recibo 151
+P01818|cuota|C0152|Boletería|Tarjeta de débito|9500|aprobado|2025-11-07|13:21|Recibo 152
+P01819|cuota|C0153|Boletería|Efectivo|9500|aprobado|2025-12-04|11:32|Recibo 153
+P01820|cuota|C0154|Boletería|Tarjeta de débito|12000|aprobado|2026-01-10|15:10|Recibo 154
+P01821|cuota|C0155|Boletería|Tarjeta de débito|12000|aprobado|2026-02-09|18:22|Recibo 155
+P01822|cuota|C0156|Boletería|Tarjeta de débito|12000|aprobado|2026-03-04|18:46|Recibo 156
+P01823|cuota|C0157|Boletería|Tarjeta de débito|12000|aprobado|2026-04-08|14:14|Recibo 157
+P01824|cuota|C0158|Boletería|Efectivo|12000|aprobado|2026-05-04|18:54|Recibo 158
+P01825|cuota|C0159|Boletería|Tarjeta de débito|12000|aprobado|2026-06-08|11:34|Recibo 159
+P01826|cuota|C0160|Boletería|Efectivo|12000|aprobado|2026-07-10|18:43|Recibo 160
+P01827|cuota|C0161|Boletería|Tarjeta de débito|12000|aprobado|2026-08-08|19:16|Recibo 161
+P01828|cuota|C0162|Boletería|Efectivo|12000|aprobado|2026-09-07|17:32|Recibo 162
+P01829|cuota|C0163|Boletería|Efectivo|12000|aprobado|2026-10-08|18:26|Recibo 163
+P01830|cuota|C0164|Boletería|Efectivo|9500|aprobado|2025-07-12|12:27|Recibo 164
+P01831|cuota|C0165|Boletería|Tarjeta de débito|9500|aprobado|2025-08-06|17:08|Recibo 165
+P01832|cuota|C0166|Boletería|Efectivo|9500|aprobado|2025-09-05|12:05|Recibo 166
+P01833|cuota|C0167|Boletería|Efectivo|9500|aprobado|2025-10-03|12:54|Recibo 167
+P01834|cuota|C0168|Boletería|Tarjeta de débito|9500|aprobado|2025-11-04|11:48|Recibo 168
+P01835|cuota|C0169|Boletería|Efectivo|9500|aprobado|2025-12-05|17:36|Recibo 169
+P01836|cuota|C0170|Boletería|Tarjeta de débito|12000|aprobado|2026-01-10|18:20|Recibo 170
+P01837|cuota|C0171|Boletería|Tarjeta de débito|12000|aprobado|2026-02-07|17:11|Recibo 171
+P01838|cuota|C0172|Boletería|Efectivo|12000|aprobado|2026-03-09|10:08|Recibo 172
+P01839|cuota|C0173|Boletería|Tarjeta de débito|12000|aprobado|2026-04-03|19:26|Recibo 173
+P01840|cuota|C0174|Boletería|Tarjeta de débito|12000|aprobado|2026-05-07|14:46|Recibo 174
+P01841|cuota|C0175|Boletería|Efectivo|12000|aprobado|2026-06-04|14:04|Recibo 175
+P01842|cuota|C0176|Boletería|Tarjeta de débito|12000|aprobado|2026-07-08|10:38|Recibo 176
+P01843|cuota|C0177|Boletería|Efectivo|12000|aprobado|2026-08-05|15:30|Recibo 177
+P01844|cuota|C0178|Boletería|Tarjeta de débito|12000|aprobado|2026-09-08|10:34|Recibo 178
+P01845|cuota|C0179|Boletería|Tarjeta de débito|12000|aprobado|2026-10-10|18:16|Recibo 179
+P01846|cuota|C0180|Boletería|Tarjeta de débito|9500|aprobado|2025-06-12|13:56|Recibo 180
+P01847|cuota|C0181|Boletería|Tarjeta de débito|9500|aprobado|2025-07-04|10:22|Recibo 181
+P01848|cuota|C0182|Boletería|Tarjeta de débito|9500|aprobado|2025-08-11|10:33|Recibo 182
+P01849|cuota|C0183|Boletería|Efectivo|9500|aprobado|2025-09-06|18:25|Recibo 183
+P01850|cuota|C0184|Boletería|Tarjeta de débito|9500|aprobado|2025-10-04|12:29|Recibo 184
+P01851|cuota|C0185|Boletería|Efectivo|9500|aprobado|2025-11-04|14:34|Recibo 185
+P01852|cuota|C0186|Boletería|Efectivo|9500|aprobado|2025-12-10|19:53|Recibo 186
+P01853|cuota|C0187|Boletería|Efectivo|12000|aprobado|2026-01-08|19:41|Recibo 187
+P01854|cuota|C0188|Boletería|Efectivo|12000|aprobado|2026-02-10|19:46|Recibo 188
+P01855|cuota|C0189|Boletería|Efectivo|12000|aprobado|2026-03-05|11:57|Recibo 189
+P01856|cuota|C0190|Boletería|Efectivo|12000|aprobado|2026-04-09|16:37|Recibo 190
+P01857|cuota|C0191|Boletería|Tarjeta de débito|12000|aprobado|2026-05-09|12:38|Recibo 191
+P01858|cuota|C0192|Boletería|Tarjeta de débito|12000|aprobado|2026-06-09|19:45|Recibo 192
+P01859|cuota|C0193|Boletería|Efectivo|12000|aprobado|2026-07-11|15:01|Recibo 193
+P01860|cuota|C0194|Boletería|Tarjeta de débito|12000|aprobado|2026-08-04|19:01|Recibo 194
+P01861|cuota|C0195|Boletería|Tarjeta de débito|12000|aprobado|2026-09-04|10:44|Recibo 195
+P01862|cuota|C0196|Boletería|Efectivo|12000|aprobado|2026-10-07|14:50|Recibo 196
+P01863|cuota|C0197|Boletería|Tarjeta de débito|12000|aprobado|2026-07-23|15:38|Recibo 197
+P01864|cuota|C0198|Boletería|Efectivo|12000|aprobado|2026-08-06|14:21|Recibo 198
+P01865|cuota|C0199|Boletería|Efectivo|9500|aprobado|2025-08-02|10:16|Recibo 199
+P01866|cuota|C0200|Boletería|Tarjeta de débito|9500|aprobado|2025-09-08|14:18|Recibo 200
+P01867|cuota|C0201|Boletería|Efectivo|9500|aprobado|2025-10-07|17:53|Recibo 201
+P01868|cuota|C0202|Boletería|Efectivo|9500|aprobado|2025-11-10|19:19|Recibo 202
+P01869|cuota|C0203|Boletería|Tarjeta de débito|9500|aprobado|2025-12-10|18:14|Recibo 203
+P01870|cuota|C0204|Boletería|Efectivo|12000|aprobado|2026-01-07|13:54|Recibo 204
+P01871|cuota|C0205|Boletería|Efectivo|12000|aprobado|2026-02-04|12:53|Recibo 205
+P01872|cuota|C0206|Boletería|Efectivo|12000|aprobado|2026-03-06|15:46|Recibo 206
+P01873|cuota|C0207|Boletería|Tarjeta de débito|12000|aprobado|2026-04-05|13:44|Recibo 207
+P01874|cuota|C0208|Boletería|Efectivo|12000|aprobado|2026-05-08|18:20|Recibo 208
+P01875|cuota|C0209|Boletería|Tarjeta de débito|12000|aprobado|2026-06-08|19:22|Recibo 209
+P01876|cuota|C0210|Boletería|Tarjeta de débito|12000|aprobado|2026-07-08|16:31|Recibo 210
+P01877|cuota|C0211|Boletería|Tarjeta de débito|12000|aprobado|2026-08-05|17:26|Recibo 211
+P01878|cuota|C0212|Boletería|Tarjeta de débito|9500|aprobado|2025-07-12|15:33|Recibo 212
+P01879|cuota|C0213|Boletería|Efectivo|9500|aprobado|2025-08-07|18:58|Recibo 213
+P01880|cuota|C0214|Boletería|Tarjeta de débito|9500|aprobado|2025-06-24|10:44|Recibo 214
+P01881|cuota|C0215|Boletería|Tarjeta de débito|9500|aprobado|2025-07-05|18:07|Recibo 215
+P01882|cuota|C0216|Boletería|Tarjeta de débito|9500|aprobado|2025-08-06|14:18|Recibo 216
+P01883|cuota|C0217|Boletería|Efectivo|9500|aprobado|2025-05-08|13:41|Recibo 217
+P01884|cuota|C0218|Boletería|Tarjeta de débito|9500|aprobado|2025-06-08|17:04|Recibo 218
+P01885|cuota|C0219|Boletería|Efectivo|9500|aprobado|2025-07-06|12:32|Recibo 219
+P01886|cuota|C0220|Boletería|Tarjeta de débito|9500|aprobado|2025-08-06|16:04|Recibo 220
+P01887|cuota|C0221|Boletería|Tarjeta de débito|9500|aprobado|2025-10-11|18:36|Recibo 221
+P01888|cuota|C0222|Boletería|Tarjeta de débito|9500|aprobado|2025-11-09|17:39|Recibo 222
+P01889|cuota|C0223|Boletería|Tarjeta de débito|9500|aprobado|2025-12-08|13:01|Recibo 223
+P01890|cuota|C0224|Boletería|Tarjeta de débito|12000|aprobado|2026-01-10|14:29|Recibo 224
+P01891|cuota|C0225|Boletería|Efectivo|12000|aprobado|2026-02-03|13:36|Recibo 225
+P01892|cuota|C0226|Boletería|Efectivo|9500|aprobado|2025-04-03|16:37|Recibo 226
+P01893|cuota|C0227|Boletería|Tarjeta de débito|9500|aprobado|2025-05-07|15:34|Recibo 227
+P01894|cuota|C0228|Boletería|Efectivo|9500|aprobado|2025-06-07|18:57|Recibo 228
+P01895|cuota|C0229|Boletería|Tarjeta de débito|9500|aprobado|2025-07-07|18:01|Recibo 229
+P01896|cuota|C0230|Boletería|Efectivo|9500|aprobado|2025-08-08|16:32|Recibo 230
+P01897|cuota|C0231|Boletería|Efectivo|9500|aprobado|2025-09-03|16:43|Recibo 231
+P01898|cuota|C0232|Boletería|Efectivo|9500|aprobado|2025-03-16|18:12|Recibo 232
+P01899|cuota|C0233|Boletería|Tarjeta de débito|9500|aprobado|2025-04-05|13:04|Recibo 233
+P01900|cuota|C0234|Boletería|Efectivo|9500|aprobado|2025-05-05|12:41|Recibo 234
+P01901|cuota|C0235|Boletería|Efectivo|9500|aprobado|2025-06-03|13:36|Recibo 235
+P01902|cuota|C0236|Boletería|Tarjeta de débito|9500|aprobado|2025-07-03|18:59|Recibo 236
+P01903|cuota|C0237|Boletería|Efectivo|9500|aprobado|2025-08-08|15:34|Recibo 237
+P01904|cuota|C0238|Boletería|Tarjeta de débito|9500|aprobado|2025-09-06|10:10|Recibo 238
+P01905|cuota|C0239|Boletería|Tarjeta de débito|9500|aprobado|2025-10-09|18:48|Recibo 239
+P01906|cuota|C0240|Boletería|Efectivo|9500|aprobado|2025-09-07|18:38|Recibo 240
+P01907|cuota|C0241|Boletería|Efectivo|9500|aprobado|2025-10-06|16:46|Recibo 241
+P01908|cuota|C0242|Boletería|Efectivo|9500|aprobado|2025-11-07|17:20|Recibo 242
+P01909|cuota|C0243|Boletería|Tarjeta de débito|9500|aprobado|2025-12-05|19:21|Recibo 243
+P01910|cuota|C0244|Boletería|Efectivo|12000|aprobado|2026-01-05|17:45|Recibo 244
+P01911|cuota|C0245|Boletería|Efectivo|12000|aprobado|2026-02-06|13:18|Recibo 245
+P01912|cuota|C0246|Boletería|Efectivo|12000|aprobado|2026-03-04|12:24|Recibo 246
+P01913|cuota|C0247|Boletería|Tarjeta de débito|12000|aprobado|2026-04-10|13:43|Recibo 247
+P01914|cuota|C0248|Boletería|Tarjeta de débito|12000|aprobado|2026-05-11|16:33|Recibo 248
+P01915|cuota|C0249|Boletería|Efectivo|9500|aprobado|2025-10-27|19:39|Recibo 249
+P01916|cuota|C0250|Boletería|Efectivo|9500|aprobado|2025-11-05|12:03|Recibo 250
+P01917|cuota|C0251|Boletería|Tarjeta de débito|9500|aprobado|2025-12-10|18:51|Recibo 251
+P01918|cuota|C0252|Boletería|Efectivo|12000|aprobado|2026-01-07|15:54|Recibo 252
+P01919|cuota|C0253|Boletería|Efectivo|12000|aprobado|2026-02-08|13:24|Recibo 253
+P01920|cuota|C0254|Boletería|Efectivo|12000|aprobado|2026-03-08|19:27|Recibo 254
+P01921|cuota|C0255|Boletería|Tarjeta de débito|12000|aprobado|2026-04-10|14:15|Recibo 255
+P01922|cuota|C0256|Boletería|Efectivo|12000|aprobado|2026-05-09|18:44|Recibo 256
+P01923|cuota|C0257|Boletería|Tarjeta de débito|12000|aprobado|2026-06-05|12:13|Recibo 257
+P01924|cuota|C0258|Boletería|Tarjeta de débito|12000|aprobado|2026-07-07|14:26|Recibo 258
+P01925|cuota|C0259|Boletería|Tarjeta de débito|12000|aprobado|2026-08-04|16:12|Recibo 259
+P01926|cuota|C0260|Boletería|Efectivo|12000|aprobado|2026-09-04|12:11|Recibo 260
+P01927|cuota|C0261|Boletería|Tarjeta de débito|9500|aprobado|2025-09-19|18:33|Recibo 261
+P01928|cuota|C0262|Boletería|Tarjeta de débito|9500|aprobado|2025-10-09|12:47|Recibo 262
+P01929|cuota|C0263|Boletería|Tarjeta de débito|9500|aprobado|2025-11-06|17:40|Recibo 263
+P01930|cuota|C0264|Boletería|Tarjeta de débito|9500|aprobado|2025-01-13|14:46|Recibo 264
+P01931|cuota|C0265|Boletería|Efectivo|9500|aprobado|2025-02-07|13:25|Recibo 265
+P01932|cuota|C0266|Boletería|Efectivo|9500|aprobado|2025-03-05|13:10|Recibo 266
+P01933|cuota|C0267|Boletería|Tarjeta de débito|9500|aprobado|2025-04-06|14:55|Recibo 267
+P01934|cuota|C0268|Boletería|Tarjeta de débito|9500|aprobado|2025-05-06|10:00|Recibo 268
+P01935|cuota|C0269|Boletería|Tarjeta de débito|9500|aprobado|2025-06-04|14:37|Recibo 269
+P01936|cuota|C0270|Boletería|Tarjeta de débito|9500|aprobado|2025-07-10|17:18|Recibo 270
+P01937|venta|V01667|PagoSeguro (externa)|Transferencia|66000|aprobado|2026-10-30|19:52|PS-90UOA2ZC68

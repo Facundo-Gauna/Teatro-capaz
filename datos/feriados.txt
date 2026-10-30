@@ -1,0 +1,46 @@
+# Teatro CaPaz S.A. — archivo de feriados
+# Campos: fecha | descripcion
+2025-01-01|Año Nuevo
+2025-03-03|Carnaval
+2025-03-04|Carnaval
+2025-03-24|Día de la Memoria
+2025-04-02|Malvinas
+2025-04-18|Viernes Santo
+2025-05-01|Día del Trabajador
+2025-05-02|Puente turístico
+2025-05-25|Revolución de Mayo
+2025-06-16|Paso a la Inmortalidad de Güemes
+2025-06-20|Día de la Bandera
+2025-07-09|Día de la Independencia
+2025-08-15|Puente turístico
+2025-08-17|Paso a la Inmortalidad de San Martín
+2025-10-12|Diversidad Cultural
+2025-11-21|Puente turístico
+2025-11-24|Soberanía Nacional
+2025-12-08|Inmaculada Concepción
+2025-12-25|Navidad
+2026-01-01|Año Nuevo
+2026-02-16|Carnaval
+2026-02-17|Carnaval
+2026-03-23|Puente turístico
+2026-03-24|Día de la Memoria
+2026-04-02|Malvinas
+2026-04-03|Viernes Santo
+2026-05-01|Día del Trabajador
+2026-05-25|Revolución de Mayo
+2026-06-15|Paso a la Inmortalidad de Güemes
+2026-06-20|Día de la Bandera
+2026-07-09|Día de la Independencia
+2026-07-10|Puente turístico
+2026-08-17|Paso a la Inmortalidad de San Martín
+2026-10-12|Diversidad Cultural
+2026-11-23|Soberanía Nacional
+2026-12-07|Puente turístico
+2026-12-08|Inmaculada Concepción
+2026-12-25|Navidad
+2027-01-01|Año Nuevo
+2027-02-08|Carnaval
+2027-02-09|Carnaval
+2027-03-24|Día de la Memoria
+2027-03-26|Viernes Santo
+2027-04-02|Malvinas

@@ -1,0 +1,10 @@
+Guardá acá las imágenes de las obras con el código de cada obra (ver datos/obras.txt):
+O1.jpg  El Último Telón
+O2.jpg  Risas en la Sierra
+O3.jpg  Tango de Medianoche
+O4.jpg  La Isla del Capitán Pimienta
+O5.jpg  Sin Filtro
+O6.jpg  Sinfonía de Verano
+O7.jpg  Casa de Muñecas Rotas
+O8.jpg  Brillantina
+Si una imagen falta, el sitio muestra el marco "Imagen no encontrada".

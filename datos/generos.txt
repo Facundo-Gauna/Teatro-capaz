@@ -1,0 +1,9 @@
+# Teatro CaPaz S.A. — archivo de generos
+# Campos: id | nombre | descripcion
+G1|Comedia|Obras de humor para toda la familia
+G2|Drama|Teatro de texto y producciones dramáticas
+G3|Musical|Comedias musicales y espectáculos con orquesta
+G4|Infantil|Funciones pensadas para chicos y chicas
+G5|Stand Up|Humoristas en vivo
+G6|Concierto|Música en vivo
+G7|Revista|La tradicional revista de temporada de Carlos Paz

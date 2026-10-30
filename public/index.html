@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Teatro CaPaz S.A. — Villa Carlos Paz</title>
+  <meta name="description" content="Cartelera, entradas y socios del Teatro CaPaz S.A., Villa Carlos Paz.">
+  <link rel="icon" type="image/png" href="img/teatro_capaz_logo.png">
+  <link rel="stylesheet" href="css/estilos.css">
+  <script>
+    // Aplica el tema guardado antes de pintar, para evitar el parpadeo
+    try {
+      var t = localStorage.getItem('capaz-tema');
+      if (t) document.documentElement.dataset.tema = t;
+    } catch (e) {}
+  </script>
+  <script src="vendor/chart.umd.min.js" defer></script>
+  <script src="vendor/jspdf.umd.min.js" defer></script>
+  <script src="vendor/qrcode.js" defer></script>
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <a class="saltar" href="#vista">Saltar al contenido</a>
+
+  <header class="cabecera" id="cabecera">
+    <div class="cabecera__in">
+      <a class="marca" href="#/" aria-label="Teatro CaPaz — inicio">
+        <span class="marca__placa"><img src="img/teatro_capaz_logo.png" alt="" width="217" height="199"></span>
+        <span class="marca__texto">Teatro <b>CaPaz</b><small>Villa Carlos Paz</small></span>
+      </a>
+      <nav class="nav" id="nav" aria-label="Principal"></nav>
+      <div class="cabecera__acciones">
+        <button class="boton-icono" id="btn-tema" type="button" aria-label="Cambiar a modo claro"></button>
+        <div id="zona-usuario"></div>
+        <button class="boton-icono nav-toggle" id="btn-menu" type="button" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav"></button>
+      </div>
+    </div>
+  </header>
+
+  <main id="vista" tabindex="-1">
+    <div class="cargando-inicial" role="status">
+      <span class="spinner"></span> Cargando la cartelera…
+    </div>
+  </main>
+
+  <footer class="pie" id="pie"></footer>
+
+  <div class="avisos" id="avisos" aria-live="polite" aria-atomic="false"></div>
+  <div id="capa-modal"></div>
+  <div class="tooltip-butaca" id="tooltip-butaca" role="tooltip" hidden></div>
+</body>
+</html>

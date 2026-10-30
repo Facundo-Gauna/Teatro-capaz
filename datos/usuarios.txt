@@ -1,0 +1,52 @@
+# Teatro CaPaz S.A. — archivo de usuarios
+# Campos: id | email | password | rol | tipoDoc | nroDoc | nombre | apellido | telefono | fechaNac | fechaAlta
+U001|admin@gmail.com|admin|admin|DNI|25000001|Alejandra|Villegas|3541 400100|1978-04-12|2024-11-01
+U002|boletero@gmail.com|boletero|boletero|DNI|36000002|Rubén|Cabrera|3541 400101|1991-09-03|2025-01-10
+U003|encargado@gmail.com|encargado|encargado|DNI|29000003|Verónica|Paz|3541 400102|1983-02-21|2024-12-01
+U004|socio@gmail.com|1234|cliente|DNI|30111222|Lucía|Fernández|3541 555010|1984-06-15|2025-02-03
+U005|deudor@gmail.com|1234|cliente|DNI|28444555|Martín|Gómez|3541 555011|1981-11-02|2025-03-12
+U006|cliente@gmail.com|1234|cliente|DNI|40222333|Sofía|Ramírez|3541 555012|1997-01-28|2026-05-20
+U007|benjamin.aguirre@gmail.com|1234|cliente|DNI|40490727|Benjamín|Aguirre|351 542 8699|1962-09-13|2026-01-07
+U008|lucia.benitez@gmail.com|1234|cliente|DNI|41207807|Lucía|Benítez|351 632 0967|2005-06-18|2025-05-13
+U009|ezequiel.gomez@gmail.com|1234|cliente|DNI|26164826|Ezequiel|Gómez|351 518 4271|1991-09-01|2026-01-17
+U010|martin.bustos@gmail.com|1234|cliente|DNI|40183720|Martín|Bustos|351 536 9671|1998-10-07|2025-01-13
+U011|gabriela.molina@gmail.com|1234|cliente|DNI|27057616|Gabriela|Molina|351 698 2615|1994-09-23|2025-06-17
+U012|gonzalo.acosta@gmail.com|1234|cliente|DNI|28826058|Gonzalo|Acosta|351 550 2675|2002-03-03|2026-05-02
+U013|facundo.lopez@gmail.com|1234|cliente|DNI|24568429|Facundo|López|351 685 6130|1990-03-02|2025-07-16
+U014|hernan.acosta@gmail.com|1234|cliente|DNI|35698762|Hernán|Acosta|351 493 5997|1960-09-19|2026-01-16
+U015|leandro.ortiz@gmail.com|1234|cliente|DNI|32182762|Leandro|Ortiz|351 400 6720|1983-09-01|2025-06-15
+U016|camila.alvarez@gmail.com|1234|cliente|DNI|33581687|Camila|Álvarez|351 577 4322|1996-03-19|2025-07-12
+U017|nicolas.lopez@gmail.com|1234|cliente|DNI|26537599|Nicolás|López|351 621 2654|2004-01-18|2025-06-12
+U018|agustina.fernandez@gmail.com|1234|cliente|DNI|44880130|Agustina|Fernández|351 567 0541|1984-07-13|2026-03-15
+U019|mateo.ruiz@gmail.com|1234|cliente|DNI|26512101|Mateo|Ruiz|351 538 0337|1997-02-11|2025-08-02
+U020|leandro.peralta@gmail.com|1234|cliente|DNI|20805464|Leandro|Peralta|351 444 0778|1996-05-17|2025-07-12
+U021|camila.rios@gmail.com|1234|cliente|DNI|30841423|Camila|Ríos|351 444 2531|1969-02-25|2025-06-24
+U022|pablo.vega@gmail.com|1234|cliente|DNI|21155742|Pablo|Vega|351 665 3981|1999-05-26|2025-05-08
+U023|lucia.molina@gmail.com|1234|cliente|DNI|22242640|Lucía|Molina|351 512 6821|1991-02-21|2025-10-11
+U024|marcos.castro@gmail.com|1234|cliente|DNI|35144484|Marcos|Castro|351 583 7345|1976-03-13|2025-04-03
+U025|martin.ledesma@gmail.com|1234|cliente|DNI|37549249|Martín|Ledesma|351 543 0706|1989-07-20|2025-03-16
+U026|milagros.molina@gmail.com|1234|cliente|DNI|22679076|Milagros|Molina|351 519 5346|1983-05-28|2025-09-07
+U027|natalia.romero@gmail.com|1234|cliente|DNI|26224590|Natalia|Romero|351 620 6534|1967-04-03|2025-10-27
+U028|mateo.gomez@gmail.com|1234|cliente|DNI|23916749|Mateo|Gómez|351 488 3141|2003-05-07|2025-09-19
+U029|rocio.perez@gmail.com|1234|cliente|DNI|45196944|Rocío|Pérez|351 524 5186|1967-05-16|2025-01-13
+U030|gonzalo.luna@gmail.com|1234|cliente|DNI|28356101|Gonzalo|Luna|351 561 9661|1986-05-10|2026-06-12
+U031|natalia.molina@gmail.com|1234|cliente|DNI|44956349|Natalia|Molina|351 691 8709|1981-11-09|2026-08-25
+U032|ignacio.gomez@gmail.com|1234|cliente|DNI|38256319|Ignacio|Gómez|351 674 4978|1983-03-12|2026-07-10
+U033|diego.quiroga@gmail.com|1234|cliente|DNI|34988985|Diego|Quiroga|351 517 5435|1992-12-20|2026-04-03
+U034|silvina.molina@gmail.com|1234|cliente|DNI|32046357|Silvina|Molina|351 407 3477|2003-09-22|2026-01-26
+U035|milagros.ruiz@gmail.com|1234|cliente|DNI|38593078|Milagros|Ruiz|351 624 7728|1974-07-22|2026-02-20
+U036|florencia.luna@gmail.com|1234|cliente|DNI|38917044|Florencia|Luna|351 600 9231|1967-04-04|2026-09-07
+U037|micaela.luna@gmail.com|1234|cliente|DNI|35690820|Micaela|Luna|351 559 8682|2003-09-17|2026-01-26
+U038|facundo.fernandez@gmail.com|1234|cliente|DNI|22087882|Facundo|Fernández|351 628 2900|2002-05-22|2026-01-02
+U039|julieta.benitez@gmail.com|1234|cliente|DNI|27017175|Julieta|Benítez|351 563 7915|1977-02-18|2026-05-17
+U040|valentina.molina@gmail.com|1234|cliente|DNI|44549535|Valentina|Molina|351 638 5806|2003-09-17|2026-03-26
+U041|natalia.peralta@gmail.com|1234|cliente|DNI|21940361|Natalia|Peralta|351 554 0165|1975-01-14|2026-04-06
+U042|pablo.perez@gmail.com|1234|cliente|DNI|38308578|Pablo|Pérez|351 474 7971|1967-04-18|2026-03-11
+U043|agustina.torres@gmail.com|1234|cliente|DNI|40090601|Agustina|Torres|351 597 7124|1981-05-07|2026-07-21
+U044|milagros.ponce@gmail.com|1234|cliente|DNI|42513568|Milagros|Ponce|351 661 9917|1997-06-11|2026-01-09
+U045|paula.alvarez@gmail.com|1234|cliente|DNI|40193862|Paula|Álvarez|351 421 2037|1997-11-05|2026-09-26
+U046|marcos.peralta@gmail.com|1234|cliente|DNI|28017058|Marcos|Peralta|351 639 4565|2002-08-21|2026-08-18
+U047|pablo.sosa@gmail.com|1234|cliente|DNI|30428984|Pablo|Sosa|351 411 9842|1980-09-11|2026-02-08
+U048|silvina.medina@gmail.com|1234|cliente|DNI|42334626|Silvina|Medina|351 494 8313|1981-09-03|2026-02-15
+U049|tomas.diaz@gmail.com|1234|cliente|DNI|29851954|Tomás|Díaz|351 680 1594|1993-03-01|2026-03-22
+U050|pablo.rios@gmail.com|1234|cliente|DNI|27716932|Pablo|Ríos|351 557 7859|1979-03-04|2026-02-18

@@ -1,0 +1,11 @@
+# Teatro CaPaz S.A. — archivo de configuracion
+# Campos: clave | valor | descripcion
+cuotaMensual|12000|Importe de la cuota mensual de socio (ARS)
+diaVencimientoCuota|10|Día del mes en que vence la cuota (se corre al primer día hábil si es inhábil)
+descuentoSocio|30|Porcentaje de descuento para socios con las cuotas al día
+cargoServicioOnline|10|Cargo por servicio de la venta online (% sobre el precio de lista)
+maxEntradasPorCompra|8|Cantidad máxima de entradas por operación
+reprogramarHorasAntes|48|Horas mínimas de anticipación para reprogramar una entrada
+reintegroTotalDias|15|Días de anticipación para reintegro del 100 % al cancelar
+reintegroParcialDias|7|Días de anticipación para reintegro del 50 % al cancelar
+minutosReserva|10|Minutos que se reservan las butacas mientras se espera el pago online

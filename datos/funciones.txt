@@ -1,0 +1,27 @@
+# Teatro CaPaz S.A. — archivo de funciones
+# Campos: id | obraId | salaId | fecha | hora | estado | imagen
+F01|O1|SA1|2026-10-09|21:00|finalizada|
+F02|O2|SA2|2026-10-10|21:30|finalizada|
+F03|O3|SA3|2026-10-17|21:00|finalizada|
+F04|O5|SA4|2026-10-24|22:30|finalizada|
+F05|O4|SA2|2026-10-25|17:00|finalizada|
+F06|O2|SA2|2026-11-07|21:30|programada|
+F07|O1|SA1|2026-11-13|21:00|programada|
+F08|O5|SA4|2026-11-14|22:30|programada|
+F09|O4|SA3|2026-11-22|17:00|programada|
+F10|O3|SA3|2026-11-28|21:00|programada|
+F11|O6|SA1|2026-12-12|21:00|programada|
+F12|O8|SA2|2026-12-19|21:30|programada|
+F13|O7|SA4|2026-12-26|21:00|programada|
+F14|O8|SA2|2027-01-08|21:00|programada|
+F15|O8|SA2|2027-01-08|23:30|programada|
+F16|O2|SA1|2027-01-08|21:00|programada|
+F17|O4|SA3|2027-01-12|17:00|programada|
+F18|O5|SA4|2027-01-15|23:00|programada|
+F19|O1|SA1|2027-01-16|21:00|programada|
+F20|O3|SA3|2027-01-22|21:30|programada|
+F21|O7|SA4|2027-01-23|21:00|programada|
+F22|O6|SA1|2027-01-30|21:00|programada|
+F23|O2|SA2|2027-02-05|21:30|programada|
+F24|O8|SA2|2027-02-06|21:30|programada|
+F25|O4|SA3|2027-02-09|17:00|programada|

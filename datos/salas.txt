@@ -1,0 +1,7 @@
+# Teatro CaPaz S.A. — archivo de salas
+# Campos: id | nombre | capacidad | caracteristicas | estado | motivo
+SA1|Sala 1|600|Platea baja y palcos en planta alta. Foso de orquesta.|habilitada|
+SA2|Sala 2|600|Platea baja y palcos en planta alta. Escenario giratorio.|habilitada|
+SA3|Sala 3|600|Platea baja y palcos en planta alta.|habilitada|
+SA4|Sala 4|600|Platea baja y palcos en planta alta. Sonido envolvente.|habilitada|
+SA5|Sala 5|600|Platea baja y palcos en planta alta.|inhabilitada|Mantenimiento de climatización

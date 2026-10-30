@@ -1,0 +1,8 @@
+# Teatro CaPaz S.A. — archivo de sectores
+# Campos: id | tipoUbicacionId | nombre | filaDesde | filaHasta | colDesde | colHasta | color
+SE1|TU1|Platea Preferencial|1|5|1|25|#c8962e
+SE2|TU1|Platea Central|6|10|1|25|#a3568f
+SE3|TU1|Platea Posterior|11|14|1|25|#5f7fbf
+SE4|TU2|Palco Central|1|10|7|19|#3f9a83
+SE5|TU2|Palco Lateral Izquierdo|1|10|1|6|#c46a4a
+SE6|TU2|Palco Lateral Derecho|1|10|20|25|#c46a4a

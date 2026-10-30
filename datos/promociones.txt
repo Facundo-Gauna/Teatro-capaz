@@ -1,0 +1,4 @@
+# Teatro CaPaz S.A. — archivo de promociones
+# Campos: id | nombre | tipo | valor | vigenciaDesde | vigenciaHasta | condicion | estado | descripcion
+PR1|Martes de Teatro|porcentaje|20|2026-08-01|2027-03-31|funcion-martes|activa|20 % en funciones de los martes
+PR2|Preventa de Verano|porcentaje|15|2026-08-01|2026-11-30|funcion-desde:2027-01-01|activa|15 % comprando antes del 1/12 para funciones de enero y febrero

@@ -1,0 +1,4 @@
+# Teatro CaPaz S.A. — archivo de tiposUbicacion
+# Campos: id | denominacion | planta | descripcion | desde | hasta
+TU1|Platea baja|Planta baja|Butacas numeradas del 1 al 350, en 14 filas de 25|1|350
+TU2|Palco|Planta alta|Ubicaciones numeradas del 1 al 250, en 10 filas de 25|1|250

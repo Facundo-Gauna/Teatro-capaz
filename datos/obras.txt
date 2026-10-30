@@ -1,0 +1,10 @@
+# Teatro CaPaz S.A. — archivo de obras
+# Campos: id | nombre | generoId | director | actores | pais | anio | duracion | clasificacion | sinopsis | imagen
+O1|El Último Telón|G2|Mariela Quiroga|Julieta Ferraro, Andrés Lucero, Paula Benítez|Argentina|2025|95|ATP|La noche en que un viejo teatro de pueblo baja el telón por última vez, su elenco decide contar la verdad que calló durante cuarenta temporadas.|imagenes/funciones/O1.jpg
+O2|Risas en la Sierra|G1|Tomás Ferreyra|Gaby Morales, Ricardo Soria, Vero Acuña|Argentina|2026|90|ATP|Dos familias alquilan por error la misma cabaña frente al lago San Roque. Nadie piensa irse.|imagenes/funciones/O2.jpg
+O3|Tango de Medianoche|G3|Laura Villafañe|Compañía Arrabal, Orquesta Típica del Lago|Argentina|2024|110|+13|Un musical de tango que recorre una noche porteña de 1945, con orquesta en vivo y doce bailarines.|imagenes/funciones/O3.jpg
+O4|La Isla del Capitán Pimienta|G4|Federico Arce|Elenco de Títeres del Sol|Argentina|2026|60|ATP|Un pirata que le tiene miedo al agua busca el tesoro más raro del mundo: un amigo de verdad.|imagenes/funciones/O4.jpg
+O5|Sin Filtro|G5|Nico Albarracín|Nico Albarracín|Argentina|2026|80|+16|Una hora y veinte de stand up sobre la vida en las sierras, los turistas y la familia.|imagenes/funciones/O5.jpg
+O6|Sinfonía de Verano|G6|Esteban Moyano|Orquesta Filarmónica de las Sierras|Argentina|2026|100|ATP|Grandes bandas sonoras del cine interpretadas por sesenta músicos en vivo.|imagenes/funciones/O6.jpg
+O7|Casa de Muñecas Rotas|G2|Carmen Ibarra|Lucía Montes, Diego Arrieta, Nerea Sanz|España|2023|105|+13|Producción internacional que relee un clásico del teatro moderno desde la mirada de tres generaciones.|imagenes/funciones/O7.jpg
+O8|Brillantina|G7|Marcelo Pereyra|Vedettes, humoristas y cuerpo de baile CaPaz|Argentina|2026|110|+13|La revista de la temporada: plumas, escaleras, humor y el gran final con toda la compañía.|imagenes/funciones/O8.jpg
